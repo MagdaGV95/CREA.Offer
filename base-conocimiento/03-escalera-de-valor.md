@@ -26,3 +26,10 @@ Precios: rangos de referencia del mercado hispano de infoproductos, por confirma
 ## Por confirmar
 - ¿El orden de los escalones es correcto?
 - ¿Qué productos existen ya y a qué precio?
+
+## Ajuste según Jun Yuh (modelo de negocio)
+Magda = **creadora basada en habilidad/coach**: audiencia pequeña (~2,000) + muy capacitada (licenciatura + maestría + 10 años) → **empezar por el high ticket** (escalón 3 / mentoría), no por el curso barato.
+- Con pocos seguidores, un curso de 17–47 USD necesita miles de vistas para dar ingresos; 3–5 clientas de mentoría sí son alcanzables.
+- El escalón 1 (CREA) se usa primero como **lead magnet gratuito** (guía/mini clase), no como producto.
+- Embudo inicial: reel/carrusel → comenta palabra clave → DM con guía CREA gratis → conversación por DM → llamada → mentoría.
+- El low ticket se activa cuando la audiencia crezca (modelo "creador experto").

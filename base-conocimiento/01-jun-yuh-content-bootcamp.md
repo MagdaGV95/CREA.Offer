@@ -234,3 +234,47 @@ Mezcla de imágenes y texto que lleva a la persona por un recorrido (ej. abrigos
 | Poco valor para quien lo ve | Mucho valor para quien lo ve |
 | Fácil de pasar de largo | Empieza con un hook fuerte |
 | Pasivo y olvidable | Lleva a la persona por un recorrido |
+
+## Las 4 misiones del contenido
+| Misión | Objetivo |
+|---|---|
+| 1. **Atraer** | Captar atención y traer gente nueva |
+| 2. **Nutrir** | Construir confianza y profundizar la conexión |
+| 3. **Posicionar** | Establecer autoridad y experiencia |
+| 4. **Convertir** | Convertir la atención en ingresos |
+
+Embudo de contenido: Atraer → Nutrir → Posicionar → Convertir. Hacia abajo aumentan la **confianza** y la **profundidad del valor**.
+
+### Misión 2 · Nutrir — 1. Mostrar la realidad
+- Detrás de cámaras sin filtro
+- Lo que estás viviendo/luchando **ahora mismo**
+- Contenido vulnerable e identificable (ej. Jun: "el dolor de la 'grandeza'")
+_Pendiente: puntos 2 y 3 de Nutrir y la misión Posicionar._
+
+### Ejemplo de contenido de conversión (Jun)
+Video a cámara + comentario fijado: *"¿Te apuntas? Comenta 'class' para unirte…"* → automatización por DM (ManyChat).
+
+### Ejemplo de video de valor: plan de estudio (Día 1 alcance → Día 2 debilidades 🔴 → Día 3 debilidades 🟡 + fortalezas 🟢)
+Formato "sistema paso a paso" con texto sobre fondo negro + su cara en esquina.
+
+## Modelo de negocio: habilidad + audiencia
+| Tipo de creador | Fórmula | Qué vender |
+|---|---|---|
+| **Basado en habilidad / coach / dueño de negocio** | Audiencia pequeña + muy capacitado | **High ticket** (alto precio) |
+| **Creador experto** | Audiencia grande + muy capacitado | Low ticket + high ticket |
+
+### Contenido de conversión según precio
+| Low ticket | High ticket |
+|---|---|
+| B-roll con valor rápido; tips o frameworks rápidos | Educación más profunda; requiere más convicción |
+| CTA: directo a página de venta; comenta palabra → link al producto → venta | CTA: lead magnet; conversaciones por DM; webinar / agendar llamada |
+
+## Diagnóstico para expertos y creadores
+| Dolor | Solución |
+|---|---|
+| Experta: tengo vistas pero no hay interés | El embudo correcto |
+| Experta: no me responden emails ni DMs | Método de nutrir y cerrar |
+| Experta: no llegan a las llamadas o desaparecen | Automatizaciones + guion de venta |
+| Creadora: no sé qué vender | El modelo de negocio correcto (low/high ticket) |
+| Creadora: tengo productos digitales pero pocas ventas | Arreglar el posicionamiento |
+| Creadora: no sé escalar a 100k/mes | Modelo de ecosistema |
