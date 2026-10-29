@@ -791,6 +791,11 @@ Secciones: 1) **Brief del video** · 2) **Preparación de grabación** · 3) **C
 > 1. Use un tono [formal/casual/educativo] · 2. Incluya transiciones naturales entre secciones · 3. Incorpore [humor/datos/anécdotas personales] para enganchar · 4. Responda posibles preguntas u objeciones de los espectadores · 5. Use frases cortas y fáciles de decir a cámara · 6. Incluya de forma natural un llamado a dar like y suscribirse.
 > Dale formato con espacios para leerlo fácil e incluye indicaciones como [pausa], [enfatiza] o [muestra ejemplo] donde corresponda.
 
+### Prompt: descripción de YouTube
+> Necesito una descripción para un video de YouTube sobre [tema]. Las palabras clave objetivo son [palabra clave 1, palabra clave 2]. Crea una descripción que incluya:
+> 1. Unas primeras 2–3 líneas que llamen la atención (visibles antes de "Mostrar más") e incluyan de forma natural las palabras clave · 2. Un resumen completo pero conciso del contenido · 3. Capítulos con marcas de tiempo para las secciones clave · 4. 3–5 palabras clave muy buscadas relacionadas con el video · 5. Links a los recursos mencionados en el video.
+> La descripción debe tener entre 150 y 200 palabras e incorporar las palabras clave de forma natural.
+
 ### Prompt: hooks de YouTube
 > Estoy creando un video sobre [tema]. Mi estilo es [adjetivos] y quiero enganchar a los espectadores en los primeros 15 segundos.
 > Dame: 1. 5 ideas de hook, cada una con un enfoque distinto (curiosidad · problema-solución · historia · estadística o dato impactante · pregunta) · 2. Un guion breve (2–3 frases) para cada hook · 3. Sugerencias de elementos visuales para cada uno · 4. Cómo hacer una transición fluida de cada hook al contenido principal.
