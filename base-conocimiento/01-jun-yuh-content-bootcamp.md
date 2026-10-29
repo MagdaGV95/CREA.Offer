@@ -180,3 +180,57 @@ Si la retención es buena, pasa a trabajar los shares.
 
 ### Embudo (visto en su ejemplo)
 Atraer → Nutrir → Posicionar → Convertir (la confianza aumenta hacia abajo).
+
+## Carruseles de storytelling
+Mezcla de imágenes y texto que lleva a la persona por un recorrido (ej. abrigos de invierno, "5 apps que uso para mi startup", tutorial de maquillaje en fotos).
+
+**¿Por qué enfocarse en carruseles?**
+1. Tienen más engagement que los reels (aunque los reels tienen más alcance).
+2. A tus seguidores se les muestran dos veces: si lo saltan, Instagram puede volver a mostrarlo empezando en la diapositiva 2.
+3. Al algoritmo le encantan porque retienen a la gente más tiempo.
+
+**Cómo hacer un buen carrusel**
+- Texto legible · la diapositiva 1 lleva un hook · el hook/texto más importante es el más grande
+- Visuales atractivos pero no saturados · una idea clave por diapositiva · añade música para aparecer en el feed de reels
+- Publica en vertical (ocupa el máximo espacio) · termina con un CTA · que sea reconociblemente tuyo
+
+**Señales clave:** 1) cuántas diapositivas desliza la gente · 2) calidad de los comentarios (significativos, no solo "lindo") · 3) cuántas veces se comparte (= valor).
+
+**Reto: carrusel tipo lista**
+- Diapositiva 1: hook con "por qué", "cómo", "X cosas" o "X razones" que haga deslizar
+- Siguientes: una lista o afirmaciones que conecten con el dolor y den solución o insight
+- Última: CTA para seguirte por más tips así
+- Todas las imágenes personales (tuyas), sobre todo la 1
+
+**Resumen de estrategia**
+| Tipo | Propósito | Señales | Acción |
+|---|---|---|---|
+| Carrusel | Engagement | Deslizamientos y comentarios | Hook + valor dirigido |
+| Reels | Descubrimiento | Tiempo de visualización y envíos | Mejores hooks + más valor |
+
+## Hooks
+**Hook:** algo que dices, haces o escribes en los primeros segundos para captar la atención y detener el scroll.
+| Tipo | Hook |
+|---|---|
+| Hablado | Lo que dices |
+| Visual | Lo que haces |
+| Escrito | Lo que escribes en pantalla |
+
+**Hooks hablados**
+| Tipo | Qué es | Ejemplo de tema |
+|---|---|---|
+| Punto de vista experto | Empiezas con autoridad antes de dar la solución | Mentalidad con base en psicología |
+| Positivo | Afirmación directa que promete un beneficio | Piel / belleza ("Cómo comer retinol") |
+| Negativo | Señala un riesgo, error o pérdida que la persona quiere evitar | Negocios |
+| Reconocible | Menciona a alguien/algo familiar para generar interés | Estilo masculino (corte "Cillian Murphy") |
+| Llamado a la audiencia | Nombra explícitamente a tu espectador ideal y su deseo | Nutrición deportiva infantil ("Antes de tu carrera") — **Jun: funciona en cualquier nicho** |
+| Pregunta | Abre un bucle de curiosidad | Salud / neurociencia ("¿Sabías que cada noche tu cerebro…?") |
+
+## Contenido malo vs. bueno (problema 1: "no sé qué es buen contenido")
+| Malo | Bueno |
+|---|---|
+| Centrado en ti | Centrado en la audiencia |
+| Sin estructura y vago | Estructurado y claro |
+| Poco valor para quien lo ve | Mucho valor para quien lo ve |
+| Fácil de pasar de largo | Empieza con un hook fuerte |
+| Pasivo y olvidable | Lleva a la persona por un recorrido |

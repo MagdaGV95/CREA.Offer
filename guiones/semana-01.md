@@ -1,6 +1,10 @@
 # Guiones — Semana 1
 
 Clienta: mamás casadas de niños de 0–6 años.
+## Carruseles (Jun: engagement)
+Añadir 2 carruseles a la semana (ej. martes y sábado) — ver `carruseles-01.md`.
+Reels = descubrimiento · Carruseles = engagement con quien ya te sigue.
+
 ## Planificador (formato Jun Yuh)
 | | Lun | Mar | Mié | Jue | Vie | Sáb (opcional) | Dom (opcional) |
 |---|---|---|---|---|---|---|---|
