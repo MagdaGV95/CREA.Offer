@@ -967,3 +967,53 @@ Cómo sacar muchas piezas de un solo tema combinando **formato + mensaje**:
 3. **"It's cringe until…"** — carrusel motivacional: lo que al principio da vergüenza suele terminar siendo de lo que más te enorgulleces ("…te pagan marcas en las que antes gastabas", "…te invitan a viajes de marca", @lisahoogendoorn). Reta el miedo al juicio.
 4. **"Money can't buy happiness"** — un solo B-roll con texto que aparece al ritmo: "El dinero no compra la felicidad, pero sí te compra educación, así que enfóquense, chicas" (@yhasmina.ferrara). Muy simple y efectivo.
 5. **"Out of my control vs…"** — un solo B-roll con texto: lo que no controlas (lo que otros dicen de mí, el pasado, el tiempo, eventos externos, comportamiento de otros) vs. lo que sí (mi diálogo interno, mi energía, mis límites, mi respuesta, mi actitud, autocuidado, cómo hablo y trato a otros, con quién paso mi tiempo) (@chclaireh).
+
+## Masterclass "Scrolling to Selling" — Día 1 (21 oct 2026, Zoom, Jun Yuh)
+### El problema del nicho
+- **Audiencia:** si te enfocas en un nicho con una audiencia pequeña, tarde o temprano te quedas sin compradores: audiencia pequeña → el lanzamiento funciona → lanzas otra vez → la misma gente → menos compradores → cambias tu oferta → todavía menos compradores → lanzas otra vez → lanzamiento fallido → se acaba el dinero → odias crear contenido.
+- **Potencial — la trampa de "ser conocida por una sola cosa"** (cuando te metes en una caja): eliges un tema → lo publicas un año → te siguen por el tema → evolucionas → creas sobre algo nuevo → a nadie le importa → tus vistas caen RÁPIDO → empiezas a perder seguidores → pierdes toda la motivación.
+- **En lugar del tema, TÚ debes ser lo constante.** Tus intereses pueden cambiar. Tu negocio puede cambiar. Tu contenido puede cambiar. Tu mensaje puede evolucionar. **Pero tú sigues siendo el hilo conductor.**
+
+### Mi marca personal (ejemplo de Jun)
+MI MARCA PERSONAL → **Habilidades** (storytelling que vende · construir disciplina · planear un lanzamiento) · **Pasiones** (mis gatitos · mi fe · mi comunidad) · **Pilar 3** (historia).
+
+### Cómo encontrar tus pasiones
+Las pasiones son las personas y cosas que amas. Así decide un desconocido si le caes bien, **y la gente le compra a quien le cae bien.** Pregúntate: **¿En qué gasto mi propio dinero?** · **¿Quién impulsa mi propósito?**
+
+### Cómo encontrar tu historia
+Las historias son los momentos que te cambiaron. **No tienen que ser dramáticas, vulnerables ni privadas.** Pregúntate: **¿Cómo llegué aquí?** · **¿Qué creía antes?**
+
+### Buen formato (checklist)
+- Empieza con un hook fuerte que despierte curiosidad.
+- Aporta valor con educación o con identificación.
+- Vuelve a enganchar a lo largo del video para que sigan viendo.
+
+### Formato a cámara — ejemplo bueno (@houseofyooni, skincare)
+- **Hook:** hook de dolor + hook visual.
+- **Valor:** mucho valor, educa sobre los productos.
+- **Re-hooks:** textos encima y productos físicos como utilería.
+
+### Tipos de carruseles de storytelling
+- **Mi historia** ("hasta que en 2022 decidí cambiar. Empecé a levantar pesas y 3 años después competí en mi primer show", @jaeheekoh).
+- **Lista numerada** ("14 señales de que tienes TDAH que dejarían en coma a una persona neurotípica", @iamalexandriamaria).
+- **Pantalla dividida** ("Para ser ella… / tuve que ser ella", @theerikacruz).
+
+### "Si yo fuera entrenadora fitness" — plantilla "dear younger me" (carrusel/reel de 6 clips)
+Texto: "querida yo más joven / no tienes idea / de cuánto tu vida / va a cambiar / creo que estarías / muy orgullosa".
+Clips: foto de cuando eras más joven → cuando eras principiante en el gym → luciendo poderosa corriendo → luciendo cansada en el gym → pasando tiempo con amigas → dando una clase de fitness.
+
+### Imagina 2 versiones de ti dentro de 3 meses (cierre de venta)
+- **La que hace scroll:** la misma falta de confianza · el mismo miedo del domingo en la noche · sigue viendo a otros hacerlo · sigue diciendo "empiezo el próximo mes" · hace cosas que no escalan ni crecen.
+- **La que construye:** una audiencia que conoce su nombre · ingresos que son de verdad suyos · habilidades que se acumulan cada día · su historia por fin contada · un impacto que se siente con propósito.
+
+### Oferta VIP 12 (estructura del programa, cohorte de 4 semanas)
+- Semana de preparación: 26 oct (primera llamada con Jun).
+- Semana 1 (2 nov) "Qué publicar" · Semana 2 (9 nov) "Formatos + edición para conseguir vistas" · Semana 3 (16 nov) "Cómo convertir vistas en clientes" · Semana 4 (23 nov) "Cómo escalar contenido + dinero más allá de 4 semanas" (llamada final con Jun).
+- Cada semana: hora de estrategia · retroalimentación de contenido · taller para crear contenido. **Compromiso realista: 3–5 horas por semana.**
+- Cierre: código QR "JOIN VIP 12" en pantalla + teléfono del equipo para inscribirse + cuenta regresiva.
+
+### Hooks: las 3 partes de un hook de 1M de vistas (reel de Jun)
+1. **Interrupción de patrón (3 s)** · 2. **Brecha de curiosidad (3–6 s)** · 3. **Ancla visual (10 s)**. "Hay 30 combinaciones específicas que he estado probando sin parar."
+
+### "De 0 a 100k con menos de 1 hora al día" (reel de Creator College)
+1. Minimiza el sobrepensar · 2. **Nunca crees desde cero** · 3. Compara la versión de alto y de bajo rendimiento de un formato · *bonus (no visible)*. Clave: **tu propio mensaje** sobre formatos probados.
