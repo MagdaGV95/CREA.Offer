@@ -40,8 +40,9 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 2. **Pasión — Movimiento y vida en familia/matrimonio:** taekwondo, disciplina, recargar energía para estar presente; tradiciones, valores, pareja como equipo.
 3. **Historia — La hija que rompió el patrón:** crecer viendo a su madre refugiarse en la comida tras una infidelidad; aprender a huir y refugiarse en la comida; rechazar y luego reconciliarse con su madre; acompañar su transformación (empezó a entrenar con Magda en mayo; bajó de 96 a 78 kg en 5 meses, como consecuencia y no como objetivo — une los pilares Historia + Pasión/movimiento); reconstruirse tras un abuso sexual sin acompañamiento.
 
-## Cliente ideal (propuesta)
-**Mamás (y parejas) de niños de 0 a 6 años que crecieron en hogares heridos y no quieren repetir la historia con sus hijos.**
+## Cliente ideal (confirmado)
+**Mamás casadas de niños de 0 a 6 años que crecieron en hogares heridos y no quieren repetir la historia con sus hijos.**
+- Perfil: 25–40 años, Latinoamérica/hispanohablante, casada; quiere un hogar en calma y un matrimonio unido.
 - Dolor: miedo a repetir los gritos, el silencio o la distancia que vivieron; no saber si su hijo les contaría algo grave; rutinas caóticas; agotamiento; pareja desconectada.
 - Deseo: un hogar en calma, hijos seguros y que confían en ellos, un matrimonio unido.
 - Secundario / futuro: comunidad de esposas (nutrición de marca y producto de ascenso).
