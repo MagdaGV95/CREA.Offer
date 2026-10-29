@@ -310,3 +310,55 @@ Ambos pueden crear contenido poderoso.
 |---|---|
 | "Estoy aprendiendo esto" | "Ya aprendí esto" |
 | Documentar aprendizajes, experimentos, errores, logros | Enseñar frameworks, lecciones, errores a evitar, consejos claros |
+
+### Usa el punto de vista de RECORRIDO si:
+- Estás aprendiendo una habilidad nueva · construyes algo desde cero · mejoras tu vida en un área específica · documentas tu progreso.
+- Ejemplos: estudiante, cambio de carrera, emprendedor nuevo, proceso de bajar de peso, sanando de una ruptura, aprendiendo un oficio.
+- **Objetivo:** mostrar logros · mostrar fracasos · documentar el progreso.
+- **Formatos ganadores:** vlog · voz en off · reto.
+
+### Usa el punto de vista EXPERTO si:
+- Te piden consejo · tienes credencial/título · años de experiencia · has dado una transformación a otros.
+- Ejemplos: proveedor de servicios, profesional (médico, abogado, terapeuta), dueño de negocio, **madre/padre (si das tips de crianza)**, mentor, coach.
+- **Objetivo:** construir autoridad · dar claridad · ofrecer una perspectiva única.
+- **Formatos ganadores:** pantalla verde (greenscreen) · pantalla dividida · demostración.
+
+### Recorrido bueno vs. malo (ej. renovación de casa)
+| | Malo (pocas vistas) | Bueno (muchas vistas) |
+|---|---|---|
+| ¿Recorrido claro? | ¿Por qué un cuarto terminado? | Problema claro → búsqueda |
+| ¿Visuales? | Solo muestra el "después" | Orienta de inmediato con el "antes" |
+| ¿Te engancha? | "Ok, bonito." | "¡Me muero por ver cómo queda!" |
+
+### Experto bueno vs. malo
+| | Malo | Bueno |
+|---|---|---|
+| ¿Digerible? | Difícil de ubicar | Análisis experto |
+| ¿Visuales? | Aparecen muy tarde | Contexto inmediato |
+| ¿Estructura? | Aleatoria | Consejos en lista |
+
+"Documenta primero, crea después."
+
+### Plan de contenido — RECORRIDO
+| | Lun | Mar | Mié | Jue | Vie | Sáb | Dom |
+|---|---|---|---|---|---|---|---|
+| Idea | Día X aprendiendo a… | Un día en la vida de… | 5 cosas que estoy aprendiendo a la mala sobre… | Contar tu historia | ¿Es posible…? | "Soy una (profesión) de X años y no me avergüenza admitir que…" | Avance semanal hacia la meta… |
+| Formato | Voz en off | Vlog | Sin hablar (valor en pie de foto) | Storytelling silencioso | Reto | Sin hablar (valor en pie de foto) | Voz en off |
+| Duración | 40–60 s | 40–60 s | 7–10 s | 40–60 s | 60–90 s | 7–10 s | 40–60 s |
+
+### Plan de contenido — EXPERTO
+| | Lun | Mar | Mié | Jue | Vie | Sáb | Dom |
+|---|---|---|---|---|---|---|---|
+| Idea | Framework de 3 pasos | 5 cosas que nunca harías como… | Opinión contraria | Reaccionar a otro video | Contar tu historia | Compartir tu mentalidad | "Soy una (profesión) de X años y no me avergüenza admitir que…" |
+| Formato | Demostración | Sin hablar (valor en pie de foto) | Hablando (a cámara) | Pantalla verde | Storytelling silencioso | Pantalla dividida | Sin hablar (video con texto) |
+| Duración | 40–60 s | 7–10 s | 40–60 s | 1–2 min | 40–60 s | 20–40 s | 7–10 s |
+
+### Buenas prácticas (series)
+- No te comprometas a una serie diaria · evita temas ultra-específicos · publícala semanalmente · repite los hooks ganadores.
+
+### Reto: crear una serie insignia repetible
+1. Identifica si crearás desde el punto de vista de recorrido o experto.
+2. Elige un tipo de serie ganadora.
+3. Etiqueta a @creatorcollege_.
+
+**Series insignia de experto (ejemplos):** clasificaciones a ciegas ("blind rankings") · "Lecciones de ___" · "Si yo fuera su coach" · serie de preguntas frecuentes (FAQ).
