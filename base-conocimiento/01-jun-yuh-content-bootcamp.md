@@ -668,3 +668,64 @@ _(Escenario 2 no aparece en las capturas; probablemente: el creador que solo atr
 ### ¿Con qué frecuencia publicar cada misión? Depende de tu etapa
 - **Aspirante:** 0–10k · **Emergente:** 10k–100k · **Avanzado:** 100k+.
 - **Calendario de misiones (semanal):** ATRAER 2x · NUTRIR 1x · POSICIONAR 2x · CONVERTIR 2x → **maximiza posicionar y convertir.**
+
+## Guion de notas de voz por DM para high ticket (documento de Jun)
+### Nota de voz 1 — primer contacto
+1. **Intro:** "Hola (nombre), espero que estés muy bien, solo quería saludarte."
+2. **Felicitar:** "Quiero felicitarte por tu éxito." (menciona un logro personal que hayas visto)
+3. **Calificar + halagar:** "Te escribo porque mi equipo preselecciona a creadores en los que ve gran potencial… luego reviso a fondo su contenido para ver si encajarían en nuestro grupo."
+4. **Establecer experiencia:** quién está detrás (tú, socio, equipo + nombres/credenciales); "queremos dar la experiencia más personalizada".
+5. **Compartir propósito:** "Queremos dar la experiencia más personalizada de 4 semanas para quienes van muy en serio con crecer y monetizar, y creo que encajarías muy bien."
+6. **Transparencia de precio:** "Es nuestra oferta más premium, de $4k." → **Puedes dar precio de preventa (early bird) a los preseleccionados.**
+7. **Acceso + valor:** "Esto te da acceso a todo lo de la plataforma, que es (valor)."
+8. **CTA:** "Avísame si te interesa."
+9. **Cerrar con cariño:** "¡Orgulloso de ti y de todo el éxito que has tenido hasta ahora! Mucha suerte."
+
+### Nota de voz 2 — cuando muestran interés
+1. Crear conexión: responde a algo que dijeron, repíteselo.
+2. Comparte algo de tu historia relacionado con lo que dijeron; demuestra que entiendes.
+3. "Cuando pienso en mi recorrido, cuando yo tenía (lo que ellos tienen hoy), desde fuera parecía que todo iba bien, pero yo tenía [ambición sin dirección] y eso me daba mucha ansiedad."
+4. Las preguntas que tu clienta ideal tiene hoy ("¿cómo sigo creciendo? ¿cómo lo hacen otros? ¿cómo monetizo bien?") → conecta y demuestra que la entiendes.
+5. "Como tuve que hacerlo sola, hoy me siento bendecida de poder acompañar a quienes luchan con lo mismo que yo luché."
+6. "Y esa es una gran razón por la que hago (nombre del programa)."
+7. Detalles de la oferta: duración (4 semanas), qué incluye (lun–vie, 1–2 clases al día), no es obligatorio asistir a todo, temas (marca personal + sistemas)…
+_(El resto de la nota 2 se corta en la captura.)_
+
+## Cómo funciona el algoritmo de Instagram
+Instagram usa un sistema de "ranking" distinto para cada función:
+- **Historias:** gente que conoces / relaciones cercanas.
+- **Reels:** descubrimiento y audiencias nuevas.
+- **Carruseles:** mezcla de seguidores y contenido sugerido.
+Usa señales para decidir a quién mostrar tu contenido (seguidores y no seguidores):
+| Señal | Qué mide |
+|---|---|
+| Interés | Qué tan probable es que al usuario le importe, según su comportamiento pasado |
+| Relación | ¿Ha interactuado contigo antes? DMs, comentarios, vistas de historias |
+| Actualidad | Los posts nuevos se priorizan |
+| Info del contenido | De qué trata el post (palabras clave) |
+| Popularidad | Cuánta gente interactúa y qué tan rápido |
+| Formato y contexto | Cuánto lo ven, si deslizan o se quedan |
+**La verdad del algoritmo:** tanto en alcance conectado (seguidores) como no conectado (no seguidores) mide: ¿cuánto lo verán? (tiempo promedio de visualización) · ¿le darán like? (likes totales) · ¿lo compartirán por DM, historia o repost? (compartidos).
+**Buenas señales = más vistas → lo vuelve a promover → más vistas** (en ambos alcances).
+
+## Ejemplos de referencia (Creator College)
+- **Tu historia: dolor, búsqueda y recompensa** (cómo presentar los dolores y deseos psicográficos): instagram.com/p/DPQF5plDOl0 · /reel/DTxuk5MkR9e · /p/DHaltiaNjH0 ("2025: defendiendo que la gente se mueva por su mente y su cuerpo") · /reel/DUECrOJkRPs ("Es hora de dejar de ignorar los síntomas").
+- **Pilares de contenido: habilidades, punto de vista experto:** /p/DIU10uwBUjZ · /reel/DVL4yOBjAl1 ("Ansiosa: camina") · /p/DV_R0_7k-tZ · /reel/DJj51R5MAaW.
+
+## 4 tipos de carruseles para publicar
+1. **Preséntate** (ej. /p/DSlD-HZiLoF, /p/DWvpljiDGVs, /p/DPzBmebjGM0, /p/DO2SZv2jTez)
+   - Diapositiva 1: imagen personal con "hola, soy <nombre>".
+   - Siguientes: tu historia (quién eres, elementos del "qué" de tu Visión de Creadora) y presenta todos tus pilares, para que sea obvio quién eres y qué recibirán de ti.
+   - Se hace en Canva o directo en Instagram · **post fijado perfecto** · el pie de foto puede ser largo.
+2. **Comparte tus habilidades / da valor o educación** (ej. /p/DSniMpBDrbN, /p/DTxbE_PCKeg, /p/DRTRHE5koTl, /p/DJ9je4KlQFv)
+   - 1: hook · 2: problema · 3: insight/solución · 4 en adelante: X tips de valor · última: CTA.
+3. **Lista (identificable)** (ej. /p/DT_ulShifP4, /p/DTqlL5pCKwD, /p/DRUw5mkkQ6L, /p/DKCkYqVR6zs) — ver reto de carrusel lista.
+4. **Pantalla dividida** (ej. /p/DT7aHkrDPh4, /p/DQASZzpje-G)
+   - Mensaje de "antes" o "después" · "expectativa vs. realidad" · "2016 vs. 2026".
+
+## Tips de búsqueda y descubrimiento (directo de YouTube)
+Enfócate en lo que le gusta a tu audiencia; si la gente lo ve, las recomendaciones llegan. **El algoritmo no presta atención a los videos, presta atención a los espectadores** → haz videos que hagan felices a tus espectadores.
+3 factores que explican de dónde viene tu audiencia:
+1. **Interés en el tema:** cuántas personas en el mundo se interesan por ese tema; algunos temas tienen más alcance y eso cambia con el tiempo.
+2. **Competencia:** YouTube compara tu video con los de todos los canales que ve el espectador; aunque tus métricas sean buenas, puedes tener menos impresiones si otros rinden mejor.
+3. **Temporada:** el tráfico cambia según la época del año; piensa en el país de tu audiencia y en lo que pasa en sus vidas; espera variaciones en fechas festivas.
