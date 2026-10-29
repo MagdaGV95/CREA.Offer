@@ -10,7 +10,6 @@
 ## Ideas "Mostrar la realidad" (Nutrir)
 - "Hoy discutí con mi esposo y esto fue lo que hice diferente." (Ser: autocontrol)
 - Detrás de cámaras de preparar la sesión con mamá y suegra.
-- "Organizando mi alacena: así aplico la E de Estructura en casa." (usa el B-roll de la alacena)
 - "Hay días en que todavía busco la comida cuando estoy triste. Hoy fue uno." (con cuidado, desde la cicatriz)
 
 ## Primer video de CONVERTIR (high ticket)
