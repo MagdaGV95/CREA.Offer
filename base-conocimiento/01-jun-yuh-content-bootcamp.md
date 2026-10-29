@@ -547,3 +547,48 @@ Ejemplo (@myriadrecipes): personalidad/valores/experiencia · quién eres y qué
 
 ### Destacadas y playlists
 Las destacadas de Instagram y las playlists de TikTok aseguran que quien llega a tu perfil tenga la primera impresión correcta de quién eres (ej. "tutoriales a fondo", "It Girl tutorials", "bts + brain dumps").
+
+### Posts fijados
+Muestran a marcas y nuevos usuarios tu mejor contenido y el que mejor representa tu marca personal. Fija contenido que: **mejor rendimiento** · **cuenta tu historia** · ejemplo de tu contenido típico (puede ser uno por pilar) · un evento / tu marca / producto digital.
+
+### Guía de perfil y bio de Jun Yuh ("Scrolling to Selling", recurso gratuito)
+**"Tu perfil es tu primera página de venta."** Cuando un video funciona, la gente entra a tu perfil para decidir si te sigue, da clic o compra; tienes segundos para decir quién eres, qué haces y qué hacer después. Pasos: 1) abre tu perfil junto a la guía · 2) revisa los 8 puntos · 3) **arregla primero el CTA** (si cambias una sola cosa hoy, que sea un CTA claro hacia tu oferta).
+**Los 8 esenciales (ej. @ellasmithfit):**
+1. **Foto de perfil:** clara y que represente tu contenido.
+2. **Nombre:** fácil de leer, con palabras clave para aparecer en búsquedas ("Ella | Gym tips & fitness").
+3. **Categoría:** categoría de creador para que sepan al instante qué haces ("Fitness trainer").
+4. **Descripción:** di claramente qué haces con palabras clave de tu contenido.
+5. **Personalidad:** tus peculiaridades o valores; ¿qué te hace única? ("1% better every day").
+6. **Email:** para que las marcas te contacten fácil.
+7. **CTA:** dile qué hacer después ("Get fit in 30 days ↓").
+8. **Links:** hasta 5 (otras redes, tienda, web).
+**Tips extra:** sin tipografías especiales · emojis como separadores para que se lea fácil · **un CTA más fuerte nombra un dolor común de tu audiencia.**
+Destacadas del ejemplo: Recetas · Rutinas · Resultados · Tienda.
+
+## Metas (Creator College)
+1. Que tus metas sean específicas y realistas · 2. Ingeniería inversa de las acciones necesarias · 3. Pon una fecha límite · 4. Mide tu progreso.
+
+## Investigación de formatos (Stefan Khuc)
+- Ejemplo: formato probado de otra industria ("This or That? 610 calorías vs. 610 calorías"). No tienes que usar la misma canción ni estilo: **distinto tema, canción y visuales, pero mismo formato** (comparación y cambio de perspectiva).
+- **Lo único a tener en cuenta:** 1) se trata de entender patrones, no copiar el video · 2) formatos que funcionaban antes pueden no funcionar hoy · 3) los formatos evolucionan constantemente · 4) la investigación debe ser constante.
+
+## Producir por lotes
+| Preproducción | Producción | Postproducción |
+|---|---|---|
+| Ideas, investigar formatos · convertir ideas en guion filmable para no repetir tomas | Grabar A-roll y B-roll | Editar · escribir pies de foto · programar |
+
+**Semana ejemplo:** Viernes (investigar): revisar rendimiento de lo publicado + escribir 7 ideas con tu Visión de Creadora · Sábado (guiones): investigar formatos (opcional) + guionizar todo (texto y material de video necesario) · Domingo (grabar): grabar por lotes y recolectar B-roll · Lunes y martes (editar): 2–3 videos cada día · Miércoles (programar): terminar de editar y programar la semana siguiente · Jueves (descanso): reflexionar / trabajar en estrategia.
+
+## Reutiliza tu contenido
+| B-roll | Formato | Mensaje | Resubir |
+|---|---|---|---|
+| Reusa los mismos clips en varias piezas | Mismo formato, mensaje nuevo | Mismo mensaje, otro formato | Resube tus mejores piezas |
+- **Reformatear:** cambia el formato, mantén el mensaje (ej. carrusel → reel de película silenciosa estilo lista).
+- **Re-mensaje:** cambia el hook, texto y valor; mantén el formato y la edición (ej. "cómo estudiar cuando estás mentalmente cansado" 11.9M → "cómo ganar dinero con $0 como estudiante" 7M, mismo set).
+- **Resubir:** vuelve a subir tus videos con mejor rendimiento después de **2–4 meses** para ganar vistas extra (Jun resubió "2013: y mi mamá se fue a Corea sin despedirse" varias veces: 3.9M, 4.4M, 902.9K, 709.2K).
+
+## Feed vs. historias (Jun, "Scrolling to Selling")
+Misma fase, distinto trabajo:
+- **Feed = probar la idea:** enseñar · cambiar creencias · mostrar experiencia · llegar a gente nueva.
+- **Historias = meterlos en la construcción:** mostrar el proceso · hacer preguntas · compartir decisiones · pedir opinión · mostrar avances.
+"Hacía que la audiencia fuera parte de crearlo" → cero resistencia a la venta.

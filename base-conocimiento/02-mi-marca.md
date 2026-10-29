@@ -74,3 +74,11 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 - **Feedback de la clase:** les gustó la primera línea, "Niños seguros crecen en familias conectadas".
 - Bio actual (oct 2026, vía vidIQ): "🌱 El hogar que sueñas empieza contigo / ❤️ Las grandes familias se crean con pequeñas victorias / 🍎 Maestra | +10 años acompañando familias / 👇Empieza aquí" — 855 seguidores.
 - Nota: los seguidores no han crecido de forma notable entre una bio y otra (878 → 855).
+
+## Notas a mano de Magda — "Personal Brand · High intensity" (ideas de formato por elemento de su Visión de Creadora)
+- QUÉ – Habilidad → coaching → **pantalla verde**
+- QUÉ – Perspectiva → **sketch**
+- QUÉ – Estilo de vida → **película silenciosa**
+- QUÉ – Pasión → **voz en off**
+- QUIÉN – Demográfico → **a cámara con overlays**
+- QUIÉN – Psicográfico → **sketch**
