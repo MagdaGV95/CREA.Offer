@@ -52,5 +52,15 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 - El abuso: dosificar; no es necesario dar detalles para transmitir el mensaje.
 - Posicionamiento educativo, no clínico: ante TCA, abuso o crisis, remitir a profesionales de la salud mental.
 
+## Situación actual (oct 2026)
+- Cómoda hablando a cámara: **sí**.
+- Seguidores: TikTok 709 · Instagram 855 (le cuesta mantener y crecer) · YouTube 309 · Facebook 124 · Threads 29 · LinkedIn 3.
+
+### Plataformas (recomendación)
+- **Principal: Instagram** (donde está su clienta, venta por DM, comunidad).
+- **Alcance: TikTok** (descubrimiento rápido).
+- **Reciclaje automático:** el mismo vertical a YouTube Shorts y Facebook Reels.
+- **En pausa:** Threads y LinkedIn.
+
 ## Datos por confirmar
-- Oferta/producto y precio, plataformas, seguidores actuales, formato en cámara.
+- Oferta/producto y precio; usuario de IG/TikTok para análisis.
