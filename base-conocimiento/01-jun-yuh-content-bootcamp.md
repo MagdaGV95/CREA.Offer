@@ -143,7 +143,40 @@ Tabla semanal con 3 filas por día: **IDEA · ESTILO · INTENSIDAD**.
 
 ### Storytelling silencioso (formato viral de Jun)
 **TEXTO + CLIPS DE VIDEO + MÚSICA.**
-_Pendiente: el desglose paso a paso del formato (siguientes diapositivas)._
+
+1. **Empieza con la lucha** (ruptura, agotamiento, problemas de dinero…). Por qué funciona: los humanos conectamos con las luchas de otros.
+2. **Usa un sonido con acción ascendente** (música que crece). Implica una transformación, despierta interés y mantiene a la gente viendo.
+3. **Añade una marca de tiempo** ("2013: y mi mamá se fue sin despedirse…"). El texto es hook visual e insinúa un desenlace.
+4. **Perfecciona el ritmo:** si no puedes leer una línea en voz alta a tiempo, el espectador tampoco → se va.
+
+**Reto de Jun:** formato "Tengo X años y me da vergüenza admitir que…". Hazlo tuyo contando tu historia; pon en el pie de foto las luchas que superaste (grandes o pequeñas). Ser vulnerable aporta muchísimo valor.
+
+## Diagnóstico: los 3 dolores del creador
+| Dolor | Síntoma | Causa real |
+|---|---|---|
+| Publicas pero hay poco engagement | Meses sin crecer | Confusión por consejos contradictorios |
+| | "Cárcel de 200 vistas", "el algoritmo me odia" | Publicaciones sin coherencia ni estrategia |
+| | Vistas pero no seguidores | Perdiste confianza y estás quemada |
+| Quieres hacerlo pero no tienes tiempo | Muchas ideas pero te congelas al grabar | No tienes un plan cohesivo |
+| | Trabajo de tiempo completo | Sin sistema para aprovechar 15 minutos |
+| | Familia, sin tiempo para grabar | No grabas por lotes ni reutilizas |
+| Quieres dinero pero no vendes | Pocos leads, clientes o atención | Sin posicionamiento estratégico |
+| | Baja conversión | Malas landing pages y embudos |
+| | Miedo a sonar vendedora | Construiste la audiencia equivocada |
+
+## Embudo (Shan Hani, Creator College)
+1. **Atención** — contenido sobre tu habilidad + historia (YouTube, IG, TikTok, X). Otras vías: anuncios, referidos, alianzas, PR, email.
+2. **Mostrar tu habilidad** — que desconocidos te vean como experta: lead magnets gratis (PDF, doc de Notion, webinar, mini curso), email, DM.
+3. **Nutrir para convertir** — 7 días de emails, landing page, agendar una llamada.
+4. **Cliente nuevo** — oferta de 1,000–20,000 USD.
+
+## Métricas: STOP → STAY → SHARE (en ese orden)
+Muchas métricas (seguidores, likes, guardados, comentarios, visitas al perfil) tapan la cima. Analiza:
+1. **¿Detengo el scroll?** → **Skip rate**: % que se va en los primeros 3 s. Compararlo con tu promedio típico (ej. 39% vs 62% típico = bueno; 73.8% vs 47.9% = mejorar hooks).
+2. **¿Se quedan?** → **Retención** = tiempo promedio de visualización ÷ duración del video (ej. 10 s / 46 s = 21%).
+3. **¿Comparten?** → **Shares/envíos por alcance**. Adam Mosseri (CEO de Instagram, dic 2025): "los envíos por alcance se correlacionan con el alcance total más que cualquier otra cosa". Se mejoran nombrando un **dolor específico** y dando una **solución accionable**.
+Si la retención es buena, pasa a trabajar los shares.
+
 
 ### Embudo (visto en su ejemplo)
 Atraer → Nutrir → Posicionar → Convertir (la confianza aumenta hacia abajo).

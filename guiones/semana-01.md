@@ -51,23 +51,22 @@ Ver guion completo #1 (mamá: de 96 a 78 kg en 5 meses, entrenando juntas desde 
 
 ---
 
-## Jueves · Pasión — "Entreno a mi mamá y a mi suegra" (sin hablar)
-**Formato:** B-roll + texto + audio emocional en tendencia · 15–20 s · baja intensidad
-Estructura real de la sesión: calentamiento → movilidad → fuerza → estiramientos con yoga → respiración intencional.
+## Jueves · Pasión — "Entreno a mi mamá y a mi suegra" (storytelling silencioso, formato Jun)
+**Formato:** texto + clips + música con acción ascendente · 15–20 s · alta intensidad
+Ritmo: cada texto debe poder leerse en voz alta mientras está en pantalla (~2–3 s por línea).
 
-| Clip | Texto en pantalla |
-|---|---|
-| Las tres llegando con tapetes | "Cada semana entreno a mi mamá y a mi suegra" |
-| Calentamiento / movilidad | "Mi mamá empezó en mayo" |
-| Fuerza (ellas con mancuernas, tú corrigiendo) | "No para bajar de peso" |
-| Yoga / estiramientos | "Para estar bien… y estar juntas" |
-| Respiración con ojos cerrados, las tres | "El movimiento sana lo que las palabras no alcanzan" |
+| # | Clip | Texto en pantalla (con marca de tiempo) |
+|---|---|---|
+| 1 · Lucha | Foto/video antiguo de tu mamá o de ustedes (sin mostrar el cuerpo) | **"2009: mi papá le fue infiel a mi mamá y ella se refugió en la comida"** |
+| 2 · Lucha | Tú sola, de espaldas, en una ventana | **"Yo crecí copiando su manera de huir"** |
+| 3 · Giro | Tú dejando un tapete de yoga frente a su puerta / tocando el timbre | **"Mayo 2026: la invité a entrenar conmigo"** |
+| 4 · Ascenso (la música sube) | Calentamiento → fuerza con mancuernas → tú corrigiendo | **"Después se nos unió mi suegra"** |
+| 5 · Clímax | Las tres respirando con ojos cerrados / abrazo | **"5 meses después ya no entrenamos para bajar de peso… entrenamos para estar juntas"** |
 
-**Pie de foto:** 3 líneas: quiénes son, desde cuándo, qué ha cambiado (sin cifras de peso). Cerrar con la frase de marca.
-**Portada:** las tres en los tapetes en postura de yoga, plano abierto, luz natural. Texto: **"Entreno a mi suegra"**.
-**Pendiente:** permiso de mamá y suegra.
-
-**Serie derivada:** "Entrenando con mi mamá y mi suegra · semana X" (un ejercicio por video con su beneficio).
+*(Ajusta el año real de la línea 1.)*
+**Pie de foto:** las luchas superadas en 3–4 líneas + "El hogar que sueñas comienza contigo. ¿A quién invitarías a moverse contigo? Envíaselo."
+**Portada:** las tres en los tapetes, plano abierto, luz natural. Texto: **"Entreno a mi suegra"**.
+**Pendiente:** permiso de mamá y suegra; año exacto.
 
 ---
 
@@ -82,3 +81,20 @@ Estructura real de la sesión: calentamiento → movilidad → fuerza → estira
 | 35–45 s · CTA | "¿Cuál agregarías tú? Envíaselo a tu esposo y háganlo juntos." | Texto: **Envíaselo a tu esposo** |
 
 **Portada:** tus manos y las de tu esposo firmando una hoja sobre una mesa de madera; plano cenital, luz de ventana. Texto: **"El contrato de mi familia"**.
+
+---
+
+## Reto Jun · "Tengo __ años y me da vergüenza admitir…" (domingo)
+**Formato:** sin hablar — un solo plano tuyo mirando a cámara o con ojos cerrados, música suave ascendente · 8–12 s · baja intensidad
+
+**Texto en pantalla:**
+> "Tengo __ años y me da vergüenza admitir que por mucho tiempo rechacé a mi mamá por la misma herida que yo cargaba."
+
+**Pie de foto (las luchas):**
+- Crecí viendo a mi mamá refugiarse en la comida después de una infidelidad.
+- Aprendí a huir y a hacer lo mismo.
+- La juzgué cuando se fue a buscar ayuda; hoy sé que fue lo más valiente que hizo.
+- En mayo la invité a entrenar conmigo. Hoy entrenamos juntas.
+- Un paso imperfecto a la vez. El hogar que sueñas comienza contigo.
+
+**CTA:** "Si tú también estás sanando con tu mamá, escribe 🤍."
