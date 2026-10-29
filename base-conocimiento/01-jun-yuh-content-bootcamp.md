@@ -487,3 +487,28 @@ Tu "estrella del norte" · mensajes consistentes · contenido con propósito · 
 - **Overlays:** el b-roll y el texto suman en vez de distraer. ¡Incluye subtítulos!
 - **Encuadre:** bien iluminado, sin que los íconos de la app tapen nada.
 - **Duración:** 35–90 s en general.
+
+## Embudo de ecosistema (Shan Hani, evento Creator College)
+**Fuentes de atención:** contenido orgánico (YouTube, IG, TikTok, LinkedIn, X) · anuncios pagados ($$$) · referidos · alianzas.
+
+| Meta | Oferta | Precio / ejemplos |
+|---|---|---|
+| 1. Captar atención | Contenido | — |
+| 2. Conseguir el email (o DM) | **Lead magnet** → lista de correos | Gratis · $1 · webinar · masterclass · libro |
+| ↓ CONVERTIR | | |
+| 3. Convertir en cliente y mostrar tu valor | **Low ticket** (pago único) | $19–$499 · suscripción · $7–$39 |
+| ↓ UPSELL | | |
+| 4. Vender tu producto principal ("lo de verdad") | **High ticket** (pago único) | $499–$10k · curso · comunidad |
+| ↓ UPSELL | | |
+| 5. Maximizar ingresos con formación profunda | **Mastermind** / cohorte | $2.5k–$20k |
+| ↓ UPSELL | | |
+| 6. Mayor retorno de tu tiempo | **Coaching 1:1** / servicio "hecho por ti" (DFY) | $10k+ |
+Cada escalón requiere más tiempo y confianza.
+
+## ¿Qué esperar al final de las 4 semanas?
+- **No pueden ser metas:** 50,000 seguidores en 28 días · volverse viral sin estrategia · vender 10k sin audiencia · 1 millón de vistas.
+- **Sí pueden ser:** publicar con constancia · definir tu estrategia y Visión de Creadora · definir tus pilares de contenido · publicar contenido de valor que conecte con tu audiencia · crear un plan y estrategia de monetización · definir y construir tus embudos de venta.
+
+## Media Kit (Molly Rees, Creator College)
+**Lo usarás cuando:** una marca te contacte para colaborar y pida tu experiencia o estadísticas · negocies con una marca y necesites comunicar tu valor · te ofrezcas a marcas y necesites presentar tu valor y contenido de forma profesional.
+**Esenciales:** introducción (breve: qué tipo de contenido haces) · ejemplos de contenido (de tus pilares y donde las marcas imaginen su producto) · colaboraciones previas y testimonios · estadísticas clave (vistas, likes, etc.) · demografía de la audiencia (edad, género, ubicación) · contacto y links (que funcionen) + email.
