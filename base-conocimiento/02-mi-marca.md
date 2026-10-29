@@ -23,7 +23,15 @@ Respuestas a las 4 preguntas de Jun Yuh:
 | **A** | Autonomía | Desarrollar la capacidad de hacerlo por sí mismo, dando pasos imperfectos que nos acercan a la vida que deseamos y a la relación de nuestros sueños, con nosotros mismos y con otros |
 
 Se aplica a una misma, de cuidadores a hijos y de hijos a padres (sin edad).
-Saber ser · saber hacer · saber saber.
+
+## Las 3 dimensiones de la metodología
+| Dimensión | Contenido | Pregunta que responde |
+|---|---|---|
+| **Saber saber** | Metodología CREA (Conexión, Rutinas, Estructura, Autonomía) | ¿Qué hago y en qué orden? |
+| **Saber ser** | Liderazgo y autocontrol personal | ¿Quién necesito ser yo para que funcione? |
+| **Saber hacer** | Construcción de una familia inquebrantable | ¿Cómo lo aplico en mi hogar, mi pareja y mis hijos? |
+
+Posible estructura de programa: 3 módulos (Ser → Saber → Hacer).
 
 Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comunidad; contrarresta el perfeccionismo en la crianza y el matrimonio).
 
