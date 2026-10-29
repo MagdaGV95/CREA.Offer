@@ -920,3 +920,26 @@ Con base en las dos listas de verificación (video sin hablar y video hablando),
 ## Tip de Jun: volver a publicar
 **Republica volteando el video (espejo) y moviendo elementos de lugar** (en CapCut hay función de espejo). **Publícalo primero como Trial Reel y después en tu feed.**
 
+
+## Ejemplos virales de Jun — formato pantalla dividida / comparación (sin hablar)
+| Video | Formato | Resultados |
+|---|---|---|
+| "Every failure is a decision" — misma escena, "6 seconds" vs "18 seconds" (dudar antes de abrir la puerta) | Pantalla dividida, contraste | 287K likes · 412 com. · 5,861 reposts · **19.8K envíos** |
+| "Monday — 0 followers" (dos versiones de él con el celular) · pie: "your ego is killing your potential" | Pantalla dividida + imágenes encima | 19K likes · 1,308 envíos |
+| "5 years exp / 1 year exp / 1 week exp — 9:00am" (misma reacción en 3 niveles) | Pantalla en 3 partes, comedia | 27.9K likes · 1,476 envíos |
+| "month 1 — 'wanna go party tonight?' — distracted vs focused" | Pantalla dividida, contraste | 14.8K likes · 1,033 envíos |
+| "January — scared of being seen ($0)" repetido | Pantalla dividida vertical, marca de tiempo | 44.3K likes · **6,948 envíos** |
+Patrón: misma escena, **una variable cambia** (tiempo, experiencia, decisión) + texto corto + marca de tiempo → contraste instantáneo; los envíos son altísimos.
+
+## Tendencias (carrusel Creator College)
+1. **"There's no time…"** — sketch que rompe expectativas con resultado cómico; se graba con una amiga (@matt_and_omar).
+2. **"What's your niche?"** — mostrar todos los aspectos de quién eres sin forzarte a un "nicho" (@growthwithting). Creator College está obsesionado con esta.
+3. **"1 bad hour"** — carrusel de pantalla dividida: "1 bad hour. / You still have 23." · "1 bad day. / You still have 6." · "1 bad month. / You still have 11." Motivacional, identificable e inspirador (@juliamaris.ry).
+5. **"Plan A"** — simple y de baja intensidad: "Plan A: [tu sueño]"; el mensaje es que solo tienes Plan A, no hay Plan B (@another_adventure_gram).
+**Predicción de octubre:** **"It's never too late to…"** (ej. "it's never too late to… rewrite your story", @lisahoogendoorn). Al acercarse el fin de 2026 habrá más contenido motivacional sobre aprovechar el tiempo que queda; hook simple e identificable para inspirar a empezar algo, cambiar o por fin hacer lo que se ha pospuesto.
+
+## 34 hooks de storytelling (carrusel @creatorcollege_, audio "Self improvement")
+1. Nunca pensé que compartiría esto, pero aquí estamos… · 2. Nadie habla de esta parte del camino… · 3. Antes me daba mucha vergüenza esto… · 4. La verdad es que no tenía idea de lo que hacía… · 5. Creí que tomaba la decisión correcta. Me equivoqué por completo. · 6. Esto es algo que me gustaría decirle a mi yo más joven… · 7. Guardé este secreto mucho más tiempo del que debía… · 8. No me di cuenta de cuánto me frenaba esto hasta… · 9. No sabía que esa sería la última vez que…
+10. El momento en que me di cuenta de que tenía que cambiar algo… · 11. Nunca imaginé que esto sería lo que lo cambiaría todo… · 12. ¿Alguna vez trabajaste tanto por algo para luego darte cuenta de que…? · 13. Estaba tan enfocada en hacerlo bien que me perdí por completo… · 14. Puede que sea lo más incómodo que he admitido… · 15. Creía que era la única pasando por esto… · 16. Durante mucho tiempo me convencí de que… · 17. Pasé años creyendo algo que resultó ser totalmente falso…
+18. Esto pasó cuando por fin dejé de… · 19. Tenía dos opciones y ninguna se sentía bien… · 20. Por fuera todo se veía bien, pero detrás de cámaras… · 21. No obtuve el resultado que quería, pero aprendí algo que necesitaba… · 22. El peor consejo que he seguido fue… · 23. Ojalá pudiera decir que todo esto era parte del plan… · 24. Sabía que no podía seguir haciendo las cosas como las hacía… · 25. Una pequeña decisión terminó cambiando más de lo que esperaba… · 26. Nadie me advirtió que esta sería la parte más difícil…
+27. No entendí el valor de __ hasta que lo perdí… · 28. Pasé __ intentando lograr __, y esto fue lo que de verdad funcionó… · 29. El punto de quiebre no fue lo que esperarías… · 30. Estaba esperando el momento perfecto. Luego me di cuenta… · 31. No fallé por no ser suficiente. Fallé porque… · 32. Esto es lo que nadie te dice sobre empezar de cero… · 33. Seguí cometiendo el mismo error hasta que alguien me señaló… · 34. Si alguna vez has sentido que vas atrasada, esto es para ti…
