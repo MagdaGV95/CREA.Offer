@@ -943,3 +943,27 @@ Patrón: misma escena, **una variable cambia** (tiempo, experiencia, decisión) 
 10. El momento en que me di cuenta de que tenía que cambiar algo… · 11. Nunca imaginé que esto sería lo que lo cambiaría todo… · 12. ¿Alguna vez trabajaste tanto por algo para luego darte cuenta de que…? · 13. Estaba tan enfocada en hacerlo bien que me perdí por completo… · 14. Puede que sea lo más incómodo que he admitido… · 15. Creía que era la única pasando por esto… · 16. Durante mucho tiempo me convencí de que… · 17. Pasé años creyendo algo que resultó ser totalmente falso…
 18. Esto pasó cuando por fin dejé de… · 19. Tenía dos opciones y ninguna se sentía bien… · 20. Por fuera todo se veía bien, pero detrás de cámaras… · 21. No obtuve el resultado que quería, pero aprendí algo que necesitaba… · 22. El peor consejo que he seguido fue… · 23. Ojalá pudiera decir que todo esto era parte del plan… · 24. Sabía que no podía seguir haciendo las cosas como las hacía… · 25. Una pequeña decisión terminó cambiando más de lo que esperaba… · 26. Nadie me advirtió que esta sería la parte más difícil…
 27. No entendí el valor de __ hasta que lo perdí… · 28. Pasé __ intentando lograr __, y esto fue lo que de verdad funcionó… · 29. El punto de quiebre no fue lo que esperarías… · 30. Estaba esperando el momento perfecto. Luego me di cuenta… · 31. No fallé por no ser suficiente. Fallé porque… · 32. Esto es lo que nadie te dice sobre empezar de cero… · 33. Seguí cometiendo el mismo error hasta que alguien me señaló… · 34. Si alguna vez has sentido que vas atrasada, esto es para ti…
+
+## Un tema, 8 posts: ejemplo "burnout" (carrusel Creator College)
+Cómo sacar muchas piezas de un solo tema combinando **formato + mensaje**:
+| # | Formato | Mensaje | Cómo |
+|---|---|---|---|
+| 1 | B-roll + texto | Cómo mejorar | Un solo clip con texto; el valor va en el pie de foto ("6 hábitos para recuperarte del burnout (mientras sigues trabajando)", @lena_at_work) |
+| 2 | Carrusel en pantalla dividida | Consejos | Convierte tu experiencia en aprendizajes ("Si estás quemado → descansar también es productivo", "Si estás desmotivado → recuerda tu porqué", @stefan.khc) |
+| 3 | A cámara | Cómo puede pasar | Habla de tu experiencia y de cómo ocurre ("Un trabajo tóxico hará difícil cuidar tus necesidades básicas", @careersbychris) |
+| 4 | Carrusel | Expectativa vs. realidad | Enseña tu experiencia ("Cómo creí que sería recuperarme vs. lo que de verdad me ayudó", @heyburnout) |
+| 5 | B-roll + texto | Señales para reconocerlo | Reel sin hablar con la lista de señales ("6 señales de que estás quemada sin darte cuenta", @arina.negishi) |
+| 6 | B-roll + texto | Antes vs. después | Fotos, capturas o clips antiguos con texto encima ("La chica que se quemó en su trabajo vs…", @houseofyooni) |
+| 7 | A cámara, lista numerada | Consejos | Lista numerada en pantalla ("Así se ve de verdad estar quemado: 1…6", @kasey_piper) |
+| 8 | B-roll + texto | POV identificable | Toma un momento de tu historia y conviértelo en algo identificable (y quizá cómico) en lo que tu audiencia se vea reflejada ("POV: dejas tu exigente trabajo de 9 a 5 para recuperarte del burnout", @keeleywallace) |
+
+## Lanzamiento de Jun: "Scrolling to Selling" (masterclass gratuita de 5 días, 21–25 oct 2026, Zoom)
+- La diapositiva de feed vs. historias se mostró en este evento; nota: "cero resistencia a la venta — escríbelo en el chat".
+- Ejemplo de reel de venta: Jun mostrando su tablero de Miro (Día 1: "¿Quién está en la sala?", "Los cimientos", "Las 4 misiones", "El embudo de contenido") con texto "solo tienes que presentarte, y yo traeré todo lo que me tomó más de seis años descubrir…" → **mostrar el detrás de cámaras del contenido del curso como CTA.**
+
+## Más tendencias (carrusel Creator College)
+1. **Transition trend** — muestra 4 elementos de tu rutina diaria o carrera con una transición giratoria ("The fuel"…, @hair.with.mia).
+2. **"My reaction to…"** — reaccionas a una situación concreta de tu trabajo con un número que sube o baja (ej. doctora: "mi reacción cuando los pacientes me dicen cuánto llegarán tarde — 52 min", @dralisonyoon). Elige un tema de tu contenido que además haga reír.
+3. **"It's cringe until…"** — carrusel motivacional: lo que al principio da vergüenza suele terminar siendo de lo que más te enorgulleces ("…te pagan marcas en las que antes gastabas", "…te invitan a viajes de marca", @lisahoogendoorn). Reta el miedo al juicio.
+4. **"Money can't buy happiness"** — un solo B-roll con texto que aparece al ritmo: "El dinero no compra la felicidad, pero sí te compra educación, así que enfóquense, chicas" (@yhasmina.ferrara). Muy simple y efectivo.
+5. **"Out of my control vs…"** — un solo B-roll con texto: lo que no controlas (lo que otros dicen de mí, el pasado, el tiempo, eventos externos, comportamiento de otros) vs. lo que sí (mi diálogo interno, mi energía, mis límites, mi respuesta, mi actitud, autocuidado, cómo hablo y trato a otros, con quién paso mi tiempo) (@chclaireh).
