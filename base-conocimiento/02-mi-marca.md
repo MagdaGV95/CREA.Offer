@@ -67,8 +67,10 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 - Oferta/producto y precio; qué hay en familiainquebrantable.com/victoria.
 - Redes: IG @magdalenagomezva · TikTok @magdalenagomezv
 
-## Bio de Instagram actualizada (vista en clase con Reid, Creator College)
-- 878 seguidores · 408 posts · 90 seguidos
+## Bio de Instagram anterior (vista en clase con Reid, Creator College)
+**No es la bio actual**: es una versión de un momento anterior (cuando tenía 878 seguidores · 408 posts · 90 seguidos).
 - "👧👦 Niños seguros crecen en familias conectadas / Más conexión, 📉 menos berrinches / 🍎 Acompañando familias desde 2016 / ⌨️ Escríbeme la palabra CREA"
 - Historias destacadas: … CREA · Historias CREA · Sobre mí
-- Nota: ya usa palabra clave "CREA" como CTA por DM. Desde 2016 = 10 años de experiencia.
+- **Feedback de la clase:** les gustó la primera línea, "Niños seguros crecen en familias conectadas".
+- Bio actual (oct 2026, vía vidIQ): "🌱 El hogar que sueñas empieza contigo / ❤️ Las grandes familias se crean con pequeñas victorias / 🍎 Maestra | +10 años acompañando familias / 👇Empieza aquí" — 855 seguidores.
+- Nota: los seguidores no han crecido de forma notable entre una bio y otra (878 → 855).
