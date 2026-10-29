@@ -1198,3 +1198,32 @@ Atraer: "¡Descubrí a una nueva creadora!" → Nutrir: "Me siento muy conectada
   3. **CTA:** "Busco 15 creadores más para coaching 1:1 de contenido y monetización. ¡Escríbeme por DM si vas en serio! ❤️ — 24 h desde el lanzamiento y 60/75 lugares llenos. REVISO A CADA PERSONA ANTES DE APROBAR."
   4. **Más prueba:** resultado de una alumna ("Tenía 2 metas para ella: 1) capturar su genialidad en contenido, 2) contar su historia en 10 formatos… y generó más de $100K USD con este post").
 - **Identifica su lucha — Nota de voz #1:** saluda, haz un cumplido real y pregunta con qué batalla. Ej.: "Hola Daisy, mucho gusto, me encanta que lo estés intentando y parece que tienes un muy buen comienzo en tu página… ¿con qué estás batallando más?"
+- **Confirma que encaja — Nota de voz #2:** repite lo que te dijo, explica por qué encaja y presenta tu método. Ej.: "Vender ofertas high ticket es mucho más difícil de lo que la mayoría hace parecer, así que te entiendo totalmente. Muchos de mis alumnos llegan con esto y les doy este framework específico… De hecho me sentaría contigo en una llamada cada semana para construir tus embudos. Solo tengo X lugares, así que avísame si te interesa y, si no, no pasa nada."
+- **Presenta tu oferta — Nota de voz #3:** la oferta = resultado, qué incluye, resultado, el precio. **Un solo seguimiento a las 48 horas. Eso es todo.** Ej.: "Sería un programa de 6 semanas donde veremos X, Y, Z. De verdad creo que encajarías perfecto, así que te voy a extender mi oferta de acceso anticipado con 25% de descuento. Normalmente es una inversión de $4K, pero pagarías solo $3K para empezar. ¡Me encantaría que empezáramos!"
+
+## Formato viral: "1 mala hora / aún te quedan 23" (carrusel en pantalla dividida, masterclass)
+"Te voy a dar un formato viral y decirte exactamente cómo adaptarlo a tu contenido."
+- Ejemplos: @boba.udovicic (298K likes · 21.2K reposts · 15.7K envíos) · @its_sam_journey (246K likes · 24.6K reposts · 16.4K envíos).
+- **Estructura:** cada diapositiva dividida en dos: **arriba = imagen de lucha + texto "1 mala hora"** / **abajo = imagen de éxito + texto "aún te quedan 23"**. Diapositiva 2: "1 mal día" / "aún te quedan 6". (Siguientes: "1 mal mes / aún te quedan 11"…)
+- **Adaptaciones por nicho:**
+  - Entrenador fitness: D1 lucha = acostado en la cama → éxito = seguro en el gym · D2 lucha = cansado en el gym → éxito = comida saludable.
+  - Coach de finanzas: D1 trabajando tarde de noche → en una llamada de coaching · D2 lloviendo → viajando.
+  - **Mamá/papá de tiempo completo:** D1 lucha = **cansada y quemada** (mamá con la mano en la cara entre juguetes) → éxito = **divirtiéndose en familia** · D2 lucha = **casa desordenada** → éxito = **casa ordenada**.
+  - Artista: D1 doomscrolling en la cama → creando arte · D2 estudio desordenado → con amigas.
+  - Estudiante: D1 cansada estudiando → tareas organizadas · D2 quemada → de paseo.
+
+## Edición (masterclass)
+| Buena edición | Mala edición |
+|---|---|
+| Ritmo rápido, sin espacios vacíos | Pausas largas entre frases |
+| Las tomas cambian seguido o hay visuales encima | La misma toma sin cambios visuales por más de 5 segundos |
+| Texto claro; subtítulos en videos hablados | Texto difícil de leer |
+| B-roll relevante | Relleno innecesario |
+
+**Niveles:** Principiante = domina lo básico (cortes limpios, subtítulos, texto simple, buen ritmo) · Intermedio = añade variedad visual (interrupciones de patrón, varios ángulos, storytelling visual) · Avanzado = sé creativa (diseño de sonido, visuales en capas, transiciones creativas).
+
+**CapCut vs. Edits:** CapCut = la opción original, más herramientas (sobre todo avanzadas), muchas funciones solo en PRO (no gratis), para nivel medio · Edits = se está poniendo al día rápido, menos herramientas (pero suma más cada mes), **totalmente gratis, ideal para principiantes**.
+
+**Matriz habilidad de edición × experiencia en tu industria:** poca edición + mucha experiencia (← Magda) · mucha edición + mucha experiencia (meta) · poca + poca · mucha edición + poca experiencia. → La experiencia en tu industria pesa; la edición se aprende.
+
+**Checklist de edición — antes de publicar pregúntate:** ¿quité los espacios muertos? · ¿los subtítulos se leen fácil? · ¿el ritmo es lo bastante rápido? · ¿cada edición aporta valor? · ¿el audio está equilibrado?
