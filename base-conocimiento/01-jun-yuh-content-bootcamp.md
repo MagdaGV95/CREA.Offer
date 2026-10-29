@@ -1168,3 +1168,33 @@ Atraer: "¡Descubrí a una nueva creadora!" → Nutrir: "Me siento muy conectada
 - **Brecha de curiosidad:** el espacio entre lo que el espectador ya sabe y lo que quiere saber.
 - **Hook débil:** "Quiero compartir mi camino como creador" → sin curiosidad · sin emoción · sin razón para seguir viendo.
 - **Hook fuerte:** "Casi dejo de crear contenido antes de mi primer video viral" → crea curiosidad · introduce conflicto · el espectador quiere el desenlace.
+
+### Tipos de hooks (masterclass, con su psicología)
+| Tipo | Ejemplo | Por qué funciona |
+|---|---|---|
+| **Afirmación positiva** | "Esta fue la mejor decisión que he tomado…" (Jun: "$9 millones en 14 meses") | Da curiosidad por un éxito o método; abre un bucle: ¿por qué es tan positivo? |
+| **Negativa / contraria** | "Este fue el error más grande que he cometido…" (@terence.p.lam) | Introduce tensión; la negatividad o la polémica intrigan; queremos saber por qué opina eso; reta la sabiduría convencional |
+| **Pregunta identificable** | "¿Alguna vez has sentido ganas de rendirte?" (@meraki.michelletran, cocinando con su mamá) | El cerebro se niega a dejar una pregunta sin responder; intenta llenar el espacio y, si no puede, sigue viendo; quien se identifica se ve dentro de la historia |
+| **Autoridad / experiencia** | "Después de acompañar a 1,000 creadores, noté un patrón…" (@shayvelasquez_, mamá con bebé) | Da credibilidad antes de la historia; dice por qué escucharte; puede ser tu título, tu experiencia o simplemente quién eres y dónde estás |
+| **Transformación** | "Hace un año tenía 200 seguidores. Hoy tengo 200,000…" (@houseofyooni) | Muestra o promete un antes y después claro; se quedan para saber cómo pasó y cómo lograrlo |
+| **Lista numerada** | "5 cosas que hubiera querido saber antes de ser creador…" (Jun: "5 señales raras de que eres más atractivo de lo que crees") | Los números se sienten seguros y fáciles ("puedo con 5 cosas"), pero queremos saber cada una, sobre todo la #1 y la #5; jala al espectador por todo el contenido |
+
+**Ejemplo — Tema: constancia en el gym (un tema, 6 hooks):**
+- Positiva: "Esta es la única rutina dividida que necesitas para ser constante en el gym."
+- Negativa/contraria: "Nunca tendrás los resultados que quieres si sigues yendo al gym sin un plan."
+- Autoridad: "Como entrenador personal, este es el truco que ayuda a mis clientes a ser constantes."
+- Lista: "3 razones por las que sigues sin ver resultados después de meses intentándolo."
+- Transformación: "Bajé 10 libras en 4 meses con este método…"
+- Pregunta: "¿Y si la motivación no es la razón por la que no puedes mantener tu rutina?"
+
+**Empieza con un ángulo amplio primero…** (Jun: "LA FORMA MÁS ALTA DE INTELIGENCIA" con imágenes de Spider-Man, La Odisea y fútbol → luego "psicología"): abre con algo amplio y reconocible antes de llegar a tu tema.
+
+## Parte 3 — Cómo vender por DM (masterclass)
+- "Cuando empecé Creator College no tenía un equipo haciendo llamadas de venta… ¿entonces cómo vendía?" → **por DM**.
+- **Vender por DM te permite:** entender lo que tu audiencia realmente necesita · generar confianza a nivel personal · responder preguntas y resolver objeciones · convertir seguidores interesados en clientes. **(¡Además es GRATIS y fácil para principiantes!)**
+- **Secuencia de historias que llevan al DM (ejemplo de Jun, 4 historias):**
+  1. **Hook:** "2020: no sabía qué publicar ❌ · poco engagement ❌ · horas editando ❌ · sin forma de monetizar ❌ · tendencias sin sentido ❌".
+  2. **Prueba:** "2026: publiqué diario 6 años YO SOLO ✅ · crecí a 5M en IG ✅ · gané $7M con contenido ✅ · impacto con sentido ✅".
+  3. **CTA:** "Busco 15 creadores más para coaching 1:1 de contenido y monetización. ¡Escríbeme por DM si vas en serio! ❤️ — 24 h desde el lanzamiento y 60/75 lugares llenos. REVISO A CADA PERSONA ANTES DE APROBAR."
+  4. **Más prueba:** resultado de una alumna ("Tenía 2 metas para ella: 1) capturar su genialidad en contenido, 2) contar su historia en 10 formatos… y generó más de $100K USD con este post").
+- **Identifica su lucha — Nota de voz #1:** saluda, haz un cumplido real y pregunta con qué batalla. Ej.: "Hola Daisy, mucho gusto, me encanta que lo estés intentando y parece que tienes un muy buen comienzo en tu página… ¿con qué estás batallando más?"
