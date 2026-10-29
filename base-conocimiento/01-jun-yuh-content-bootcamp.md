@@ -1056,3 +1056,21 @@ Auditoría de bio de Instagram ("ve exactamente qué le falta a tu bio y arrégl
 ### Autodiagnóstico de misiones
 "Si viera tus últimos 20 posts, ¿hacia cuál de estas misiones tiendes?" → 1. Atraer (captar atención y traer gente nueva) · 2. Nutrir (generar confianza y profundizar la conexión) · 3. Posicionar (establecer autoridad y experiencia) · 4. Convertir (convertir la atención en ingresos).
 **Escenario 1:** el coach/dueño de negocio tradicional solo publica Posicionar y Convertir → **Fracaso: satura a su audiencia pequeña.**
+
+### Masterclass — Las 4 misiones a fondo (Jun Yuh)
+- **Escenario 2:** la persona "creativa primero" que solo publica contenido de Atraer. ¿Por qué fracasa? (Implícito: crece pero no monetiza — ver abajo.)
+- **ATRAER · Comparte tu historia:** 1) empieza con la lucha · 2) muestra cómo te transformaste. Te da alcance mientras proteges tu imagen. (Ej. Jun: "llevo 5 años publicando contenido todos los días — 9 sep 2020".) **Meta: atraer gente nueva.**
+- **ATRAER · Formatos en tendencia:** si les funciona a otros, puede funcionarte a ti; PERO no copies, ¡mete tu propia experiencia! (Ej.: "tienes 25, ¿por qué todavía no tienes un coche nuevo?".) **Meta: atraer gente nueva.**
+- **NUTRIR · Muestra la realidad:** el detrás de cámaras crudo de lo que pasa en tu vida; sé humana y conecta profundamente. (Ej.: "normalicemos cómo se ve el 'éxito'".) **Meta: profundizar la conexión.**
+- **POSICIONAR · Momentos que construyen marca:** muestra tus éxitos como resultado de tus creencias. **Un logro solo pega si la gente ya sabe por lo que pasaste para llegar ahí.** (Ej.: "algún día llenaré mi propio show".) **Meta: que te vean como experta.**
+- **POSICIONAR · Demuestra que sabes de lo que hablas:** aquí compartes tus aprendizajes vividos. **Ir solo unos pasos adelante está más que bien :)** (Ej.: "6 años de consejos de edición en 60 s", tutorial de keyframes en CapCut.) **Meta: que te vean creíble.**
+- **CONVERTIR · Dolor específico:** nombra exactamente aquello en lo que tu audiencia está atorada. **¡Empieza con valor!** (Ej.: "cómo convertir a Claude en tu coach de storytelling".) **Meta: vender.**
+
+### Crecimiento y monetización (lo que piensa el espectador)
+Atraer: "¡Descubrí a una nueva creadora!" → Nutrir: "Me siento muy conectada con esta persona" → Posicionar: "Confío en esta persona y en lo que dice" → Convertir: "¡Voy a comprar lo que vende!"
+**Intentar convertir sin nutrir ni posicionar:** Atraer ("¡descubrí a una nueva creadora!" → aquí creces) → Convertir ("veo su producto, pero no confío en ella ni la veo como experta, así que no voy a comprar" → …pero no logras monetizar).
+
+### Cuántas veces publicar cada misión según: tamaño de audiencia (seguidores) + nivel de habilidad (qué tan experta eres) + oferta (qué vendes)
+- **Low ticket:** producto de menos de $1,000 · **High ticket:** producto de $1,000 o más.
+- **Audiencia pequeña (menos de 50K) + poca habilidad** (ej. creadora en ascenso) = sin oferta; enfócate primero en atraer audiencia nueva. **En tus próximos 7 posts: Atraer ×4 · Nutrir ×1 · Posicionar ×2 · Convertir ×0.**
+- **Audiencia pequeña (menos de 50K) + mucha habilidad** (ej. coach o dueña de negocio) = **oferta high ticket.** **En tus próximos 7 posts: Atraer ×3 · Nutrir ×1 · Posicionar ×2 · Convertir ×1.** ← caso de Magda
