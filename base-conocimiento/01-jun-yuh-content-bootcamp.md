@@ -1017,3 +1017,42 @@ Clips: foto de cuando eras más joven → cuando eras principiante en el gym →
 
 ### "De 0 a 100k con menos de 1 hora al día" (reel de Creator College)
 1. Minimiza el sobrepensar · 2. **Nunca crees desde cero** · 3. Compara la versión de alto y de bajo rendimiento de un formato · *bonus (no visible)*. Clave: **tu propio mensaje** sobre formatos probados.
+
+## Masterclass "Scrolling to Selling" — Días 2–3 (Jun Yuh)
+### 5 pasos para escribir un gran guion a cámara
+1. **Problema → Búsqueda → Recompensa:** toda buena historia necesita una estructura de 3 actos.
+2. **3 hooks en capas:** el hook de título (texto en pantalla) · el hook verbal (lo que dices en voz alta) · el hook visual (lo que vemos). Ej.: "how to 'be the niche'".
+3. **Credibilidad en 10 segundos:** "Me quemé tres veces antes de descubrir esto" es credibilidad. "Soy coach" es un puesto de trabajo.
+4. **Lo específico le gana a lo general:** entre más específico el llamado a tu audiencia, más fuerte pega el hook.
+5. **Guarda la recompensa:** cada guion tiene UNA pieza de información que está insinuando —la respuesta, la lección, el remate—; no la reveles al inicio.
+
+### Copiar formatos: qué sí y qué no
+- **NO necesitas recrear:** su tema · sus palabras exactas · su personalidad · sus visuales.
+- **SÍ puedes recrear:** el formato · la estructura · la tensión · el ritmo.
+
+### Tu plan de estudio de contenido de 3 días (cada día, 30 min)
+- 10 min: encuentra 5 formatos ganadores.
+- 10 min: deconstruye los formatos (por qué funcionan).
+- 10 min: adapta 1 con tu mensaje.
+
+### Tema estrecho vs. amplio (pizarra de Jun)
+- Un tema **estrecho** atrae a pocas personas; un tema **amplio** abre el embudo a muchas más.
+- Ej.: tema = storytelling → se abre a muchas preguntas amplias: ¿quieres ser mejor comunicador? ¿más seguro? ¿más atractivo? ¿más memorable? ¿construir una red más fuerte? ¿ganar dinero?
+- Arco aplicado: **Problema** (mal comunicador, inseguro, poco atractivo, poco memorable, sin dinero, sin red) → **Búsqueda** (storytelling) → **Recompensa**.
+- **Lección: habla del resultado amplio que la gente desea, no solo del tema técnico.**
+
+### Herramientas de IA dentro de VIP (hechas con Claude)
+Auditoría de bio de Instagram ("ve exactamente qué le falta a tu bio y arréglalo en un minuto") · Generador de hooks ("primeras líneas que detienen el scroll en los primeros tres segundos") · Generador de pies de foto ("que suenen a ti y terminen con una razón para guardar") · Generador de guiones ("una idea entra, un guion sale").
+
+### Oferta VIP 12 (2–27 nov) — "Si eres principiante total, te llevarás…"
+- Por fin sabrás de qué crear contenido, aunque creas que tu vida es aburrida (spoiler: no lo es).
+- Aprenderás a editar en CapCut, Edits y Canva, paso a paso en clase en vivo.
+- Te enseñaré cómo funciona el algoritmo de Instagram y qué prioriza para las vistas, para que dejes de adivinar.
+- Por fin aprenderás a monetizar tus habilidades: aunque tengas 200 seguidores, tendrás un lead magnet.
+- Tu perfil, bio y contenido serán auditados cada semana por expertos de la industria.
+- ¡Por fin GANARÁS como todos los que ves en redes! Es tu momento de BRILLAR.
+(Cierre: creatorcollege.com/join + QR + teléfono + cuenta regresiva.)
+
+### Autodiagnóstico de misiones
+"Si viera tus últimos 20 posts, ¿hacia cuál de estas misiones tiendes?" → 1. Atraer (captar atención y traer gente nueva) · 2. Nutrir (generar confianza y profundizar la conexión) · 3. Posicionar (establecer autoridad y experiencia) · 4. Convertir (convertir la atención en ingresos).
+**Escenario 1:** el coach/dueño de negocio tradicional solo publica Posicionar y Convertir → **Fracaso: satura a su audiencia pequeña.**
