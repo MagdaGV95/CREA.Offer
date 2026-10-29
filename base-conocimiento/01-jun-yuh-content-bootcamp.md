@@ -262,6 +262,18 @@ Formato "sistema paso a paso" con texto sobre fondo negro + su cara en esquina.
 |---|---|---|
 | **Basado en habilidad / coach / dueño de negocio** | Audiencia pequeña + muy capacitado | **High ticket** (alto precio) |
 | **Creador experto** | Audiencia grande + muy capacitado | Low ticket + high ticket |
+| **Creador en ascenso** | Audiencia pequeña + poca habilidad | Atraer nueva audiencia primero |
+| **"Creativo primero"** | Audiencia grande + poca habilidad | Low ticket |
+
+**Fórmula base:** TU HABILIDAD + TU AUDIENCIA.
+
+### Matriz de Shan Hani (habilidad × audiencia; audiencia "grande" ≈ 50k+, "sin audiencia" = 0–50k)
+| Cuadrante | Perfil | Qué hacer |
+|---|---|---|
+| 1 · Mucha habilidad + gran audiencia | Dueño de negocio y creador | Lead magnet, upsell a producto digital low ticket, venta directa low ticket, página para agendar llamada, vender servicio u oferta high ticket, emails a todos → **ecosistema** |
+| 2 · Poca habilidad + sin audiencia | Estudiantes / creador de medio tiempo | Nada que vender aún; lead magnet tipo "mi recorrido" |
+| 3 · Poca habilidad + gran audiencia | Creador | Ofertas low ticket: lead magnet, upsell, venta directa, venta cruzada, emails |
+| 4 · Mucha habilidad + sin audiencia | Dueños de negocio | **Ofertas high ticket**: lead magnet, página para agendar llamada, vender servicio/oferta HT, emails con link de llamada (2 por semana) |
 
 ### Contenido de conversión según precio
 | Low ticket | High ticket |
@@ -278,3 +290,23 @@ Formato "sistema paso a paso" con texto sobre fondo negro + su cara en esquina.
 | Creadora: no sé qué vender | El modelo de negocio correcto (low/high ticket) |
 | Creadora: tengo productos digitales pero pocas ventas | Arreglar el posicionamiento |
 | Creadora: no sé escalar a 100k/mes | Modelo de ecosistema |
+
+## Por qué el contenido (Shan Hani)
+La persona promedio pasa ~4 h 37 min al día en el celular (~70 días al año). **Contenido = atención. Quien tiene la atención gana.**
+
+## Cómo el contenido puede cambiar tu vida (historia de Jun)
+- **Antes de publicar:** creció sin dinero, oportunidades limitadas, quería mantener a su familia.
+- **Después:** audiencia global, puede mantener a su familia, oportunidades que le cambiaron la vida ("llenar mi propia copa para llenar la de otros").
+- **El éxito es repetible con:** un sistema de contenido · tu posicionamiento único · un repositorio de formatos ganadores · un plan de contenido a medida.
+
+## Dos grupos y sus dudas
+| Grupo 1: aún construyendo su experiencia | Grupo 2: experiencia establecida |
+|---|---|
+| Duda: "Todavía no he logrado nada" | Duda: "Mi valor no es lo bastante interesante para publicarlo" |
+Ambos pueden crear contenido poderoso.
+
+## Dos ángulos para compartir (espectro de experiencia)
+| Punto de vista de recorrido (bajo) | Punto de vista experto (alto) |
+|---|---|
+| "Estoy aprendiendo esto" | "Ya aprendí esto" |
+| Documentar aprendizajes, experimentos, errores, logros | Enseñar frameworks, lecciones, errores a evitar, consejos claros |
