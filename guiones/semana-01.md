@@ -1,6 +1,16 @@
 # Guiones — Semana 1
 
 Clienta: mamás casadas de niños de 0–6 años.
+## Planificador (formato Jun Yuh)
+| | Lun | Mar | Mié | Jue | Vie | Sáb (opcional) | Dom (opcional) |
+|---|---|---|---|---|---|---|---|
+| **Idea** | La rutina de la noche | Nunca fue el objetivo | Antes de gritarle a tu hijo | Entreno a mi mamá y a mi suegra | El contrato de nuestra familia | Cosas que desearía haber sabido antes de casarme | "Si eres como yo…" (creciste en un hogar herido) |
+| **Pilar** | Habilidad (CREA) | Historia | Habilidad (Ser) | Pasión | Familia/pareja | Pareja | Historia |
+| **Estilo** | Hablando (a cámara) | Hablando + B-roll | Hablando (a cámara) | Sin hablar (storytelling silencioso) | Hablando (a cámara) | Sin hablar (B-roll + texto) | Sin hablar (B-roll + texto) |
+| **Intensidad** | Baja | Alta | Baja | Alta | Baja | Baja | Baja |
+
+Sáb y dom: un solo B-roll con texto **específico** (no frases genéricas) — reutilizar clips del banco de B-roll.
+
 Cierre fijo de marca: *"Un paso imperfecto a la vez. El hogar que sueñas comienza contigo."*
 
 ---
