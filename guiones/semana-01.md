@@ -41,20 +41,23 @@ Ver guion completo #1 (mamá: de 96 a 78 kg en 5 meses, entrenando juntas desde 
 
 ---
 
-## Jueves · Pasión — "Entrenando con mi mamá" (sin hablar)
+## Jueves · Pasión — "Entreno a mi mamá y a mi suegra" (sin hablar)
 **Formato:** B-roll + texto + audio emocional en tendencia · 15–20 s · baja intensidad
+Estructura real de la sesión: calentamiento → movilidad → fuerza → estiramientos con yoga → respiración intencional.
 
 | Clip | Texto en pantalla |
 |---|---|
-| Ustedes dos llegando a entrenar | "En mayo invité a mi mamá a entrenar conmigo" |
-| Ella ejercitándose, tú a su lado | "No para bajar de peso" |
-| Chocan las manos | "Para recuperarnos" |
-| Se ríen tomando agua | "5 meses después…" |
-| Abrazo / caminando juntas de espaldas | "El movimiento sana lo que las palabras no alcanzan" |
+| Las tres llegando con tapetes | "Cada semana entreno a mi mamá y a mi suegra" |
+| Calentamiento / movilidad | "Mi mamá empezó en mayo" |
+| Fuerza (ellas con mancuernas, tú corrigiendo) | "No para bajar de peso" |
+| Yoga / estiramientos | "Para estar bien… y estar juntas" |
+| Respiración con ojos cerrados, las tres | "El movimiento sana lo que las palabras no alcanzan" |
 
-**Pie de foto:** contar en 3 líneas la historia y cerrar con la frase de marca.
-**Portada:** las dos de espaldas caminando, hora dorada. Texto: **"Entreno con mi mamá"**.
-**Pendiente:** qué entrenan (define los clips) y permiso de la mamá.
+**Pie de foto:** 3 líneas: quiénes son, desde cuándo, qué ha cambiado (sin cifras de peso). Cerrar con la frase de marca.
+**Portada:** las tres en los tapetes en postura de yoga, plano abierto, luz natural. Texto: **"Entreno a mi suegra"**.
+**Pendiente:** permiso de mamá y suegra.
+
+**Serie derivada:** "Entrenando con mi mamá y mi suegra · semana X" (un ejercicio por video con su beneficio).
 
 ---
 

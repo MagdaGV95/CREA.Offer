@@ -37,7 +37,7 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 
 ## Pilares (WHAT)
 1. **Habilidad — Crianza consciente con CREA (0–6 años):** vínculo y confianza para que los hijos hablen, rutinas, ambiente, autonomía, prevención (abuso/acoso/bullying), saber ser y saber hacer de mamá y papá.
-2. **Pasión — Movimiento y vida en familia/matrimonio:** taekwondo, disciplina, recargar energía para estar presente; tradiciones, valores, pareja como equipo.
+2. **Pasión — Movimiento y vida en familia/matrimonio:** practicó taekwondo; hoy hace fuerza, yoga y core. Entrena a su mamá y a su suegra (calentamiento → movilidad → fuerza → estiramientos con yoga y respiración intencional). Antes: disciplina, recargar energía para estar presente; tradiciones, valores, pareja como equipo.
 3. **Historia — La hija que rompió el patrón:** crecer viendo a su madre refugiarse en la comida tras una infidelidad; aprender a huir y refugiarse en la comida; rechazar y luego reconciliarse con su madre; acompañar su transformación (empezó a entrenar con Magda en mayo; bajó de 96 a 78 kg en 5 meses, como consecuencia y no como objetivo — une los pilares Historia + Pasión/movimiento); reconstruirse tras un abuso sexual sin acompañamiento.
 
 ## Cliente ideal (confirmado)
@@ -64,4 +64,5 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 - **En pausa:** Threads y LinkedIn.
 
 ## Datos por confirmar
-- Oferta/producto y precio; usuario de IG/TikTok para análisis.
+- Oferta/producto y precio; qué hay en familiainquebrantable.com/victoria.
+- Redes: IG @magdalenagomezva · TikTok @magdalenagomezv
