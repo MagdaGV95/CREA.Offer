@@ -385,3 +385,60 @@ Ambos pueden crear contenido poderoso.
 Hoja de cálculo por categorías (entrenador/salud, coaches, profesionales, etc.) con columnas: creador · seguidores · link · vistas · # compartidos · **hook (texto + visual)** · formato · intensidad · duración · audio · CTA · notas.
 Ejemplo (categoría coaches, cuenta de 42.9k): reels de 6–7 s, "silent film / B-roll", baja intensidad (un clip con texto), audio en tendencia, valor en el pie de foto, CTA en el pie de foto ("guárdalo para…" / "sígueme para…"); vistas de 278k a 2.5M.
 Aprendizajes: un solo plano con movimiento dentro del cuadro; texto en el centro; texto identificable; el número ("5…") en pantalla.
+
+## Caso: Makenzie (@makenzieco, 55k) — coach con high ticket y audiencia pequeña
+Mezcla semanal por misión: **3 Atraer · 1 Nutrir · 2 Posicionar · 1 Convertir**. El de Convertir lleva un CTA = $$$ (pie de foto con resultados y llamado a una clase/llamada).
+
+## Metas según etapa (Creator College)
+| Creadores emergentes (0–25k) | Creadores avanzados (25k+) |
+|---|---|
+| Optimizar el perfil · aclarar tu Visión de Creadora · enfocarte en formato e ideas · sistematizar para ser constante | Todo lo anterior + solidificar autoridad · optimizar el ecosistema digital para monetizar · crear y vender producto digital / conseguir marcas |
+
+## Preguntas claras vs. poco claras (para pedir feedback)
+- **Claras:** "Este reel no funcionó, ¿fue el hook?" · "¿Puedes revisar mi bio y decirme si se entiende lo que hago?" · "¿Me ayudas a generar una idea de contenido para aumentar ventas?" · "¿Comparto este Trial Reel en mi feed principal?" · "Este video llegó a más no seguidores de lo normal, ¿qué hice bien?"
+- **Poco claras:** "Estoy atascada y no sé qué hacer" · "¿Qué está mal con mi página?" · "No sé por qué no crezco".
+
+## Lo que te frena
+Dudar de ti · sentirte abrumada · sobrepensarlo todo · sentirte derrotada cuando un post no funciona · sentir que no sabes lo que haces.
+
+## La brecha de los 60 posts
+Entre la persona 1 y el gran avance hay ~60 publicaciones. La persona 2 está más cerca, no es más talentosa: **solo hay que publicar más para cerrar la brecha.**
+
+## Qué es el éxito
+- **No es:** volverse viral · ganar toneladas de seguidores.
+- **Sí es:** vistas del público correcto · crecimiento de seguidores del público correcto · clientes · ventas de productos digitales · acuerdos con marcas.
+
+## Visión de Creadora (tablero Miro VIP 8)
+- **QUÉ → Mensaje** (preguntas: ¿tengo una visión contraria? · ¿qué cambio quiero que viva mi audiencia? · ¿dónde me buscan naturalmente para pedir ayuda?) → **4 pilares de contenido**.
+- **QUIÉN → Avatar** → **Demográfico** (quiénes son) + **Psicográfico** (con qué luchan) → **dolores** y **deseos**.
+- **HISTORIA (tu porqué)** → arco **Problema → Búsqueda → Recompensa** (¿cuál fue la lucha? · ¿cómo la superaste? · ¿cuál fue el resultado?).
+  Ejemplos de Jun: "superé a mi audiencia → sistema para pivotar → servir a la audiencia correcta" · "miedo a ser visto → ayudé a millones → crecí en confianza" · "no tenía dinero de niño → vendí productos digitales → primer millonario de la familia" · "mi familia luchaba con el dinero → empecé un negocio → le di 250k a mi familia".
+  Una historia se puede contar de muchas maneras.
+- **¿Cómo sé qué historias contar?** Recuerda S.T.O.R.Y.
+- **Visión de Creadora + plantillas de hooks = idea de contenido que funciona.**
+
+## 20 plantillas de hooks (traducidas)
+1. "Opinión impopular, pero…"
+2. "Antes creía ___ hasta que pasó esto…"
+3. "Probé ___ durante ___ días y esto fue lo que pasó…"
+4. "Si alguna vez has sentido ___, no eres la única…"
+5. "Un mito que yo creía sobre ___ es…"
+6. "Tengo ___ años y no me avergüenza admitir que…"
+7. "Es increíble que no hablemos más de ___…"
+8. "Sé que no soy la única que…"
+9. "¿Por qué nadie habla de ___?"
+10. "Me van a odiar por esto, pero…"
+11. "La mayoría piensa ___, pero esto es lo que realmente importa…"
+12. "Antes ___, ahora ___; esto es lo que cambió…"
+13. "5 errores que cometí cuando empecé ___"
+14. "Si tuviera que empezar ___ desde cero, haría esto…"
+15. "Lo más difícil de ___ es ___"
+16. "Mi mayor lucha con ___ es…"
+17. "Todo lo que necesitas saber sobre ___ en 3 pasos"
+18. "El momento en que me di cuenta de que ___ no funcionaba"
+19. "Todos se enfocan en ___, pero ignoran esto…"
+20. "El éxito en ___ tiene menos que ver con el talento y más con ___…"
+Extra: "4 hábitos que mejoran ___" · "3 cosas que te frenan de ___" · "Normaliza no ser buena en ___ al principio…" · "Así es como funciona realmente ___…" · "Evité ___ por demasiado tiempo…" · "Si has estado lidiando en silencio con ___, esto es para ti…" · "El error que veo que la gente comete es…" · "Mis no negociables para ___" · "Lo que la gente muestra vs. lo que realmente pasa con ___" · "Una verdad difícil sobre ___ es…"
+
+## Preguntas frecuentes sobre la Visión de Creadora (sin respuesta en la captura)
+¿Cómo hablar de varios intereses manteniendo una marca coherente? · ¿Cómo hablar de dos productos de industrias distintas? · ¿Puedo tener dos audiencias? · ¿Qué hago si mi habilidad es también mi pasión? · Si comparto mis dolores todo el tiempo, ¿cómo evito que la cuenta sea deprimente? · ¿Cómo hacer que el punto de vista de recorrido no sea egoísta? · Si vuelvo a redes, ¿hago un post de presentación o empiezo directo con las ideas?
