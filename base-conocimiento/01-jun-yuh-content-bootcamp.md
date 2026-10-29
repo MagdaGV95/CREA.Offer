@@ -592,3 +592,47 @@ Misma fase, distinto trabajo:
 - **Feed = probar la idea:** enseñar · cambiar creencias · mostrar experiencia · llegar a gente nueva.
 - **Historias = meterlos en la construcción:** mostrar el proceso · hacer preguntas · compartir decisiones · pedir opinión · mostrar avances.
 "Hacía que la audiencia fuera parte de crearlo" → cero resistencia a la venta.
+
+## Clase de storytelling, hooks y carruseles (Molly Rees)
+**Metas de la clase:** qué es el contenido de storytelling y cómo añadirlo · qué son los hooks y cómo hacerlos atractivos · cómo hacer carruseles que funcionen.
+
+### ¿Qué es contenido de storytelling?
+Contenido con una estructura clara que lleva al espectador por un recorrido.
+**Estructura:** hook / premisa → aportar valor → CTA / conclusión / resultado.
+**Tipos:** recorrido de A a B · transformación · vlogs · contar una historia · reseñar un producto · poner a prueba una teoría · responder una pregunta · dar consejos.
+
+### Hooks
+Algo que dices, haces o muestras en los primeros segundos para captar la atención y detener el scroll. Pueden ser **hablados, escritos, de audio o visuales**.
+**Tipos:** decir por qué eres experta ("Llevo 10+ años en el gym y así pasé de esto a esto") · pregunta ("¿Sabías que…?") · afirmación positiva ("La mejor receta de smoothie que he probado") · negativa o controversial ("Puede ser una opinión impopular, pero…", "No cometas este error") · referencia que el espectador reconoce ("Recreemos el maquillaje de Sabrina Carpenter") · dirigirte a una audiencia específica ("Si eres principiante en el gym…").
+**Hooks visuales:** edición rápida · visual llamativo · hacer una actividad o sostener un objeto · edición dinámica.
+
+**Hooks universales (plantillas):**
+- "Hacer este único cambio en mi X me ahorró Y como Z"
+- "Rompí la regla más grande de X"
+- "Tengo X años y no me avergüenza admitir…"
+- "La verdad que nadie te dice sobre…"
+- "Así hago X como Y con poco presupuesto"
+- "3 cosas que desearía haber sabido antes de empezar X"
+- "El error más común que veo cuando la gente hace X es…"
+- "Si no sabes cómo X, mira esto"
+- "Los consejos XYZ que te daría si no me preocupara herir tus sentimientos"
+- "4 cosas que nunca hago como creadora X que pasó de X a Y sin Z"
+- "Mis no negociables XYZ (como X que logró Y sin Z)"
+
+**Tips para hooks:**
+- Llama a tu audiencia (luchas o deseos): "si tienes piel sensible, evita estos 3 ingredientes".
+- Da contexto de quién eres: "como mamá que lucha con XYZ" / "como fisioterapeuta con 10 años de experiencia" · "Llevo 10 años haciendo X y así pasé de A a B".
+- Afirmaciones negativas o controversiales: "Opinión impopular, pero…" · "Por qué hacer X es el peor consejo para quien quiere Y".
+- Usa la cultura pop o celebridades como experta: "Así vestiría a Beyoncé para la alfombra roja si fuera su estilista".
+
+**Genérico vs. con historia/ángulo único (ej. coach de mentalidad/negocio):**
+- Genérico (aburrido): "5 tips para hacer crecer tu negocio" · "Cómo conseguir tu primer cliente" · "Estrategias de marketing que funcionan".
+- Con ángulo: "5 tips… como mamá que empezó con $100 y sin título en negocios" · "Cómo conseguí mi primer cliente siendo introvertida que odia el networking" · "…de alguien que pasó de maestra sin dinero a coach de 6 cifras" · "3 lecciones tras fracasar 4 veces" · "…como emprendedora neurodivergente que no puede seguir los consejos tradicionales".
+
+### Ejemplos de buen contenido
+- **@vanessanicolestern:** hook visual · estructura de storytelling · nombra el dolor del espectador · aporta valor · explica su experiencia · transformación.
+- **@lenalifts** ("NYC apartment hunting part 4"): afirmación impactante como hook · texto y efectos de sonido · estructura de storytelling · cambia de clip seguido · lleva al espectador en su recorrido · voz en off.
+- **@itschelseahope:** hook de texto que implica una transformación · ritmo rápido · antes y después · audio en tendencia.
+
+### Reels vs. carruseles
+Instagram está cambiando y crecen los **carruseles de storytelling**: más engagement que los reels (aunque los reels tienen más alcance) · a tus seguidores se les muestran más de una vez (si lo saltan, se lo muestra de nuevo desde la diapositiva 2) · al algoritmo le encantan porque hacen que el usuario siga deslizando.
