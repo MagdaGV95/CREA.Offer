@@ -20,10 +20,12 @@ Respuestas a las 4 preguntas de Jun Yuh:
 | **C** | Conexión | Crear un vínculo, con el otro o contigo misma |
 | **R** | Rutinas | Secuencia de pasos para lograr un objetivo |
 | **E** | Estructura | El ambiente que formas para que sea posible, de manera flexible y amigable, evitando resistencia |
-| **A** | Autonomía | Desarrollar la capacidad de hacerlo por sí mismo |
+| **A** | Autonomía | Desarrollar la capacidad de hacerlo por sí mismo, dando pasos imperfectos que nos acercan a la vida que deseamos y a la relación de nuestros sueños, con nosotros mismos y con otros |
 
 Se aplica a una misma, de cuidadores a hijos y de hijos a padres (sin edad).
 Saber ser · saber hacer · saber saber.
+
+Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comunidad; contrarresta el perfeccionismo en la crianza y el matrimonio).
 
 ## Pilares (WHAT)
 1. **Habilidad — Crianza consciente con CREA (0–6 años):** vínculo y confianza para que los hijos hablen, rutinas, ambiente, autonomía, prevención (abuso/acoso/bullying), saber ser y saber hacer de mamá y papá.
