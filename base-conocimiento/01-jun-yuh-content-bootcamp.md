@@ -636,3 +636,35 @@ Algo que dices, haces o muestras en los primeros segundos para captar la atenci�
 
 ### Reels vs. carruseles
 Instagram está cambiando y crecen los **carruseles de storytelling**: más engagement que los reels (aunque los reels tienen más alcance) · a tus seguidores se les muestran más de una vez (si lo saltan, se lo muestra de nuevo desde la diapositiva 2) · al algoritmo le encantan porque hacen que el usuario siga deslizando.
+
+## Embudo de contenido — VIP 8, Semana 3 (Jun Yuh, "Planning your Content")
+Fórmula: **Visión de Creadora + plantillas de hooks = idea de contenido que funciona.**
+Estructura de la Visión de Creadora: QUÉ (mensaje → 4 pilares) · QUIÉN (avatar → demográfico + psicográfico) · POR QUÉ (historia → problema → búsqueda → recompensa).
+
+**Si no tienes las 4 misiones en tu página, fallarás de 1 de 2 maneras.**
+- **Escenario 1:** el coach tradicional solo hace las misiones 3 y 4 (posicionar y convertir) → nadie nuevo lo descubre.
+_(Escenario 2 no aparece en las capturas; probablemente: el creador que solo atrae y nutre y nunca convierte.)_
+
+### Misión 1 · ATRAER
+- **Tu historia:** la gente conecta a través de luchas compartidas · muestra la transformación · CTA para seguir (ej. Jun: "Papá, apenas estoy empezando").
+- **Formatos en tendencia:** formato probado + tu "mensaje" único · CTA para seguir (ej. Jun: "malo / bueno / excelente").
+- **Educadores, simplifiquen su lenguaje:** ✅ simple (hablar de "elegir un nicho" en tono conversacional) · ❌ no simple (explicar la Visión de Creadora con un diagrama complejo).
+
+### Misión 3 · POSICIONAR
+- **Momentos que construyen marca:** muestra tus éxitos · ¡no te preocupes por presumir!
+- **Enseña ideas con matices:** punto de vista experto / de recorrido · ¿cuál es tu visión única?
+
+### Misión 4 · CONVERTIR
+- **Tus mejores videos:** mejor formato + temas de contenido · valor + CTA para comprar (ej. Jun: "Comenta 'class' para registrarte").
+
+### Usa las historias para convertir
+- Tu gente más cercana (la más "caliente").
+- Características del producto, testimonios y tu AMOR por el trabajo.
+- **REGLA DEL 7.**
+- Buen lugar para ofertas con urgencia.
+- ManyChat funciona mejor aquí.
+- **High ticket en historias:** "Spoke too soon. 64/100 GONE!!" (cupos que se agotan) · felicitar a alumnos que entran ("This is what the cohort does!", "Secure your spot → to work 1:1 with me") · capturas de DMs de alumnos agradecidos · resultados de alumnos ("Tenía 2 metas para ella…", "generó $100K").
+
+### ¿Con qué frecuencia publicar cada misión? Depende de tu etapa
+- **Aspirante:** 0–10k · **Emergente:** 10k–100k · **Avanzado:** 100k+.
+- **Calendario de misiones (semanal):** ATRAER 2x · NUTRIR 1x · POSICIONAR 2x · CONVERTIR 2x → **maximiza posicionar y convertir.**
