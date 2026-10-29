@@ -30,7 +30,7 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 ## Pilares (WHAT)
 1. **Habilidad — Crianza consciente con CREA (0–6 años):** vínculo y confianza para que los hijos hablen, rutinas, ambiente, autonomía, prevención (abuso/acoso/bullying), saber ser y saber hacer de mamá y papá.
 2. **Pasión — Movimiento y vida en familia/matrimonio:** taekwondo, disciplina, recargar energía para estar presente; tradiciones, valores, pareja como equipo.
-3. **Historia — La hija que rompió el patrón:** crecer viendo a su madre refugiarse en la comida tras una infidelidad; aprender a huir y refugiarse en la comida; rechazar y luego reconciliarse con su madre; acompañar su transformación; reconstruirse tras un abuso sexual sin acompañamiento.
+3. **Historia — La hija que rompió el patrón:** crecer viendo a su madre refugiarse en la comida tras una infidelidad; aprender a huir y refugiarse en la comida; rechazar y luego reconciliarse con su madre; acompañar su transformación (bajó de 96 a 78 kg en 5 meses, como consecuencia y no como objetivo); reconstruirse tras un abuso sexual sin acompañamiento.
 
 ## Cliente ideal (propuesta)
 **Mamás (y parejas) de niños de 0 a 6 años que crecieron en hogares heridos y no quieren repetir la historia con sus hijos.**
@@ -45,5 +45,4 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 - Posicionamiento educativo, no clínico: ante TCA, abuso o crisis, remitir a profesionales de la salud mental.
 
 ## Datos por confirmar
-- Peso de la mamá: escrito "de 69 a 78 kg" (¿de 96 a 78?).
 - Oferta/producto y precio, plataformas, seguidores actuales, formato en cámara.
