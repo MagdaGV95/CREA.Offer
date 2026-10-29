@@ -1074,3 +1074,47 @@ Atraer: "¡Descubrí a una nueva creadora!" → Nutrir: "Me siento muy conectada
 - **Low ticket:** producto de menos de $1,000 · **High ticket:** producto de $1,000 o más.
 - **Audiencia pequeña (menos de 50K) + poca habilidad** (ej. creadora en ascenso) = sin oferta; enfócate primero en atraer audiencia nueva. **En tus próximos 7 posts: Atraer ×4 · Nutrir ×1 · Posicionar ×2 · Convertir ×0.**
 - **Audiencia pequeña (menos de 50K) + mucha habilidad** (ej. coach o dueña de negocio) = **oferta high ticket.** **En tus próximos 7 posts: Atraer ×3 · Nutrir ×1 · Posicionar ×2 · Convertir ×1.** ← caso de Magda
+
+- **Audiencia grande (más de 50K) + poca habilidad** (ej. "creativa primero") = **oferta low ticket.** **En tus próximos 7 posts: Atraer ×2 · Nutrir ×1 · Posicionar ×3 · Convertir ×1.**
+(Ejemplos de la pizarra de Shan: @jun_yuh en 2023 con 100K = grande + poca habilidad · @imjeffreylin con 3.9K = pequeña + poca · @makenzieco con 12K en ese momento = pequeña + mucha · @jun_yuh hoy con 5M = grande + mucha.)
+
+### Pizarra de Shan Hani (evento Creator College)
+- **Embudo completo:** redes/emails/anuncios → DMs · webinar · página de opt-in · página para agendar llamada → **lead magnet** → recolectar email → **secuencia de emails** (historia · problemas que entiendes · contar historias de ti/clientes · lo que pasa en el mercado · valor · valor · valor · CTA) → **agendar llamada → ofertas HT** / **COMPRAR → ofertas LT** → más emails.
+- **Interacción en DM:** comenta X (ManyChat) → DM automático → abrir conversación MANUALMENTE · responder a mi historia → DM automático → conversación manual · comentar/interactuar → abrir conversación · likes → abrir conversación.
+- Lo que NO importa tanto: "publicar diario", "seguidores", "verse cool".
+- **Matriz habilidad × audiencia** (50K como corte): 1 = Dueño de negocio y creador (grande + mucha) · 2 = estudiantes/jóvenes/creadores de medio tiempo (pequeña + poca) · 3 = Creador → **low ticket / productos low ticket** (grande + poca) · 4 = **Dueños de negocio/coach → lead magnet + agendar llamada + high ticket** (pequeña + mucha). Recorrido: 2 → 3 (al pasar 50K). Shan se ubica en mucha habilidad. **"Regla del 10"** (anotada junto a mucha habilidad y en la base; detalle no visible).
+- **Errores comunes:** "no tengo audiencia / mi contenido no es suficientemente bueno" · LAME (aburrido) · **NO HAGAS NADA GRATIS** · "sitio web + Linktree" · paquetes bronce/plata/oro · ganar menos de $10K al mes.
+- **Lo que sí:** personas ↔ contenido → **1 lead magnet + 1 embudo (agendar llamada / DMs) + 1 OFERTA = $100K** · muestra tu habilidad o capacidad.
+
+### Marco W.O.W. (Shan Hani) — para titulares de embudos, webs, leads, compra y agendar
+- **W — Who is it for?** ¿Para quién es?
+- **O — Outcome they want?** ¿Qué resultado quieren?
+- **W — Without barrier.** Sin la barrera / objeción.
+- Ej. 01 coach fitness — W: "entrenadores personales con agenda llena offline y nada online". **Titular malo:** "Ayudamos a coaches fitness a construir un negocio online próspero. Únete a miles de coaches que transformaron sus ingresos con nuestro sistema probado." (genérico) vs. **titular W.O.W.** (específico: quién + resultado + sin barrera).
+
+### Reel de Jun "No necesitas más motivación…" (formato collage con imágenes alrededor de él)
+- **Todos los días:** mueve tu cuerpo · tiende tu cama · escribe en tu diario 5 minutos.
+- **Una vez a la semana:** planea tu semana · noche sin pantallas · prepara tus comidas.
+- **Una vez al mes:** una meta grande · revisa metas anteriores · foto de progreso.
+(771 likes · 1,109 guardados → alto guardado = valor.)
+
+### Checklist "¿Atrapada en la cárcel de las 200 vistas?" (reel de Creator College, 1,136 likes · 1,128 guardados · 249 envíos)
+**ANTES DE GRABAR 📝**
+- Hook definido: los primeros 2 segundos deben detener el scroll.
+- Guion con valor: asegúrate de que la audiencia gane algo con el contenido.
+- Ángulo claro: atraer, nutrir, posicionar o convertir.
+**DURANTE LA GRABACIÓN 📹**
+- Cuida tus zonas seguras: mantén tu cara al centro de la pantalla.
+- B-roll o cortes planeados: el movimiento o las ediciones mantienen la retención.
+- Buena iluminación: luz natural o aro de luz; nada de fluorescente en el techo.
+**EDICIÓN 🎬**
+- Usa la app Edits: más alcance al usar la app de Instagram.
+- Subtítulos: automáticos + limpieza manual para que sean exactos.
+- Silencios y pausas recortados: cero segundos desperdiciados.
+- Texto y efectos de sonido: mantienen el video atractivo de principio a fin.
+- Menos de 90 segundos: los reels cortos funcionan mejor.
+**PUBLICACIÓN 📲**
+- Pie de foto escrito (hook + contexto + CTA): la primera línea debe invitar a seguir leyendo.
+- 3–5 hashtags específicos: solo para optimizar palabras clave.
+- Activa "Subir con la máxima calidad": mejor calidad = mejor engagement.
+- Responde comentarios en las primeras 24 horas: fomenta la conversación para más engagement.
