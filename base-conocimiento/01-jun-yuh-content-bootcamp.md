@@ -512,3 +512,38 @@ Cada escalón requiere más tiempo y confianza.
 ## Media Kit (Molly Rees, Creator College)
 **Lo usarás cuando:** una marca te contacte para colaborar y pida tu experiencia o estadísticas · negocies con una marca y necesites comunicar tu valor · te ofrezcas a marcas y necesites presentar tu valor y contenido de forma profesional.
 **Esenciales:** introducción (breve: qué tipo de contenido haces) · ejemplos de contenido (de tus pilares y donde las marcas imaginen su producto) · colaboraciones previas y testimonios · estadísticas clave (vistas, likes, etc.) · demografía de la audiencia (edad, género, ubicación) · contacto y links (que funcionen) + email.
+
+### Media Kit — plantilla y trato con marcas (Molly Rees)
+- **Plantilla Canva de Creator College** (11 páginas): portada/portafolio · **intro** (¿quién eres? ¿tus hobbies? ¿tus intereses? ¿experiencia previa creando contenido?) · **nicho** con 4 "tipos de contenido" y la marca de ejemplo de cada uno · ejemplos · clientes · feedback · contacto.
+- **Email de propuesta — sí:** preséntate a la marca · muestra que la amas de verdad · dile qué gana trabajando contigo · sé clara y concisa · incluye links a tus redes/Media Kit.
+- **Email de propuesta — no:** hablar solo de ti · mandar tus tarifas de inmediato · copiar y pegar propuestas · adjuntar documentos (puede ir a spam) · enlazar solo tu tarjeta de perfil de Instagram (difícil en computadora).
+- **Formato del pitch:** saludo al equipo de la marca → preséntate (tu contenido, valores y ubicación) → muestra que amas la marca (sé específica) → explica por qué la marca se beneficia (resultados de tu audiencia) → qué quieres de la marca → link al Media Kit → cierra con una pregunta → despedida formal pero amable → firma con redes.
+- **Contratos (básico):** alcance/entregables (tipo, cantidad, plazos) · derechos de uso (cómo, plataformas, duración, lugares) · exclusividad (no trabajar con la competencia durante el contrato).
+- **Seguimiento:** tabla de facturas y pagos: # factura · marca · monto · fecha de envío · fecha de pago · estado · notas.
+
+## Optimizar el perfil (Molly Rees, Creator College)
+**¿Por qué importa?** Comunica tu marca personal · más seguidores · más descubrimiento · atrae a la audiencia correcta · que las marcas te descubran y te contacten.
+**¿Cómo atrae marcas?** Palabras clave (te encuentran en el buscador) · comunica quién eres / primera impresión instantánea (deciden si encajas) · profesionalismo (bio bien hecha, buenas imágenes, branding coherente = confiable).
+**Primera impresión = nombre y usuario + bio + foto de perfil + posts fijados + destacadas.**
+
+### Nombre y usuario
+- El usuario es el @; el nombre se puede personalizar.
+- Ambos claros de leer y fáciles de recordar.
+- Ambos se pueden buscar → incluye **palabras clave** (ej. "ALAIAS | Fitness & Wellness Coach", "Stefanie 🏴 vegan food & fitness").
+- Las palabras clave en el nombre ayudan a la plataforma a categorizar tu cuenta.
+- **No uses tipografías especiales**: Instagram y TikTok no pueden leerlas ni buscarlas.
+
+### Foto de perfil
+Alta calidad · que se te vea claramente · que represente tu contenido y marca.
+
+### Bio de Instagram
+**Objetivo:** dar una primera impresión clara de quién eres y qué contenido haces · incluir palabras clave para descubrimiento y categorización · que quieran seguirte o dar clic en tus links.
+**Checklist:** palabras clave de tu contenido · qué es tu contenido / qué gana quien te sigue · tu personalidad · por qué eres experta · tu email · un **CTA fuerte**.
+Ejemplo (@myriadrecipes): personalidad/valores/experiencia · quién eres y qué haces · palabras clave · línea con email para marcas · CTA hacia el link. Instagram ahora tiene botón de email, así no ocupas espacio en la bio.
+
+### CTA en la bio
+- **Buenos:** ofrecen algo concreto y gratis con instrucción clara ("Two weeks FREE unlimited Pilates ⬇️", "Grab your FREE Parasite Cleanse Guide", "DM 'LEVELUP' for my Free Investing Guide!", "70,000 people read my newsletter 👇").
+- **Malos:** genéricos o sin beneficio claro ("Links to everything are below", "Download here ↓" sin decir qué gana la persona).
+
+### Destacadas y playlists
+Las destacadas de Instagram y las playlists de TikTok aseguran que quien llega a tu perfil tenga la primera impresión correcta de quién eres (ej. "tutoriales a fondo", "It Girl tutorials", "bts + brain dumps").
