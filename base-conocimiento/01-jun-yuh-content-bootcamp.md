@@ -729,3 +729,50 @@ Enfócate en lo que le gusta a tu audiencia; si la gente lo ve, las recomendacio
 1. **Interés en el tema:** cuántas personas en el mundo se interesan por ese tema; algunos temas tienen más alcance y eso cambia con el tiempo.
 2. **Competencia:** YouTube compara tu video con los de todos los canales que ve el espectador; aunque tus métricas sean buenas, puedes tener menos impresiones si otros rinden mejor.
 3. **Temporada:** el tráfico cambia según la época del año; piensa en el país de tu audiencia y en lo que pasa en sus vidas; espera variaciones en fechas festivas.
+
+## Métricas importantes para el algoritmo (YouTube, Creator College)
+- **Suscriptores ganados por video:** el total de suscriptores no es útil; no afecta tus vistas ni cómo te trata el algoritmo. **La única manera de tener más vistas es hacer buenos videos.** Pero identifica qué videos traen suscriptores, para descubrir qué hace crecer tu comunidad (ej. 219.9K vistas · 15.9K h vistas · +5.6K subs).
+- **CTR (tasa de clics):** qué tan seguido ven el video tras ver la miniatura/título. 0–2% malo · 2–4% mejorar · 5–6% promedio de la industria · 7–9% sobre el promedio · 10%+ élite.
+- **Tiempo de visualización:** mira el **porcentaje promedio visto (APV)** (ej. video de 10 min: la mayoría vio el 33%).
+- **Tráfico de recomendados:** las recomendaciones de YouTube (Inicio, "A continuación") son una fuente clave; el algoritmo hace el trabajo por ti. Ver en YouTube Studio › Contenido › (elige video) › Estadísticas › Resumen › fuentes de tráfico.
+
+## STORY Framework (para vender, "Inside Out Marketing")
+| Letra | Paso | Qué es |
+|---|---|---|
+| **S** | Stop them (detenlos) | El hook |
+| **T** | Trouble (problema) | El problema |
+| **O** | Outcome (resultado) | El sueño antes del producto |
+| **R** | Reveal (revelación) | Marketing de adentro hacia afuera |
+| **Y** | Yes, but (sí, pero) | Objeciones y pruebas |
+(No confundir con el S.T.O.R.Y. de storytelling de Jun: punto de partida, transformación, cambio de opinión, revelación, tu porqué.)
+
+## Guiones para YouTube (Nellis, Creator College)
+### Investigación (antes de escribir)
+Necesitas una **idea fuerte** que la gente quiera ver.
+1. **Busca lo que ya funciona:** sugerencias de autocompletado (búsquedas reales) · videos mejor posicionados (qué títulos y miniaturas atraen vistas) · fecha de subida vs. vistas (¿son recientes? ¿siguen teniendo tracción?).
+2. **Usa herramientas:** **vidIQ** o TubeBuddy (volumen de búsqueda, competencia, etiquetas) · **Google Trends** (si un tema va ganando impulso).
+
+### 9 tipos de hook
+| # | Tipo | Qué es | Por qué funciona | Ejemplo |
+|---|---|---|---|---|
+| 1 | Adelanto (teaser) | Un vistazo de lo que viene sin revelar el final | Crea anticipación | "Al final de este video sabrás cómo transformé mi vida solo con Google Calendar." |
+| 2 | Pregunta | Una pregunta que tu audiencia ya se hace o debería | Queremos responder y resolver la tensión | "¿Por qué la mayoría falla al bajar de peso aunque lo haga todo 'bien'?" |
+| 3 | Estadística | Un número sorprendente o impactante | Los números se sienten reales y dan credibilidad | "¿Sabías que más del 80% de los estudiantes no termina los cursos online que empieza?" |
+| 4 | Emoción | Conecta con un sentimiento (frustración, emoción, tristeza, alegría) | Si se siente vista, confía en que la guíes | "Estaba atascada, agotada y cansada de fingir que todo estaba bien." |
+| 5 | Historia personal | Algo de tu vida ligado al tema (logro, lucha, lección) | Estamos hechos para las historias; genera confianza | "Hace dos años tenía $20,000 de deuda. Hoy tengo un negocio de seis cifras, y así lo logré." |
+| 6 | Escénico | Visual bonito + narración o música | La intriga visual atrapa antes de hablar (viajes, lifestyle, fitness, vlog) | (Clips de un amanecer) "A veces necesitas perderte en la naturaleza para encontrar claridad…" |
+| 7 | Testimonio | Clip o cita de alguien que logró algo con tu método | Prueba social | "Seguí la rutina matutina de este chico y nunca he sido tan productivo." |
+| 8 | Acción | Empezar en medio de un momento de energía (ejercicio, reto, confrontación) y luego explicar | Movimiento y energía desde el segundo 1 | (Corriendo en caminadora, jadeando) "Ok… eso fue una locura. Pero así es como corrí 10K a las 5 AM." |
+| 9 | Sorpresa | Algo inesperado, un giro o una opinión polémica | Reinicia la atención y despierta curiosidad | "Va a sonar loco… pero dejé de ir al gym para bajar de peso." |
+
+### Contenido principal
+- **Qué aprenderán (promesa):** tras el hook, explica qué obtendrán, qué problema se resuelve o con qué beneficio se van. Piensa: "Al final de este video vas a…". Objetivo: poner expectativas y generar confianza.
+- **Desglose paso a paso:** el corazón del video. 3–5 pasos claros · cada punto conciso y con propósito · transiciones simples ("Ahora que sabes esto… viene la siguiente parte", "Aquí es donde la mayoría se equivoca, pon atención") · incluye **resúmenes rápidos, mini adelantos y preguntas**. Objetivo: mantener el ritmo; cada segundo enseña, crea curiosidad o aclara.
+- **Interrupciones de patrón:** momentos que **reinician la atención** (clave para el tiempo de visualización): B-roll o visuales · efectos de sonido · textos emergentes · memes en pantalla · cambio de tono o emoción · pregunta directa al espectador. Objetivo: evitar una entrega plana; **cambia algo cada 15–30 segundos**.
+- **Insight o historia personal:** una historia corta e identificable para humanizar el video; bastan 20 segundos ("Yo también luché con esto, y esto fue lo que me ayudó…"). Objetivo: conexión emocional; la gente recuerda historias más que datos.
+
+### Ejemplo de guion de YouTube (plantilla "GENFLOW")
+Secciones: 1) **Brief del video** · 2) **Preparación de grabación** · 3) **Contenido adicional**.
+- **Título:** investigar títulos con palabras clave de videos que ya funcionan (ej. "What I Eat In A Day | I lost 135 pounds…", "…lose 100 pounds", "…lose 42 lbs…") → **añadir efecto de historia personal**: "What I Eat In A Day – I LOST 70 POUNDS WITH THESE EXACT MEALS!"
+- **Descripción de YouTube:** bienvenida + qué revela el video + recorrido del día + para quién es.
+- **Guion (10–20 min editado):** hook ("¿Lista para descubrir los secretos de mi increíble pérdida de 70 libras?… quédate porque no querrás perderte ni un bocado") → puntos (1. Enfócate en la proteína todo el día → 1. Desayuno alto en proteína…) → **"Añade una historia personal para que la gente se identifique."**
