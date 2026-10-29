@@ -442,3 +442,48 @@ Extra: "4 hábitos que mejoran ___" · "3 cosas que te frenan de ___" · "Normal
 
 ## Preguntas frecuentes sobre la Visión de Creadora (sin respuesta en la captura)
 ¿Cómo hablar de varios intereses manteniendo una marca coherente? · ¿Cómo hablar de dos productos de industrias distintas? · ¿Puedo tener dos audiencias? · ¿Qué hago si mi habilidad es también mi pasión? · Si comparto mis dolores todo el tiempo, ¿cómo evito que la cuenta sea deprimente? · ¿Cómo hacer que el punto de vista de recorrido no sea egoísta? · Si vuelvo a redes, ¿hago un post de presentación o empiezo directo con las ideas?
+
+## Tarea de la clase
+Seguir trabajando tu **Visión de Creadora + tus 10 ideas**.
+
+## ¿Qué es el contenido?
+El vehículo para compartir tu historia en redes. Dos partes:
+**MENSAJE** (¿qué dices? → Visión de Creadora) **+ FORMATO** (¿cómo lo presentas? b-roll, a cámara, voz en off… → **Método 7x7**) **= contenido que funciona.**
+
+## Visión de Creadora sirve para
+Tu "estrella del norte" · mensajes consistentes · contenido con propósito · MUCHA variedad.
+
+## 2 categorías de formato
+- **Hablando:** a cámara o voz en off.
+- **Sin hablar:** mezcla de b-roll, texto y sonido.
+**¿Por qué ambos?** Las vistas con videos sin hablar llegan más rápido, pero **la confianza de los videos hablados se acumula a largo plazo.**
+**Contenido de calidad puede ser de baja intensidad, siempre que aporte VALOR.**
+
+## Frecuencia e intensidad (posts por semana)
+| # posts | Hablando | Sin hablar | Alta intensidad | Baja intensidad |
+|---|---|---|---|---|
+| 7 | 3 | 4 | 2 | 5 |
+| 6 | 3 | 3 | 2 | 4 |
+| 5 | 2 | 3 | 2 | 3 |
+| 4 | 2 | 2 | 1 | 3 |
+
+## 3 pasos para un buen hook
+1. **Interrupción de patrón:** algo hablado, escrito o visual que destaca y capta la atención en los primeros 3 segundos.
+2. **Brecha de curiosidad.**
+3. **Ancla visual.**
+
+## Checklist video SIN hablar
+- **Hooks:** visual y de título en los primeros 3 s.
+- **Arco de historia:** progresión clara, sin desvíos ni confusión.
+- **Ancla visual:** tiempo (años, meses) · contraste (antes vs. después) · proceso (pasos 1 → 2 → 3).
+- **Texto legible:** cada línea se puede leer en voz alta y destaca del fondo.
+- **Música que anticipa:** acción ascendente que insinúa una recompensa.
+- **Duración:** 8–45 s en general.
+
+## Checklist video HABLANDO
+- **Hooks:** hablado, visual y de título en los primeros 3 s.
+- **Flujo narrativo:** progresión clara, sin desvíos.
+- **Voz:** buen ritmo, cambios de entonación, frases naturales, pausas estratégicas.
+- **Overlays:** el b-roll y el texto suman en vez de distraer. ¡Incluye subtítulos!
+- **Encuadre:** bien iluminado, sin que los íconos de la app tapen nada.
+- **Duración:** 35–90 s en general.
