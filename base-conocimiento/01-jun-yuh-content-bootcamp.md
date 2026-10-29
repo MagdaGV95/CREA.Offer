@@ -1145,3 +1145,26 @@ Atraer: "¡Descubrí a una nueva creadora!" → Nutrir: "Me siento muy conectada
 - **@elliotmurphyy (malo):** "No importa qué tan lento corras, siempre le ganas a la versión de ti que se quedó en casa" (un clip corriendo). Hook = demasiado genérico para captar atención · Dolor = ninguno específico · Valor = plano; la falta de enfoque reduce la identificación · Re-hooks = nada cambia, así que no hay re-hook.
 - **@elliotmurphyy (bueno):** "World's Greatest Stretch, 5 por lado". Hook = apunta a un dolor específico y los visuales cambian rápido · Dolor = ser corredor sin gimnasio · Valor = mucho valor educativo, comparte los ejercicios · Re-hooks = te mantiene viendo para encontrar la solución a tu dolor.
 **Lección:** misma persona, mismo tema; la diferencia es dolor específico + valor accionable + cambios visuales. (Igual que los reels de paisaje + frase genérica de Magda vs. su reel "¿Tu hijo no quiere estudiar?".)
+
+## Masterclass — Video a cámara si odias hablar a cámara (versión actualizada, con Claude)
+1. **Elige una idea:** que esté en tus Habilidades, Pasiones o Historia (Día 1) y define la misión del video: Atraer, Nutrir, Posicionar o Convertir (Día 3).
+2. **Usa una herramienta de dictado:** si te cuesta escribir, usa la función de dictado de Claude; di tus ideas en voz alta y pide a la IA que las convierta en un guion fácil de digerir (puedes darle una duración objetivo).
+3. **Hazlo tuyo:** **NUNCA** dejes el guion exactamente como te lo da Claude; revísalo, ponlo en tus palabras y añade tu experiencia y personalidad.
+4. **Graba una línea a la vez:** grabar todo de corrido es difícil incluso para creadores con experiencia. Una línea a la vez te deja revisar el guion sin presión, y **los cortes (jump cuts) hacen el video más atractivo.**
+- **Ejemplo de guion de Jun en Google Docs** (una frase por línea; resaltado el hook de 5 líneas): "si eres multi-apasionada, / la forma tradicional de enfocarte en un solo nicho / no te va a funcionar. / pero está bien, / porque hay una nueva forma de ganar en redes. / piénsalo. / tus creadores favoritos / suelen ser conocidos por varias cosas distintas. / la clave / es tener varios pilares de contenido / bajo una sola marca personal. / ahora, / ¿cómo haces que eso tenga sentido / para tu audiencia? / el truco / es tener un mensaje unificador…"
+- **"AI Script Generator" de Creator College (herramienta hecha con Claude):** elige formato → responde preguntas → guion completo con el razonamiento de coaching de cada parte.
+  - **Talking Head (30–60 s):** tú a cámara hablándole directo a tu espectador; recomendado para nutrir, posicionar y convertir. Ideal para compartir experiencia, lecciones personales, opiniones o crear conexión parasocial.
+  - **Silent Film (20–30 s):** visuales + texto en pantalla, sin voz; la música lleva la emoción. El formato más fácil de controlar para retención. Ideal para historia personal, arcos de transformación, contenido de atraer y crecer rápido.
+  - Pregunta clave: "¿Cuál es el objetivo de este video?" → Atraer (crecer, llegar a gente nueva) · Nutrir (profundizar con quienes ya te siguen) · Posicionar (mostrar experiencia, generar confianza) · Convertir (llevar a una acción: registro, compra, DM).
+  - Se basa en "6 principios de coaching" (no visibles).
+
+## Cierre emocional de venta (Jun)
+"Cada día que esperas… alguien más se está convirtiendo en la versión de ti que te da miedo ser. **Ellos no tienen tu historia. No tienen tus habilidades. No tienen tu gusto. No tienen tu verdad.**"
+
+## Hooks que detienen el scroll — Parte 2 (masterclass)
+- **La gente no se salta tu video porque sea aburrido. Se lo salta porque todavía no sabe por qué debería importarle.**
+- **¿Qué es un hook?** Algo que dices, haces o escribes en pantalla para captar la atención y detener el scroll.
+- **Psicología de los hooks:** a la gente le atrae lo que todavía no sabe. Cuando introduces una pregunta sin respuesta ("Nunca esperé que esto pasara…"), el cerebro automáticamente quiere la respuesta.
+- **Brecha de curiosidad:** el espacio entre lo que el espectador ya sabe y lo que quiere saber.
+- **Hook débil:** "Quiero compartir mi camino como creador" → sin curiosidad · sin emoción · sin razón para seguir viendo.
+- **Hook fuerte:** "Casi dejo de crear contenido antes de mi primer video viral" → crea curiosidad · introduce conflicto · el espectador quiere el desenlace.
