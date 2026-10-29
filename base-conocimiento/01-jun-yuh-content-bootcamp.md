@@ -267,7 +267,7 @@ Formato "sistema paso a paso" con texto sobre fondo negro + su cara en esquina.
 
 **Fórmula base:** TU HABILIDAD + TU AUDIENCIA.
 
-### Matriz de Shan Hani (habilidad × audiencia; audiencia "grande" ≈ 50k+, "sin audiencia" = 0–50k)
+### Matriz de Shan Hani — "Qué oferta y embudo deberías usar" (sin audiencia = 0–20k seguidores; gran audiencia = 100k+; mucha habilidad = has vendido 100k+ USD de tu habilidad o creas contenido educativo atractivo; poca habilidad = sin habilidades de negocio ni contenido educativo). Meta "estrella del norte" = cuadrante 1 (donde está Jun hoy).
 | Cuadrante | Perfil | Qué hacer |
 |---|---|---|
 | 1 · Mucha habilidad + gran audiencia | Dueño de negocio y creador | Lead magnet, upsell a producto digital low ticket, venta directa low ticket, página para agendar llamada, vender servicio u oferta high ticket, emails a todos → **ecosistema** |
@@ -362,3 +362,26 @@ Ambos pueden crear contenido poderoso.
 3. Etiqueta a @creatorcollege_.
 
 **Series insignia de experto (ejemplos):** clasificaciones a ciegas ("blind rankings") · "Lecciones de ___" · "Si yo fuera su coach" · serie de preguntas frecuentes (FAQ).
+
+**Nota de Magda:** el punto de vista EXPERTO es para las personas con título (degree) / credenciales.
+
+## Por qué el storytelling es importante
+1. **Crea conexión:** cuando compartes historias, tu audiencia se ve reflejada en ti.
+2. **Te hace memorable:** la gente olvida la información; recuerda cómo la hiciste sentir.
+3. **Construye confianza y credibilidad:** muestra que entiendes profundamente a tu audiencia porque tú también estuviste ahí.
+4. **Te diferencia:** cualquiera puede copiar un hook, formato o mensaje; tu historia es lo único que no se puede copiar.
+"La gente compra personas", no logos ni carruseles bonitos de Canva.
+
+## Marco S.T.O.R.Y. (5 maneras de contar historias, en recorrido o experto)
+| Letra | Qué es | Contenido | Por qué |
+|---|---|---|---|
+| **S** – Starting point (punto de partida) | Tu historia de origen | Cómo llegaste a donde estás y por qué haces este contenido | Entender tu trasfondo (sirve como post fijado) |
+| **T** – Transformation (transformación) | Antes > después | Un cambio físico, financiero, de relación, de carrera, etc. | La audiencia apoya tu recorrido |
+| **O** – Opinion shift (cambio de opinión) | Mentalidad en crecimiento | Una creencia que tenías y ya no, y cómo hiciste ese cambio mental | Desarrolla tu ética personal |
+| **R** – Realization (revelación) | Momento "ajá" | Tu visión contraria que rompe la narrativa común | Desbloqueo mental para tu audiencia; te ven como líder de pensamiento |
+| **Y** – Your why (tu porqué) | ¿Cuál es tu razón? | El significado personal de lo que compartes y por qué | Te diferencia del "nicho" |
+
+## Banco de formatos ganadores (VIP "7x7 Bank" de Jun)
+Hoja de cálculo por categorías (entrenador/salud, coaches, profesionales, etc.) con columnas: creador · seguidores · link · vistas · # compartidos · **hook (texto + visual)** · formato · intensidad · duración · audio · CTA · notas.
+Ejemplo (categoría coaches, cuenta de 42.9k): reels de 6–7 s, "silent film / B-roll", baja intensidad (un clip con texto), audio en tendencia, valor en el pie de foto, CTA en el pie de foto ("guárdalo para…" / "sígueme para…"); vistas de 278k a 2.5M.
+Aprendizajes: un solo plano con movimiento dentro del cuadro; texto en el centro; texto identificable; el número ("5…") en pantalla.
