@@ -27,13 +27,16 @@ Magda: 31 años. 10 años acompañando infancias: ~5 años docente frente a grup
 
 ## VIE (hoy) — Atraer · clip único con texto
 **Texto en pantalla (centrado):**
-> Tengo 31 años y me da vergüenza admitir que por años rechacé a mi mamá por la misma herida que yo cargaba.
+> Tengo 31 años y me da vergüenza admitir que por años me alejé de mi mamá por la misma herida que yo cargaba.
+
+(Cambiado de "rechacé" a "me alejé" por decisión de Magda: su mamá ve los videos y no quiere herirla.)
 
 **Audio:** canción emotiva en tendencia, suave.
 **Pie de foto:**
 Crecí viendo a mi mamá refugiarse en la comida después de una infidelidad.
 Sin darme cuenta, aprendí a hacer lo mismo: huir, callar, comer.
-Por mucho tiempo la juzgué. Cuando se fue a buscar ayuda, me dolió… hoy sé que fue lo más valiente que hizo.
+Por mucho tiempo puse distancia sin entender que las dos cargábamos lo mismo.
+Cuando ella decidió buscar ayuda, no lo comprendí… hoy sé que fue de lo más valiente que ha hecho.
 En mayo la invité a entrenar conmigo. No para bajar de peso. Para estar juntas.
 Hoy entiendo que los hijos también podemos ayudar a sanar a nuestros padres.
 Un paso imperfecto a la vez. 🌱 El hogar que sueñas comienza contigo.
