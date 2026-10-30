@@ -9,7 +9,7 @@
 | Original | Problema (según Jun) | Cambio |
 |---|---|---|
 | "Durante mucho tiempo pensé que…" | Arranque lento, sin curiosidad ni dolor | Hook con el dolor exacto: "solo me dice 'bien'" |
-| Credibilidad en el 2º párrafo | Llega tarde | "10 años como maestra" en los primeros 10 s |
+| Credibilidad en el 2º párrafo | Llega tarde | "10 años acompañando infancias" en los primeros 10 s |
 | ~250 palabras (~90 s) | Largo para un reel | ~140 palabras (~50 s) |
 | Ideas generales | Falta lo accionable | 3 tareas concretas para hacer en equipo |
 | Sin re-hook | Se pierde la atención a la mitad | "Y aquí está lo que lo cambia todo" |
@@ -20,7 +20,7 @@
 |---|---|---|---|
 | 1 · Hook | "Si le preguntas a tu hijo '¿cómo te fue?' y siempre te dice 'bien'…" | **¿Solo te dice "bien"?** | Primer plano, ceja arriba, a cámara |
 | 2 | "…no es que no quiera hablar contigo. Es que le preguntas en el momento equivocado." | **Momento equivocado** | Corte a plano más cerrado |
-| 3 · Credibilidad | "En más de 10 años como maestra noté algo:" | **+10 años como maestra** | Plano medio |
+| 3 · Credibilidad | "En 10 años acompañando infancias noté algo:" | **10 años acompañando infancias** | Plano medio |
 | 4 · Recompensa | "los niños hablan más cuando tienen las manos ocupadas." | **Manos ocupadas = boca abierta** | B-roll: manitas amasando / pintando |
 | 5 | "Cocinando contigo, en el carro, doblando la ropa… te cuentan cosas que ni les preguntaste." | | B-roll rápido (3 clips de 1 s) |
 | 6 · Re-hook | "Y aquí está lo que lo cambia todo:" | **👇** | Te acercas a cámara |
@@ -52,6 +52,6 @@ Hoy elige una tarea para hacer en equipo y cuéntame qué te dijo tu hijo 👇
 
 ## Hooks alternativos (para probar en Trial Reels)
 - Negativo: "Puedes pasar todo el día con tu hijo y aun así no saber qué le preocupa."
-- Autoridad: "Después de 10 años como maestra, descubrí cuándo hablan de verdad los niños."
+- Autoridad: "Después de 10 años acompañando infancias, descubrí cuándo hablan de verdad los niños."
 - Lista: "3 tareas de la casa que hacen que tu hijo te cuente todo."
 - Positivo: "Este es el momento del día en que tu hijo más te va a contar."

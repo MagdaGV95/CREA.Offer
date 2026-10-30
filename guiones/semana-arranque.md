@@ -1,7 +1,7 @@
 # Semana de arranque — vie 30 oct → vie 6 nov 2026
 "Mejor hecho que perfecto." Todo se graba HOY en ~45 min con buena luz.
 Mezcla: Atraer ×4 · Nutrir ×2 · Posicionar ×1 · Convertir (suave) ×1.
-Supuesto: Magda tiene 31 años y 10 años de experiencia como maestra y directiva (confirmar).
+Magda: 31 años. 10 años acompañando infancias: ~5 años docente frente a grupo, ~1.5 ciclos escolares como directora, el resto acompañando familias en sus hogares en EE. UU.
 
 ## Calendario
 | Día | Misión | Formato | Pieza | ¿Grabar hoy? |
@@ -42,7 +42,7 @@ Un paso imperfecto a la vez. 🌱 El hogar que sueñas comienza contigo.
 ## SÁB — Atraer · a cámara (~30 s)
 1. Si le preguntas a tu hijo "¿cómo te fue?" y te dice "bien"…
 2. no es que no quiera hablar contigo.
-3. Fui maestra por 10 años y noté algo:
+3. Llevo 10 años acompañando infancias y noté algo:
 4. los niños hablan más cuando tienen las manos ocupadas.
 5. Cocinando contigo, en el carro, doblando la ropa…
 6. ahí te cuentan lo que ni les preguntaste.

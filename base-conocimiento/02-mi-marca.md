@@ -53,6 +53,11 @@ Frase de marca derivada: **"Pasos imperfectos"** (posible nombre de serie o comu
 - El abuso: dosificar; no es necesario dar detalles para transmitir el mensaje.
 - Posicionamiento educativo, no clínico: ante TCA, abuso o crisis, remitir a profesionales de la salud mental.
 
+## Experiencia (confirmada)
+- 31 años de edad.
+- **10 años acompañando infancias:** ~5 años docente frente a grupo · ~1.5 ciclos escolares como directora · el resto acompañando a familias dentro de sus hogares en EE. UU.
+- Frase de credibilidad: "Llevo 10 años acompañando infancias" (no "10 años como maestra").
+
 ## Situación actual (oct 2026)
 - Cómoda hablando a cámara: **sí**.
 - Seguidores: TikTok 709 · Instagram 855 (le cuesta mantener y crecer) · YouTube 309 · Facebook 124 · Threads 29 · LinkedIn 3.
