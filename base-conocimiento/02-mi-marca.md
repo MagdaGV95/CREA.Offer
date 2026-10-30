@@ -95,10 +95,9 @@ Hijos del matrimonio (mamá + papá):
 3. **Magda — 1995** (tercera hija de su mamá dentro del matrimonio).
 
 Hijos de su papá con otras mujeres:
-- Con la segunda mujer: Antonio (1996) y Luisa Fernanda (2–3 años menor que Magda).
+- Con la segunda mujer: Antonio (1994, un año mayor que Magda) y Luisa Fernanda (2–3 años menor que Magda).
 - Con la tercera mujer: Nicol (15 años en 2026).
 
 Notas de uso:
 - Magda NO es la hija mayor; es "hija de en medio" / la menor del matrimonio.
-- Por confirmar: antes mencionó que el hijo de la otra mujer era 1 año mayor que ella; aquí indica 1996 (1 año menor).
 - Nunca usar nombres de familiares en contenido sin su permiso.
