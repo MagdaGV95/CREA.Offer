@@ -31,14 +31,17 @@ Magda: 31 años. 10 años acompañando infancias: ~5 años docente frente a grup
 
 (Cambiado de "rechacé" a "me alejé" por decisión de Magda: su mamá ve los videos y no quiere herirla.)
 
+**Título (estilo buscador):** Cómo sanar la relación con mi mamá | Romper patrones familiares
+**Portada:** LA MISMA HERIDA
 **Audio:** canción emotiva en tendencia, suave.
 **Pie de foto:**
 Crecí viendo a mi mamá refugiarse en la comida después de una infidelidad.
 Sin darme cuenta, aprendí a hacer lo mismo: huir, callar, comer.
 Por mucho tiempo puse distancia sin entender que las dos cargábamos lo mismo.
 Cuando ella decidió buscar ayuda, no lo comprendí… hoy sé que fue de lo más valiente que ha hecho.
-En mayo la invité a entrenar conmigo. No para bajar de peso. Para estar juntas.
-Hoy entiendo que los hijos también podemos ayudar a sanar a nuestros padres.
+La invité muchas veces a entrenar conmigo, y en mayo por fin dijo que sí.
+No para bajar de peso: para estar juntas y mostrarle que había otro camino.
+Hoy entiendo que los hijos también podemos inspirar a nuestros padres y acompañarlos a sanar.
 Un paso imperfecto a la vez. 🌱 El hogar que sueñas comienza contigo.
 ¿Tú también estás sanando con tu mamá? Escríbeme 🤍
 
