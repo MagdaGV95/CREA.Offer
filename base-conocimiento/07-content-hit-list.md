@@ -133,7 +133,9 @@ Este recurso acorta tu curva de aprendizaje con: formatos repetibles · ideas es
 
 ---
 
-## HISTORIAS POR TIPO E INTENSIDAD
+## FORMATOS DE STORYTELLING POR TIPO E INTENSIDAD
+(Confirmado por Magda: son formatos de storytelling. Corresponden a la S.T.O.R.Y. de Jun: Origen = Starting point · Proyecto = Transformation/recorrido · Cambio de opinión = Opinion shift · Carrera = experiencia/Your why. Alta = alta intensidad (>1 h), baja = baja intensidad (<1 h).)
+Nota: en la lista que Magda volvió a compartir no aparecen DZxw-8ZvQY0 (Proyecto), DUKtVc4jfqd (Cambio de opinión) ni DHfRW9COR2Q (Carrera); se conservan aquí por venir del documento original.
 
 ### Origen
 - https://www.instagram.com/p/DOu6xb1CKzb/ (alta)
