@@ -1227,3 +1227,21 @@ Atraer: "¡Descubrí a una nueva creadora!" → Nutrir: "Me siento muy conectada
 **Matriz habilidad de edición × experiencia en tu industria:** poca edición + mucha experiencia (← Magda) · mucha edición + mucha experiencia (meta) · poca + poca · mucha edición + poca experiencia. → La experiencia en tu industria pesa; la edición se aprende.
 
 **Checklist de edición — antes de publicar pregúntate:** ¿quité los espacios muertos? · ¿los subtítulos se leen fácil? · ¿el ritmo es lo bastante rápido? · ¿cada edición aporta valor? · ¿el audio está equilibrado?
+
+## Calendario de historias de Instagram (ejemplo de Jun, Miro "Story Calendar Example", marzo 2025)
+| Día | Tema de historias | Misión | Qué se ve |
+|---|---|---|---|
+| Lunes | **Caja de preguntas (Q&A)** | Nutrir | Responde preguntas de la audiencia con texto largo sobre fotos suyas (trabajando, foto de niño, en el gym) |
+| Martes | **Un día en mi vida** | Posicionar | Set de grabación, comida, guion impreso, grabando con equipo, editando, con alumnos/equipo |
+| Miércoles | **Serie insignia "Wednesday Wins"** | Nutrir | "¡Es miércoles de victorias! Publica una historia tuya logrando las 4 victorias, etiquétame y usa #juns4wins"; reposts de seguidores (físico, espiritual, mental, responsabilidad) → genera comunidad y contenido de la audiencia |
+| Jueves | **Transformación** | Convertir | "Hoy fue un día MUY duro… pero estoy orgulloso" · "Semana de finales INSANA hasta ahora…" · calificaciones finales · "Si quieres más conocimiento a fondo… Guía para el éxito académico" · "Descuento limitado de 30%… usa el código HOLIDAY30" + botón de venta |
+| Viernes | **Detrás de cámaras de un proyecto** | (Posicionar/Nutrir) | Collage: "Tantas fotos BTS que recuerdo compartir con ustedes…" + explicación de cómo trabaja con alumnos |
+| Sábado | **Encuesta para el tema de la historia** | Nutrir | "¿Qué te gustaría aprender en las historias de hoy?" + encuesta → entrega el tema más votado (ej. reutilizar contenido, preparar contenido por adelantado, "¿crees que no tienes tiempo para publicar constante?") |
+
+## Predicciones de tendencias de noviembre (Creator College)
+1. **"¿No puedes ___? Haz ___"** (carrusel en pantalla dividida, @camisophiaaaa): "¿No puedes hacer un entrenamiento completo? → camina 10 minutos afuera" · "¿No puedes 10,000 pasos? → camina hasta la esquina". Hace que las metas grandes se sientan alcanzables con una alternativa pequeña; anima a actuar aunque no haya tiempo, energía o motivación para hacerlo perfecto.
+2. **Muestra más de tu proceso** (reel cómico, @niknishere): "Tienes que grabar tu proceso creativo. / Mi proceso creativo:" (y se ve algo nada glamuroso). Se burla con humor de la realidad; muestra que incluso quien lo hace ver fácil tiene sus momentos.
+3. **"Cosas que hago para llenar mi propia taza"** (carrusel de frase llamativa, @olivialodenius): muy simple; fotos del carrete + lista de cosas que te dan alegría ("usar mis outfits favoritos una y otra vez").
+4. **Ranking** (reel, @arasteh: "calificando 5 tendencias de bienestar según la ciencia (#1 te puede sorprender)"): las listas generan engagement; el ranking hace que sigan viendo, comparen su opinión y comenten.
+5. **"Por cierto, está bien hacer ambas"** (carrusel en pantalla dividida, tendencia "flop-core", @nicolargunby): "que te rechacen & seguir creyendo en ello". Quitarse la presión de ser perfecta; mostrar logros junto a luchas, o la versión pulida junto a la realidad desordenada.
+6. **"Me niego a limitarme a un solo nicho"** (reel, @wendi.zeng): creencia central de Creator College — no necesitas encajar en un nicho; **puedes ser el nicho**. Ideal para creadoras multi-apasionadas; la combinación de tus intereses es lo que te hace destacar.
