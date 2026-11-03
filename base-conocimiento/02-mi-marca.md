@@ -114,3 +114,34 @@ Notas de uso:
 - Novios desde el **21 de noviembre de 2014** → 21 nov 2026 = **12 años juntos**.
 - Boda civil: **14 de febrero de 2022** · Boda religiosa: **9 de julio de 2022**.
 - Fechas útiles para contenido: 21 nov (aniversario de novios), 14 feb (civil + San Valentín), 9 jul (iglesia).
+
+### Gilberto en el contenido
+- Prefiere su privacidad. **Acepta salir de espaldas o poco, sin hablar a cámara.** Objetivo: que exista la figura de pareja (que no piensen que Magda es soltera).
+- Ya graban cosas juntos (parque, caminatas en familia).
+- Los dos aportan económicamente a la casa.
+- Comidas familiares que incluyen a Kia.
+- No tienen matrimonios cercanos como referencia → están descubriendo juntos qué les gusta, qué quieren hacer, mantener y **jamás tener**.
+- Tradición deseada: **foto anual de Navidad estilo postal**.
+- Celebran 3 aniversarios: 21 nov, 14 feb, 9 jul.
+- **"Su amor me salvó":** Gilberto fue paciente y comprensivo; permaneció y se hizo presente cuando ella quería rendirse en la vida, y le dio fuerza para continuar.
+
+## Kia
+- Nació el 1 de enero de 2020; llegó a casa en febrero de 2020, poco antes del encierro por la pandemia.
+- Le enseña a **pausar** cuando lleva mucho tiempo en algo administrativo, a respirar y a tomar aire fresco.
+- Cuando percibe emociones confusas en Magda, se acerca y busca estar con ella.
+- Después del abuso, cuando Magda no podía cuidarse, Kia y Gilberto también sufrieron las consecuencias (descuido físico de los tres). Cuando el amor empezó a sanarla, pudo volver a ponerse intención a sí misma y darles lo que necesitaban.
+
+## Relación con sus padres (hoy)
+- **Papá:** "buen papá"; cumplió lo básico (comida, calzado, ropa, sin lujos) y siempre se interesó en que estudiara y tuviera su carrera. **Como pareja, otra opinión.** → En contenido: hablar de él con respeto; separar "papá" de "esposo".
+- **Mamá:** en un proceso de volver a sí misma; estaba un poco perdida y ahora busca lo que la hace sentir bien. Magda la acompaña con mentalidad desde CREA y con parte de sus rutinas (ejercicio, movimiento). Hace cosas que antes no hacía; bajar de peso fue un resultado, no el objetivo.
+- **Reflexión central de Magda:** su mamá hizo el sacrificio de quedarse para que sus hijas crecieran con un padre, rompiendo su propio patrón (ella no lo tuvo), aunque no fuera del todo feliz. "Me dio la primera enseñanza." Magda quiere acompañarla a continuar y romper los patrones de la familia en la que creció.
+- **Ya le agradeció:** por haberlo intentado, y por poner el ejercicio en su vida ("lo mejor que me ha sucedido").
+
+## Ideas de contenido que salen de aquí
+- "Mi mamá rompió su patrón para que yo tuviera papá. Yo estoy rompiendo el mío." (storytelling, Historia)
+- "Gracias, mamá, por intentarlo" (carrusel/clip: lo que le agradeció).
+- "Su amor me salvó" (21 nov, 12 años) — sin detalles del abuso; enfoque en la presencia y la paciencia.
+- "Lo que Kia me enseñó sobre pausar" (Pasión, sin hablar, clips con Kia).
+- "Lo que quiero que nuestro matrimonio tenga… y lo que jamás" (lista/carrusel; Gilberto de espaldas).
+- "No tenemos un matrimonio modelo cerca, así que lo estamos inventando" (identificable para su clienta).
+- Foto de Navidad estilo postal → serie anual.
