@@ -173,3 +173,9 @@ Maquillarse · ducha caliente · masaje en el cuero cabelludo con las yemas de l
 ## Preferencias de trabajo (confirmadas)
 - Contenido **solo de lunes a viernes, hasta las 4 pm**. Nada el fin de semana.
 - Grabar todo en **1 o 2 días**. Todo debe quedar grabado, editado y programado; solo falta el paso de publicar (o se publica solo).
+
+## Fe y visión del matrimonio
+- **Católica**; se casó por la Iglesia católica (9 jul 2022).
+- Cree en el **liderazgo de su esposo como el hombre de la familia** y en **su calidez como la mujer del hogar** (roles complementarios). Ambos aportan económicamente.
+- Uso en contenido: la fe como **valor que se nota** (gratitud, perdón, propósito, familia), con piezas explícitas de vez en cuando (ej. fechas litúrgicas, Navidad, lo que su fe le enseñó sobre perdonar).
+- Tono: compartir lo que ella vive y cree ("en nuestro hogar…"), sin imponerlo a otras familias. Esto atrae a mamás con valores afines (comunidad de esposas) sin alejar a las demás.
