@@ -13,9 +13,9 @@ Regla 30-3-3 de Jun: en 30 min, 3 lugares × 3 emociones = 9 clips. Cada clip: 5
 |---|---|---|
 | **01 Mañana** | 5:35 preparando la mochila de Gilberto (solo manos) · café · luz entrando por la ventana | Cualquier día, 5 min |
 | **02 Movimiento** | Calentamiento · movilidad · fuerza · yoga · respiración · tenis, tapete, mancuernas (tú; mamá/suegra solo si aceptan y como acuerden) | Lun–vie 8 am, 3 min |
-| **03 Cuidarme** | Maquillándote · estilizando el cabello · ducha (solo vapor/agua/manos en el cuero cabelludo) · frente al espejo | 1 vez |
-| **04 Hogar en calma** | Casa ordenada · doblando ropa · cocina · mesa puesta para comida familiar | 1 vez |
-| **05 Kia** | Sentadas en las escaleras viendo por la ventana · trucos · jugando · Kia acercándose a ti · Kia en comidas familiares | 1 vez + espontáneo |
+| **03 Cuidarme** | Skincare · maquillándote · estilizando el cabello · ducha (solo vapor/agua/manos en el cuero cabelludo) · frente al espejo | 1 vez |
+| **04 Hogar en calma** | Velas encendidas · casa ordenada · doblando ropa · cocina · mesa puesta para comida familiar | 1 vez |
+| **05 Kia** | Paseando a Kia · sentadas en las escaleras viendo por la ventana · trucos · jugando · Kia acercándose a ti · Kia en comidas familiares | 1 vez + espontáneo |
 | **06 Pareja** | Caminando con Gilberto (de espaldas) · manos entrelazadas · parque · stroller con Kia | Paseos de fin de semana |
 | **07 Pensativa / a cámara** | Ventana · escribiendo en libreta · mirada a lo lejos · sonrisa a cámara | Viernes de grabación |
 | **08 Lugares de paz** | Manhattan · parque · cielo · árboles | Ya tienes; sumar cuando salgas |
@@ -70,5 +70,9 @@ Texto grande y llamativo sobre cada foto, colores cálidos.
 6. "sentarme con Kia en las escaleras a ver por la ventana" (05)
 7. "jugar con Kia y pedirle trucos" (05)
 8. "moverme cada mañana" (02)
-9. **Cierre:** "No puedes dar lo que no tienes. Llena tu taza primero. 🌱"
+9. "mi rutina de skincare, sin prisa" (03)
+10. "pasear a Kia y caminar en el parque" (05 / 06)
+11. "comidas en familia (Kia incluida)" (04 / 06)
+12. "prender velas al atardecer" (04)
+13. **Cierre:** "No puedes dar lo que no tienes. Llena tu taza primero. 🌱"
 **Pie:** "Antes creía que cuidarme era egoísta. Hoy sé que mi familia necesita a una mujer en calma, no a una mujer agotada. ¿Qué haces tú para llenar tu taza? 👇"

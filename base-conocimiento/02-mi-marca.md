@@ -163,9 +163,13 @@ Notas de uso:
 - (Usar nombres de organizaciones solo con su permiso; sirven como prueba de autoridad.)
 
 ## Cosas que llenan su taza
-Maquillarse · ducha caliente · masaje en el cuero cabelludo con las yemas de los dedos, con intención · estilizarse el cabello · casa en orden, ambiente tranquilo · sentarse con Kia en las escaleras a ver por la ventana · jugar con Kia y pedirle trucos.
+Maquillarse · ducha caliente · masaje en el cuero cabelludo con las yemas de los dedos, con intención · estilizarse el cabello · casa en orden, ambiente tranquilo · sentarse con Kia en las escaleras a ver por la ventana · jugar con Kia y pedirle trucos · skincare · pasear a Kia · ir al parque · comidas familiares · prender velas.
 
 ## Límites de privacidad (confirmados)
 - Guardar cierta privacidad de **mamá, papá y hermana**. No arriesgar los lazos familiares; sí mostrar la transformación y conectar.
 - Gilberto: solo de espaldas o poco, sin hablar.
 - Por confirmar: si la mamá puede aparecer entrenando (y de qué forma: de espaldas, manos, sin cara).
+
+## Preferencias de trabajo (confirmadas)
+- Contenido **solo de lunes a viernes, hasta las 4 pm**. Nada el fin de semana.
+- Grabar todo en **1 o 2 días**. Todo debe quedar grabado, editado y programado; solo falta el paso de publicar (o se publica solo).
