@@ -101,3 +101,10 @@ Hijos de su papá con otras mujeres:
 Notas de uso:
 - Magda NO es la hija mayor; es "hija de en medio" / la menor del matrimonio.
 - Nunca usar nombres de familiares en contenido sin su permiso.
+
+## Identidad personal (para tono y pilares)
+- **Esposa.** Cree en el matrimonio y en el poder de las familias en la sociedad.
+- **Le gusta el ejercicio** (fuerza, yoga, core; antes taekwondo).
+- **Mascota: Kia** (aparece en videos corriendo y en stroller en el parque).
+- **Está reconstruyendo la relación con sus padres** (mamá y papá).
+- **Temperamento: flemático** (según ella). Implicación para el contenido: voz calmada, cálida, paciente y reflexiva → encaja con formatos de calma (storytelling silencioso, a cámara pausado, texto + música suave). Cuidar que los hooks tengan suficiente "pellizco" de curiosidad/tensión, y apoyarse en la edición (cortes, texto) para el ritmo.
