@@ -145,3 +145,27 @@ Notas de uso:
 - "Lo que quiero que nuestro matrimonio tenga… y lo que jamás" (lista/carrusel; Gilberto de espaldas).
 - "No tenemos un matrimonio modelo cerca, así que lo estamos inventando" (identificable para su clienta).
 - Foto de Navidad estilo postal → serie anual.
+
+## Más sobre su mamá
+- Entró a otros círculos donde la gente cuida de sí misma con movimiento y ejercicio; sigue con su fe, asistiendo a la iglesia.
+- Cuando visitó a Magda en Nueva York (con pocas palabras, triste, intentándolo, con lucha por dentro), lo que más comentaba era que le gustaba cómo se veía: Magda la maquilló, le estilizó el cabello y le compró ropa. Decía que "se veía diferente".
+- **Insight de Magda (posible parte del método):** un cambio **palpable y visible, rápido** ayuda a "cambiar el chip": ver algo que te gusta de ti rompe rápido un patrón y hace más difícil permitirte un pensamiento negativo. → Conecta con "pequeñas victorias" (landing familiainquebrantable.com/victoria) y con la A de Autonomía (pasos imperfectos).
+
+## Su convicción (frase de misión)
+"Con las herramientas y la mentalidad adecuadas, los padres pueden liderar sus hogares con propósito, intención, estructura, autonomía y conexión, por medio de rutinas para cada miembro de la familia y de la educación socioemocional de sus hijos."
+**"Todo se repite si no rompemos el ciclo":** el odio, el rencor, el resentimiento… y también la valentía, el amor, la compasión y la fe. Lo positivo y lo negativo de la humanidad puede volver a repetirse.
+
+## Rutina diaria (para planear grabaciones)
+- 5:35 am: prepara la mochila de Gilberto para su transición de la casa al trabajo.
+- 8:00 am, lunes a viernes: entrena con su mamá y su suegra.
+- Voluntaria hasta el 20 nov 2026 en el Consulado General de México en NY: Pensamiento Matemático para adultos que presentan el examen CENEVAL.
+- Voluntaria en Carroll Gardens Association (trabajadoras del hogar): proyecto para elevar el estándar de las niñeras; apoya con tecnología (pasar formularios físicos a digitales para concentrar datos). Será testimonio de la asociación ante una organización patrocinadora.
+- (Usar nombres de organizaciones solo con su permiso; sirven como prueba de autoridad.)
+
+## Cosas que llenan su taza
+Maquillarse · ducha caliente · masaje en el cuero cabelludo con las yemas de los dedos, con intención · estilizarse el cabello · casa en orden, ambiente tranquilo · sentarse con Kia en las escaleras a ver por la ventana · jugar con Kia y pedirle trucos.
+
+## Límites de privacidad (confirmados)
+- Guardar cierta privacidad de **mamá, papá y hermana**. No arriesgar los lazos familiares; sí mostrar la transformación y conectar.
+- Gilberto: solo de espaldas o poco, sin hablar.
+- Por confirmar: si la mamá puede aparecer entrenando (y de qué forma: de espaldas, manos, sin cara).
