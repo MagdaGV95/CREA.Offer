@@ -108,3 +108,9 @@ Notas de uso:
 - **Mascota: Kia** (aparece en videos corriendo y en stroller en el parque).
 - **Está reconstruyendo la relación con sus padres** (mamá y papá).
 - **Temperamento: flemático** (según ella). Implicación para el contenido: voz calmada, cálida, paciente y reflexiva → encaja con formatos de calma (storytelling silencioso, a cámara pausado, texto + música suave). Cuidar que los hooks tengan suficiente "pellizco" de curiosidad/tensión, y apoyarse en la edición (cortes, texto) para el ritmo.
+
+## Matrimonio con Gilberto
+- Se conocieron en **septiembre de 2014 en Guerrero**, después de lo sucedido con los 43 desaparecidos de Ayotzinapa (contexto sensible: tratar con respeto, nunca como gancho).
+- Novios desde el **21 de noviembre de 2014** → 21 nov 2026 = **12 años juntos**.
+- Boda civil: **14 de febrero de 2022** · Boda religiosa: **9 de julio de 2022**.
+- Fechas útiles para contenido: 21 nov (aniversario de novios), 14 feb (civil + San Valentín), 9 jul (iglesia).
