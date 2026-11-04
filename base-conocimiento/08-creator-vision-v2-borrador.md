@@ -19,7 +19,7 @@ Siempre tienes el poder de elegir
 
 ### lifestyle (how you live) — Esposa, hogar cálido, movimiento
 Matrimonio católico · Hogar en calma (velas, orden, comidas en familia) · Entreno diario con mi mamá y mi suegra · Kia · Autocuidado · Reconstruyendo la relación con mis padres
-→ **this shows how to apply your ideas:** Cocino para Gilberto (acto de servicio) · Le preparo su mochila a las 5:35 · Mi propia transformación (172 → 150 lb) · Acompaño a mi mamá con CREA · Kia me enseña a pausar · Eligiéndome
+→ **this shows how to apply your ideas:** Cocino para Gilberto (acto de servicio) · Le preparo su mochila a las 5:35 · Mi propia transformación (cuerpo y mente) · Acompaño a mi mamá con CREA · Kia me enseña a pausar · Eligiéndome
 
 ### passions (what you love) — Familia y conexión
 Matrimonio · Familia · Movimiento · Desarrollo personal · Fe · Servicio
@@ -42,16 +42,28 @@ Mamás hispanas de 20 a 45 años con hijos de 0 a 6 años (y papás).
 ## WHY (por qué) — story
 
 ### problem (what was the struggle)
-Crecí en un hogar fracturado por una infidelidad · Mi mamá se refugió en la comida y yo aprendí a huir, callar y comer · Me perdí: miedo a salir, encierro, pensamientos intrusivos · Descuido físico · No reconocerme en el espejo · Cansada
+Crecí en un hogar fracturado por una infidelidad · Mi mamá se refugió en la comida y yo aprendí a huir, callar y comer · Luchar, repeler y caer en un trastorno alimenticio · Me perdí: miedo a salir, encierro, pensamientos intrusivos · Descuido físico · No reconocerme en el espejo · Cansada
 
 ### pursuit (how did you overcome the struggle)
-El amor y la paciencia de mi esposo · Amor propio · Rutinas de autocuidado paso a paso · Movimiento y ejercicio · Desarrollo personal · Romper creencias limitantes · Fe · Red de apoyo
+El amor y cuidado que recibí de mi esposo, después de darme el permiso de recibirlo · Amor propio · Rutinas de autocuidado paso a paso · Movimiento y ejercicio · Desarrollo personal · Romper creencias limitantes · Fe · Red de apoyo
 
 ### payoff (what was the outcome)
-Autoestima · Energía · Paciencia y mejor escucha · Mi propia transformación (172 → 150 lb) · Relación fortalecida con mi esposo y mis padres · Acompañé a mi mamá a cambiar sus hábitos (96 → 78 kg, sin que fuera el objetivo) · Familias que dejaron de luchar con el comportamiento y empezaron a enseñar la habilidad
+Autoestima · Energía · Paciencia y mejor escucha · Mi propia transformación: hábitos, energía y paz con mi cuerpo · Relación fortalecida con mi esposo y mis padres · Acompañé a mi mamá a cambiar sus hábitos · Familias que dejaron de luchar con el comportamiento y empezaron a enseñar la habilidad
 
 ---
 ## Extras (ramas sugeridas por la plantilla de Creator College)
 - **Unicidad / mi verdad:** hija que rompió el patrón + educadora con maestría + 10 años en aulas y hogares + método CREA.
 - **Monetización / ecosistema:** lead magnet CREA → masterclass → programa grupal (masterclass + mastermind + movimiento, 3 veces por semana, grabado) → mentoría 1:1 high ticket (cupo limitado) → comunidad de esposas.
 - **Materiales existentes:** 2 materiales creados para el Consulado General de México en NY (Pensamiento Matemático).
+
+---
+## ⚠️ Cuidado con el tema de trastornos alimenticios (TCA)
+Para proteger a la audiencia y cumplir las políticas de Instagram, TikTok, Facebook y YouTube:
+- **Sin números:** no cifras de peso, kilos, libras, tallas ni calorías (ni de Magda ni de su mamá). Quitadas de la Visión de Creadora.
+- **Sin fotos "antes/después" del cuerpo** ni básculas, cintas métricas o comparaciones corporales.
+- **Sin describir conductas** (atracones, restricción, purgas, métodos). Hablar del proceso emocional, no de la conducta.
+- **En pasado y desde la recuperación:** "viví un trastorno alimenticio y hoy…".
+- **Enfoque en conexión, hábitos y autocuidado**, nunca en bajar de peso.
+- **Recurso de ayuda** cuando se toque el tema: "Si estás pasando por algo similar, busca apoyo profesional." (Ej. en EE. UU.: ANAD Helpline; en México: línea de la Vida 800 911 2000.) Confirmar recursos vigentes antes de publicar.
+- **Advertencia al inicio** si el video es sensible ("aviso: hablo de trastornos alimenticios").
+- Hashtags neutros (#sanar #romperpatrones), no hashtags de TCA.

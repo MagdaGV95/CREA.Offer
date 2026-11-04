@@ -33,3 +33,13 @@ Magda = **creadora basada en habilidad/coach**: audiencia pequeña (~2,000) + mu
 - El escalón 1 (CREA) se usa primero como **lead magnet gratuito** (guía/mini clase), no como producto.
 - Embudo inicial: reel/carrusel → comenta palabra clave → DM con guía CREA gratis → conversación por DM → llamada → mentoría.
 - El low ticket se activa cuando la audiencia crezca (modelo "creador experto").
+
+## Materiales existentes (Drive "CREA", creados para la Conferencia CREA en el Consulado)
+1. **Regalo 1 · "Lo puedo hacer desde hoy" — Una consigna para cada momento del día.**
+   Antes de hablar: ponte a su nivel · contacto visual · su nombre. Fórmula: **Nombre + acción + objeto** ("Mateo, ponte los zapatos"). Consignas por momento: mañana · alimentación · juego · transiciones (avisa antes) · noche · dormir, con espacio "Mi consigna". Recuerda: acércate · una consigna a la vez · dila una vez, tranquila y firme · quédate presente hasta que termine.
+2. **Regalo 2 · "Nuestro ritual de la comida" — Conexión · Celebración · Gratitud.** Tareas por edad (2–3, 3–4, 4–5, 5–6 años): avisar "¡a comer!", recolectar ingredientes, lavar frutas, poner la mesa, servir agua, emplatar, retirar platos, limpiar la mesa, lavar y secar…
+3. **Formulario "Tu opinión me ayuda a crear para tu familia"** + hoja "Respuestas · Conferencia CREA" (sin respuestas aún): edades de hijos, valor de la conferencia, qué aplicará, **momento más difícil del día**, qué quiere aprender, **¿quiere acompañamiento?**, permiso. → Sirve como formulario de calificación de leads y encuesta de dolores.
+
+**Firma metodológica (aparece en ambos):** **Lo hago y me ves → Lo hacemos juntos → Lo haces y te veo** (Modela · Acompaña · Confía y verifica). Es la ruta hacia la Autonomía (A de CREA). Usar como nombre de módulo, carrusel y hook.
+
+**Uso en el embudo:** Regalo 1 = lead magnet principal (responde a "mis hijos no me hacen caso"). Regalo 2 = bono / lead magnet secundario. Palabra clave sugerida: **CREA** (ya está en la bio).
