@@ -58,6 +58,7 @@ Autoestima · Energía · Paciencia y mejor escucha · Mi propia transformación
 
 ---
 ## ⚠️ Cuidado con el tema de trastornos alimenticios (TCA)
+**Decisión de Magda (4 nov):** su enfoque es **vida saludable**. SÍ usa resultados palpables (ej. "mi mamá bajó 18 kilos" como consecuencia; sus fotos de transformación como resultado de una mentalidad diferente). NO habla de trastornos como tal ni incita. Las reglas de abajo aplican solo si algún día se toca el tema del TCA.
 Para proteger a la audiencia y cumplir las políticas de Instagram, TikTok, Facebook y YouTube:
 - **Sin números:** no cifras de peso, kilos, libras, tallas ni calorías (ni de Magda ni de su mamá). Quitadas de la Visión de Creadora.
 - **Sin fotos "antes/después" del cuerpo** ni básculas, cintas métricas o comparaciones corporales.
