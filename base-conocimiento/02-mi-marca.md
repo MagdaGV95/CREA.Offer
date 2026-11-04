@@ -179,3 +179,5 @@ Maquillarse · ducha caliente · masaje en el cuero cabelludo con las yemas de l
 - Cree en el **liderazgo de su esposo como el hombre de la familia** y en **su calidez como la mujer del hogar** (roles complementarios). Ambos aportan económicamente.
 - Uso en contenido: la fe como **valor que se nota** (gratitud, perdón, propósito, familia), con piezas explícitas de vez en cuando (ej. fechas litúrgicas, Navidad, lo que su fe le enseñó sobre perdonar).
 - Tono: compartir lo que ella vive y cree ("en nuestro hogar…"), sin imponerlo a otras familias. Esto atrae a mamás con valores afines (comunidad de esposas) sin alejar a las demás.
+
+> ⚠️ Las cifras de peso de esta ficha son contexto privado. **No se publican** (ver reglas TCA en `08-creator-vision-v2-borrador.md`).

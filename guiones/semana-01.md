@@ -36,7 +36,7 @@ Cierre fijo de marca: *"Un paso imperfecto a la vez. El hogar que sueñas comien
 ---
 
 ## Martes · Historia — "Nunca fue el objetivo"
-Ver guion completo #1 (mamá: de 96 a 78 kg en 5 meses, entrenando juntas desde mayo).
+Guion #1 "Nunca fue el objetivo" — REESCRIBIR sin cifras de peso (ver reglas TCA en 08-creator-vision-v2-borrador.md). Hook alternativo: "Invité a mi mamá a entrenar conmigo… y lo que cambió no fue su cuerpo."
 **Pendiente:** permiso de la mamá.
 
 ---
