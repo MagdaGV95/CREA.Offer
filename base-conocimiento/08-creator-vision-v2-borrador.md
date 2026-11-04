@@ -1,42 +1,57 @@
-# Creator Vision v2 — BORRADOR (consolida Canva v1 + notas a mano + conversación)
-Punto de vista: **EXPERTA** (título + 10 años acompañando infancias + transformación con su mamá).
-Formatos ganadores del POV experto (Jun): pantalla verde · pantalla dividida · demostración · framework de 3 pasos · "5 cosas que nunca harías como…" · opinión contraria · reaccionar a otro video · contar tu historia · compartir tu mentalidad · "Soy una ___ de ___ años y no me avergüenza admitir…".
-Marcado ❓ = falta confirmar con Magda.
+# Creator Vision v2 — FINAL para pegar en Canva
+POV: **EXPERTA** (Jun Yuh). Copia de trabajo en Canva: "MG Creator Vision" (DAHZ-n5Gwt4). El original no se tocó.
+Nota: la API de Canva no permite editar pizarras (whiteboard); el texto se pega a mano, nodo por nodo.
 
-## QUÉ
-**Mensaje:** "El hogar que sueñas comienza contigo." ❓ (Canva dice "Todo comienza contigo")
+---
+## WHAT (qué)
 
-**Pilares**
-| Pilar | Contenido |
-|---|---|
-| Habilidad (lo que haces → monetizas) | Crianza 0–6 con método CREA: rutinas, estructura del ambiente, conexión, autonomía, hitos del desarrollo, comunicación, educación socioemocional, prevención (que tu hijo te cuente todo). Saber ser · saber saber · saber hacer. |
-| Perspectiva (cómo piensas) | "Todo se repite si no rompemos el ciclo." · Siempre tienes el poder de elegir · El ciclo termina conmigo · Cambia el entorno cuando cambio yo · Lo que no sanamos como hijos lo enseñamos sin querer como padres · Un cambio visible ayuda a cambiar el chip · Liderazgo y amor. |
-| Estilo de vida (cómo vives) | Esposa católica · hogar cálido (velas, orden, comidas familiares) · entreno diario 8 am con mamá y suegra · Kia · rutina 5:35 am · voluntariado (Consulado, Carroll Gardens Association). |
-| Pasiones (lo que amas) | Familia y matrimonio · movimiento · desarrollo personal · servicio · conexión. |
+### message
+El hogar que sueñas comienza contigo.
+(Todo comienza con uno mismo: cuando te permites sentir y actuar diferente, tu resultado cambia, y los demás —y tú misma— te perciben diferente.)
 
-**Visión contraria:** ❓ (en notas: "Mentira por mis hijos"?) — candidatas: "Los hijos también pueden sanar a sus padres" · "Más tiempo con tus hijos no es más cercanía" · "No cambias a tu esposo exigiéndole; cambias tú".
+### skill (what you do) — Educación infantil
+Educación preescolar · Gestión educativa (maestría) · 10 años acompañando infancias · Rutinas y estructura en el hogar · Educación socioemocional · Manejo de berrinches · Autonomía 0–6
+→ **this is where you monetize:** Masterclass · Mastermind grupal · Clase de movimiento · Mentoría 1:1 (high ticket) · Materiales educativos y rutinas visuales
 
-## QUIÉN
-**Demográfico:** mamás ❓(y papás) hispanas, ❓25–40 años, casadas, con hijos de 0–6 años, profesionistas, en EE. UU. ❓y LATAM.
-**Psicográfico**
-| Dolor | Deseo |
-|---|---|
-| Cansancio y agotamiento | Calma, paz, energía |
-| Hijos retadores; luchas en comidas, baños y siestas | Rutinas fluidas, menos resistencia |
-| Sin autoridad / sin respeto | Liderar su hogar con seguridad |
-| Criar "sola" aunque esté casada | Matrimonio en equipo |
-| Miedo a repetir los patrones que vivió | Romper el ciclo |
-| No saber si su hijo le contaría algo grave | Hijos que confían y le cuentan todo |
-| Baja autoestima, no reconocerse en el espejo, sin presencia | Sentirse bien consigo misma, presente |
-| Altas expectativas, prisa por que sean autónomos | Autonomía a su ritmo (pasos imperfectos) |
+### perspective (how you think) — Todo se repite si no rompemos el ciclo
+Siempre tienes el poder de elegir
+→ **people learn to think like you:** El ciclo termina conmigo · Lo que no sanamos como hijos, lo enseñamos sin querer como padres · No basta con morir por tus hijos: ¿vivirías por ellos? · Cuando cambio yo, cambia mi entorno · Un cambio visible cambia el chip · Soy responsable
 
-## POR QUÉ — Historia
-- **Problema:** hogar fracturado por una infidelidad; su mamá se refugió en la comida; ella aprendió a huir, callar y comer; abuso sin acompañamiento; se perdió a sí misma: miedo a salir, encierro, pensamientos intrusivos, descuido físico, cansancio.
-- **Búsqueda:** el amor y la presencia de Gilberto; amor propio; desarrollo personal; rutinas de autocuidado paso a paso; movimiento; romper creencias limitantes; red de apoyo; fe.
-- **Recompensa:** autoestima, energía, paciencia, mejor escucha; relación fortalecida con su esposo y sus padres; acompañó a su mamá (96 → 78 kg como consecuencia); ❓172 → 145 lb; ❓de empleada a dueña de negocio; familias que fluyen en rutinas.
+### lifestyle (how you live) — Esposa, hogar cálido, movimiento
+Matrimonio católico · Hogar en calma (velas, orden, comidas en familia) · Entreno diario con mi mamá y mi suegra · Kia · Autocuidado · Reconstruyendo la relación con mis padres
+→ **this shows how to apply your ideas:** Cocino para Gilberto (acto de servicio) · Le preparo su mochila a las 5:35 · Mi propia transformación (172 → 150 lb) · Acompaño a mi mamá con CREA · Kia me enseña a pausar · Eligiéndome
 
-## UNICIDAD — Tu verdad
-Dolor (patrones familiares, abuso) · pasión (familia, movimiento) · experiencia (5 años docente, 1.5 ciclos directora, acompañamiento en hogares en EE. UU., maestría en gestión educativa) · habilidad (método CREA, educación socioemocional).
+### passions (what you love) — Familia y conexión
+Matrimonio · Familia · Movimiento · Desarrollo personal · Fe · Servicio
+→ **shared values help you build connection:** El poder de las familias en la sociedad · El hombre que lidera, la mujer que da calidez · Futuros hijos · Tradiciones (foto navideña anual, 3 aniversarios)
 
-## MONETIZACIÓN — Ecosistema (según Jun: audiencia pequeña + mucha habilidad = high ticket)
-Lead magnet (guía CREA) → DM/llamada → **oferta high ticket** (mentoría/programa) ❓ → después: comunidad de esposas, producto low ticket.
+---
+## WHO (quién)
+
+### avatar
+Mamás hispanas de 20 a 45 años con hijos de 0 a 6 años (y papás).
+
+### demographic (age, location, gender, occupation)
+20–45 años · Principalmente mamás · Hispanos en EE. UU. (principal) · México · LATAM · España · Profesionistas y mamás que trabajan
+
+### psychographic (pain, desire)
+**Dolor:** "Mis hijos no me hacen caso" · "Tienen mal comportamiento" · "Lo estoy haciendo sola" · Cansada · Sin autoridad ni respeto · Luchas en comidas, baños y siestas · Grita y luego se siente culpable · Miedo a repetir lo que vivió · No se reconoce en el espejo · Sin presencia
+**Deseo:** Que sus hijos cooperen sin gritos · Calma en casa · Rutinas que fluyan · Liderar con seguridad · Hijos que le cuenten todo · Criar en equipo con su pareja · Sentirse bien consigo misma
+
+---
+## WHY (por qué) — story
+
+### problem (what was the struggle)
+Crecí en un hogar fracturado por una infidelidad · Mi mamá se refugió en la comida y yo aprendí a huir, callar y comer · Me perdí: miedo a salir, encierro, pensamientos intrusivos · Descuido físico · No reconocerme en el espejo · Cansada
+
+### pursuit (how did you overcome the struggle)
+El amor y la paciencia de mi esposo · Amor propio · Rutinas de autocuidado paso a paso · Movimiento y ejercicio · Desarrollo personal · Romper creencias limitantes · Fe · Red de apoyo
+
+### payoff (what was the outcome)
+Autoestima · Energía · Paciencia y mejor escucha · Mi propia transformación (172 → 150 lb) · Relación fortalecida con mi esposo y mis padres · Acompañé a mi mamá a cambiar sus hábitos (96 → 78 kg, sin que fuera el objetivo) · Familias que dejaron de luchar con el comportamiento y empezaron a enseñar la habilidad
+
+---
+## Extras (ramas sugeridas por la plantilla de Creator College)
+- **Unicidad / mi verdad:** hija que rompió el patrón + educadora con maestría + 10 años en aulas y hogares + método CREA.
+- **Monetización / ecosistema:** lead magnet CREA → masterclass → programa grupal (masterclass + mastermind + movimiento, 3 veces por semana, grabado) → mentoría 1:1 high ticket (cupo limitado) → comunidad de esposas.
+- **Materiales existentes:** 2 materiales creados para el Consulado General de México en NY (Pensamiento Matemático).
