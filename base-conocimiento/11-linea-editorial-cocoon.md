@@ -78,3 +78,45 @@ Fortalecen: los tres territorios. Diluyen: tendencias sin relación con el hogar
 
 **15. Si tuviera que resumir mi línea editorial en una sola frase, ¿qué conversación central diría que vine a construir?**
 **"Vine a construir la conversación de que el hogar que sueñas comienza contigo: mujeres que se lideran a sí mismas con pequeñas victorias para transformar sus relaciones, su cuerpo y su familia."**
+
+---
+
+## Análisis de afinidad: guía ↔ Creator Vision v2 ↔ 3 conceptos (9 nov 2026)
+Propósito de la guía (aclarado por Magda): descubrir los 3 conceptos y comprobar que coinciden con la Creator Vision.
+Conceptos: **R** = Relaciones · **L** = Desarrollo personal orientado al liderazgo · **B** = Bienestar y movimiento.
+
+### Creator Vision → conceptos
+| Elemento de la Creator Vision v2 | R | L | B | Nota |
+|---|---|---|---|---|
+| Mensaje: El hogar que sueñas comienza contigo | ● | ● | | "Comienza contigo" = L · "hogar" = R |
+| Habilidad: educación infantil, crianza 0–6, rutinas | ● | ○ | | Su mayor autoridad queda escondida dentro de R |
+| Perspectiva: todo se repite si no rompemos el ciclo | ○ | ● | | |
+| Estilo de vida: matrimonio, hogar en calma, entreno, Kia, autocuidado | ● | | ● | |
+| Pasiones: matrimonio, familia, movimiento, desarrollo personal, fe, servicio | ● | ● | ● | Fe y servicio no tienen concepto propio |
+| Historia · problema: hogar herido, comida como refugio, perderse | ● | ● | ● | |
+| Historia · búsqueda: amor del esposo, rutinas, movimiento, desarrollo personal, fe | ● | ● | ● | |
+| Historia · recompensa: autoestima, energía, relación con esposo y padres, mamá | ● | ● | ● | |
+| Avatar: mamás 0–6 | ● | | | Choca con la oferta (mujeres en general) |
+
+### Guía (15 preguntas) → conceptos
+| Pregunta | Concepto(s) que aparecen |
+|---|---|
+| 1 Temas para años | R · L · B |
+| 2 Lo que me obsesiona | R (romper patrones, hijos) · L (volver a elegirse) |
+| 3 Conectado con mi historia | R · L · B |
+| 4 Valores | Transversal (fe, servicio, compromiso) |
+| 5 Verdades que repito | L (casi todas) · R |
+| 6 Lo que me duele ver | R (gritos, niños sin voz, parejas) · L (dejarse al final) |
+| 7 Transformación que me emociona | L → R |
+| 9 Conversación que quiero liderar | L → R |
+| 12 Lo que quiero que piensen | L → R ("empezar por mí… mi casa cambió") |
+| 13 Profundidad | R (crianza, con títulos) · L (historia) · B (entreno diario) |
+| 15 Frase central | L · R · B |
+
+### Conclusión
+- **Los 3 conceptos están alineados con la Creator Vision**: los tres aparecen en el estilo de vida, las pasiones y las tres partes de la historia.
+- **Lógica de la marca:** L es la puerta (empiezo por mí) → R es el resultado (mi hogar cambia) → B es el combustible y la prueba visible (energía, mamá y suegra).
+- **Tensión 1 — la crianza queda escondida.** La habilidad que la hace autoridad (licenciatura, maestría, 10 años) solo vive dentro de "Relaciones". Opción: definir el concepto como "Relaciones: pareja, hijos y padres" y usar la crianza como su contenido de autoridad.
+- **Tensión 2 — el avatar.** La Creator Vision dice "mamás 0–6"; la oferta única (Todo comienza contigo) habla a mujeres que quieren construir el hogar que sueñan. Hay que actualizar el QUIÉN de la Creator Vision o acotar la oferta.
+- **Tensión 3 — Bienestar y movimiento** tiene la prueba más visible pero la menor credencial formal → presentarlo como experiencia vivida, no como entrenamiento profesional (confirmar si tiene certificación).
+- **Fe y servicio** no son concepto: van como valores transversales que se notan en los tres.
