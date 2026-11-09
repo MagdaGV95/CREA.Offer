@@ -43,3 +43,9 @@ Magda = **creadora basada en habilidad/coach**: audiencia pequeña (~2,000) + mu
 **Firma metodológica (aparece en ambos):** **Lo hago y me ves → Lo hacemos juntos → Lo haces y te veo** (Modela · Acompaña · Confía y verifica). Es la ruta hacia la Autonomía (A de CREA). Usar como nombre de módulo, carrusel y hook.
 
 **Uso en el embudo:** Regalo 1 = lead magnet principal (responde a "mis hijos no me hacen caso"). Regalo 2 = bono / lead magnet secundario. Palabra clave sugerida: **CREA** (ya está en la bio).
+
+## Escalera actualizada (9 nov 2026)
+1. **Gratis:** contenido + Regalo 1 (consignas) + Regalo 2 (ritual de la comida).
+2. **Lidera tu Hogar** (programa grupal de 8 semanas, en vivo) — preventa 747–897 USD, regular 997 USD. Inicio 11 ene 2027.
+   - Después de la primera cohorte, **queda como programa grabado** (curso a tu ritmo) para las siguientes familias.
+3. **Siguiente escalón (más personalizado, precio mayor, cupo limitado):** "Familias Inquebrantables" — referencia 1,497–1,997 USD o más.
