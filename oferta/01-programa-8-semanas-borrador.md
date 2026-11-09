@@ -72,7 +72,7 @@ Cálculo aproximado: neto ≈ precio × 0.96 (comisión de pago) × 0.72 (impues
 - Magda quiere la "hora dorada": 8–9 pm hora de Nueva York (prime time de TV en EE. UU.: 8–11 pm ET/PT, 7–10 pm Central/Mountain).
 - Equivalencias en invierno: 8 pm ET = 7 pm Central (Texas, Chicago) = 7 pm Ciudad de México = 5 pm Pacífico (California) = 2 am España.
 - Choque: con hijos de 0–6 años, 8–9 pm suele ser la hora de dormirlos en la costa Este.
-- Propuesta: **8:30–9:30 pm ET** lunes (masterclass) y miércoles (mastermind); clase de movimiento grabada (20 min) para hacerla cuando quieran. Todo grabado; España y LATAM lejana ven la grabación.
+- **Decisión de Magda: martes y jueves, 8–9 pm hora de Nueva York** (hora en punto, más fácil de recordar). Martes = masterclass · jueves = mastermind. Clase de movimiento grabada (20 min). Todo grabado.
 - Nota: esto rompe la regla de Magda de trabajar solo hasta las 4 pm (2 noches por semana durante 8 semanas). Decisión suya.
 - Referencia de estilo mencionada por Magda: El Temach.
 
