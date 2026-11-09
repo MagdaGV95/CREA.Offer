@@ -1,4 +1,4 @@
-# Oferta grupal — borrador v2 (programa de 8 semanas, HIGH TICKET)
+# Oferta grupal — borrador v3 (programa de 8 semanas, precio medio)
 
 ## Decisiones de Magda (8 nov)
 - Se vende la **transformación** (la solución al dolor), no el vehículo. CREA vive *dentro* del programa como el método; no es el nombre ni el gancho.
@@ -27,25 +27,26 @@
 5. **Liderazgo Parental Consciente**
 6. **Parenting Leadership** (si quieres un nombre en inglés para hispanos en EE. UU.)
 
-## Precio (para 1,000 USD netos por cliente)
-Cálculo aproximado: neto ≈ precio × 0.96 (comisión de pago) × 0.72 (impuestos estimados como independiente) ≈ **precio × 0.69**.
-→ Para 1,000 netos, el precio mínimo es **≈ 1,450 USD**. Confirmar porcentajes con un contador.
+## Precio v3 (decisión 9 nov): más accesible para crear comunidad — meta **≥ 497 USD netos por familia**
+Cálculo aproximado: neto ≈ precio × 0.69 (≈4% comisión de pago + ≈28% impuestos estimados). Para 497 netos → precio mínimo **≈ 720 USD**. Confirmar con un contador.
 
 | Fecha | Ventana | Precio por familia (pareja incluida) | Neto aprox. |
 |---|---|---|---|
-| Black Friday · vie 27 nov | 27–29 nov | **1,497 USD** | ~1,030 |
-| Cyber Monday · lun 30 nov | 30 nov–2 dic | 1,597 USD | ~1,100 |
-| Navidad | 20–26 dic | 1,697 USD | ~1,170 |
-| Año Nuevo | 27 dic–6 ene | 1,797 USD | ~1,240 |
-| Precio regular | desde 7 ene | **1,997 USD** | ~1,380 |
+| Black Friday · vie 27 nov | 27–29 nov | **747 USD** | ~515 |
+| Cyber Monday · lun 30 nov | 30 nov–2 dic | 797 USD | ~550 |
+| Navidad | 20–26 dic | 847 USD | ~585 |
+| Año Nuevo | 27 dic–6 ene | 897 USD | ~620 |
+| Precio regular | desde 7 ene | **997 USD** | ~690 |
 
-**Pagos a plazos:** 3 pagos (ej. 3 × 549 en Black Friday). Facilita la decisión.
-**Inicio:** lunes 11 de enero de 2027.
+**Pagos a plazos:** 3 pagos (ej. Black Friday: 3 × 259 USD).
+**Proyección:** 20 familias × ~800 USD promedio ≈ 16,000 USD brutos ≈ 11,000 USD netos.
+**Inicio:** lunes 11 de enero de 2027 (sesiones en vivo martes y jueves, 8–9 pm ET).
+(Versión anterior high ticket: 1,497–1,997 USD → queda como referencia para el escalón superior "Familias Inquebrantables".)
 
 ## Qué incluye (para que valga claramente más que el precio)
 - 8 semanas · 3 sesiones en vivo por semana = **24 sesiones** (masterclass, mastermind de casos reales, clase de movimiento), todas grabadas
 - **Acceso para la pareja**
-- **Llamada 1:1 de inicio** (30 min) para diseñar el plan de cada familia ← toque high ticket
+- **Llamada 1:1 de inicio** (20–30 min) para diseñar el plan de cada familia (o solo como bono de preventa, si el grupo crece mucho)
 - Acompañamiento por chat entre sesiones (lun–vie)
 - Kit de herramientas: consignas por momento del día (Regalo 1), ritual de la comida por edades (Regalo 2), rutinas visuales, plantillas
 - Comunidad privada de mamás
