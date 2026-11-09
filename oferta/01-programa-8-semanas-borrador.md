@@ -27,6 +27,8 @@
 5. **Liderazgo Parental Consciente**
 6. **Parenting Leadership** (si quieres un nombre en inglés para hispanos en EE. UU.)
 
+> ⚠️ **Precios actualizados (9 nov 2026):** Lidera tu Hogar regular 2,497 USD; en preventa solo en paquete con "Todo comienza contigo" (desde 1,167 USD). Inicio 15 mar 2027. Ver `oferta/02-todo-comienza-contigo.md`. La tabla de abajo queda como historial.
+
 ## Precio v3 (decisión 9 nov): más accesible para crear comunidad — meta **≥ 497 USD netos por familia**
 Cálculo aproximado: neto ≈ precio × 0.69 (≈4% comisión de pago + ≈28% impuestos estimados). Para 497 netos → precio mínimo **≈ 720 USD**. Confirmar con un contador.
 
