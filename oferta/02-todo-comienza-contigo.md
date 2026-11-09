@@ -60,6 +60,13 @@ Precios regulares: **Todo comienza contigo 1,497 USD** · **Lidera tu Hogar 2,49
 - Meta: **≥ 1,000 USD netos** → precio mínimo ≈ 1,000 / 0.69 ≈ 1,449 → **1,497 USD** (neto ~1,033) frente a 2,497 regular (ahorran 1,000 · 40%).
 - Ventana corta (ej. 7 días, durante la graduación y la semana de pausa). Pagos a plazos.
 - Quienes compraron el paquete ya tienen Lidera tu Hogar incluido.
+- **Mecánica: cupón de regalo de 1,000 USD** dentro de la plataforma de pago (decisión de Magda, 9 nov).
+  - Tipo: descuento de **monto fijo** (-1,000 USD), no porcentaje → 2,497 − 1,000 = 1,497.
+  - Válido solo para Lidera tu Hogar · 1 uso por persona · vence a los 7 días.
+  - Idealmente restringido a los correos de las graduadas (o códigos individuales) para que no circule.
+  - Si hay plazos: verificar que la plataforma aplique el cupón al plan de pagos (3 × 499).
+  - Nombre del código (por elegir): **GRADUADA1000** · **PRIMERAGEN1000** · **VICTORIA1000** · **TODOCOMIENZA1000**.
+  - Entrega: en la graduación, como "regalo" (tarjeta digital o certificado con el código).
 
 ### Calendario
 - Todo comienza contigo: 11 ene – 5 mar 2027 (8 semanas).
