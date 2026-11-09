@@ -76,3 +76,18 @@ Cuatro rutas a la vez con ~900 seguidores divide el mensaje y el tiempo. Propues
 - Magda no conocía la frase de Covey. Decisión pendiente: usar nombre propio ("Pequeñas Victorias") y, si se cita la idea, dar crédito.
 - **Dato de demanda:** el contenido de **pareja y cómo influye en el hogar con niños** ha tenido vistas → señal a favor de la ruta B (o de una ruta de pareja) como segunda ruta, y refuerza el gancho "la pareja entra incluida" de Lidera tu Hogar.
 - **21 nov 2026 = 12 años de relación** (6 días antes de la preventa de Black Friday, 27 nov). Usarlo como pieza de historia "Su amor me salvó" / "12 años de victorias privadas" (sin detalles del abuso; Gilberto de espaldas) → puente a la preventa.
+
+## 7. Decisiones de Magda (9 nov 2026)
+- **Primera ruta de saber hacer:** Lidera tu Hogar (padres 0–6, pareja incluida).
+- **Base = Nivel 1, oferta propia, nombre: "Todo comienza contigo"** (saber saber + saber ser, CREA de mí hacia mí).
+- **Precio de la base:** mejor precio 497 USD; precio regular que deje **≥ 1,000 USD netos** después de impuestos → con neto ≈ precio × 0.69, **regular ≈ 1,497 USD** (neto ≈ 1,033). Confirmar con contador.
+- **Público:** se le habla a la mujer; la pareja entra invitada/incluida.
+
+### Consecuencia a resolver
+Si la base cuesta hasta 1,497, **Lidera tu Hogar (747–997) quedaría por debajo del nivel 1** → hay que subir el nivel 2 y el 1:1, o venderlos en paquete. Propuesta en discusión:
+| Nivel | Oferta | Mejor precio | Regular | Neto regular aprox. |
+|---|---|---|---|---|
+| 1 | Todo comienza contigo | 497 | 1,497 | ~1,033 |
+| 2 | Lidera tu Hogar | 997 | 1,997 | ~1,378 |
+| 1+2 | Ruta completa (paquete) | 1,297 | 2,997 | ~2,068 |
+| 3 | Familias Inquebrantables 1:1 | — | 3,500+ | ~2,415+ |
