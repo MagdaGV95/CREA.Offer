@@ -146,3 +146,29 @@ Temas nuevos del pilar 3: "Me doy algo" (micro-victorias sensoriales) · respira
 
 Lectura del mensaje: **El hogar que sueñas (3) comienza contigo (1)** y con quienes lo habitan (2).
 Nombres candidatos pilar 3: **Un hogar con ritmo** · Casa en calma · Orden que da paz.
+
+---
+
+## ✅ LÍNEA EDITORIAL FINAL (9 nov 2026)
+Decisiones de Magda: fusionar liderazgo + bienestar · tercer pilar de orden · nombre del pilar 3 entre "Orden da calma / Orden que calma / Calma en el orden / Orden que da paz" → recomendado **Orden que calma** (corto, el orden es el sujeto que actúa, rima con su temperamento calmado). Confirmar.
+
+Mensaje: **El hogar que sueñas (Orden que calma) comienza contigo (Me elijo primero) y con quienes lo habitan (El ciclo termina conmigo).**
+
+### 1 · Me elijo primero — liderazgo personal y bienestar
+**Gran idea:** el hogar se lidera desde adentro; primero las victorias privadas, después las públicas. No hay atajos: hay pequeñas victorias repetidas.
+**Descripción:** antes de pedirle cambios a nadie, te lideras a ti. Este pilar une mentalidad y cuerpo: hacerte responsable, volver al presente con acciones visibles y cuidar la energía que necesitas para estar presente. Se cuenta desde la experiencia de una exatleta y de su propia reconstrucción, no como entrenamiento profesional.
+**Temas:** victorias privadas · "me doy algo" (micro-victorias visibles o sensoriales) · moverme aunque no tenga ganas (5×/semana) · el sol de la mañana · respiración 4-4-4-4 · responsabilidad y disciplina (lo que me enseñó el taekwondo) · amor propio sin culpa · el presente dicta el futuro.
+
+### 2 · El ciclo termina conmigo — relaciones
+**Gran idea:** lo que no sanamos como hijos lo enseñamos sin querer como padres. Tus relaciones cambian cuando cambias tú.
+**Descripción:** el liderazgo personal llevado a quienes construyen el hogar contigo: tu pareja, tus hijos, tus padres y la familia que todavía no llega. Aquí vive su mayor autoridad (crianza 0–6 con CREA) y su historia de lealtad y reconciliación.
+**Temas:** crianza con CREA (que cooperen y te cuenten todo) · adultos responsables · matrimonio en equipo: lealtad y servicio · sanar la relación con nuestros padres · entrenar con mamá y suegra · romper patrones sin culpar · prepararme para ser mamá · fe y tradiciones familiares.
+
+### 3 · Orden que calma — orden y ritmo del hogar
+**Gran idea:** el ambiente que te rodea te forma. Un hogar ordenado y con ritmo es un hogar en calma.
+**Descripción:** la E de CREA llevada a la casa y al tiempo: espacios, horarios y rutinas que hacen fácil lo importante y bajan la resistencia de todos. Respaldado por su maestría en gestión educativa y su experiencia como directora. Orden para vivir en calma, no productividad para hacer más.
+**Temas:** espacios que invitan a cooperar · rutinas de mañana, comidas y noche · consignas por momento del día · tareas por edad (ritual de la comida) · planeación semanal en pareja · horarios y transiciones sin pelea · trabajar o emprender desde casa con límites · menos cosas, más calma.
+
+### Conexión
+Me elijo primero (decido y me cuido) → Orden que calma (creo el ambiente) → El ciclo termina conmigo (mis relaciones cambian).
+Cada pilar responde una pregunta distinta: ¿quién soy? · ¿dónde y cómo vivimos? · ¿con quién?
