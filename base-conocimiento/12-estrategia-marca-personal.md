@@ -104,3 +104,29 @@ Dan para años de contenido, una comunidad, un libro (su historia + método CREA
 2. **Las victorias que dio son resultados, no acciones.** Recuperar el amor propio, el amor por la vida y la relación familiar son la recompensa. Para el contenido y la venta se necesitan las acciones privadas que llevaron ahí (ej. una rutina, una decisión, un hábito diario).
 3. **Bienestar sin certificación.** Funciona como experiencia vivida y disciplina de atleta. No ofrecer planes de entrenamiento como profesional.
 4. **Público amplio.** Mamás, esposas y futuras mamás pueden dispersar el mensaje. Lo que las une es el patrón heredado; ese debe ser el gancho constante.
+
+---
+
+## Actualización tras feedback de Magda (9 nov 2026)
+- **Aprobado** el posicionamiento y la postura "No hay atajos para un hogar en calma: hay pequeñas victorias repetidas".
+- **Público:** **mujeres casadas que están construyendo su propio hogar** y tienen el poder de hacerlo, porque está en sus manos. (El patrón heredado pasa a ser el ángulo de historia, no el filtro de entrada.)
+- **Nombres:** se queda **El ciclo termina conmigo**. Pilares 1 y 3 se renombran (propuesta abajo, por aprobar).
+
+### Su técnica propia de victorias privadas (hallazgo)
+Acciones diarias: **ejercicio al menos 5 veces por semana** y **salir al sol entre 9 y 12 am**.
+Cuando se siente atareada, preocupada o confundida, **"me doy algo"**: un acto pequeño, visible o sensorial, con inicio y final claros:
+- respiración 4-4-4-4 (inhalar, retener, exhalar, retener: 4 tiempos cada uno)
+- cepillarse los dientes o el cabello, maquillarse, bañarse (según el tiempo que tenga)
+Por qué funciona (en sus palabras): la mente sabe que algo empezó y terminó → satisfacción de tarea concluida → "sí podemos". Si es visible (maquillaje), ver el cambio físico refuerza aún más.
+→ Es el puente entre el Saber ser y el Saber saber, y la prueba de "un cambio visible cambia el chip". Candidata a técnica con nombre propio (ej. **"Me doy algo"**).
+
+### Propuesta de nombres (recorrido)
+| Pilar | Recomendado | Alternativas |
+|---|---|---|
+| 1 · Liderazgo personal | **Me elijo primero** | Líder de mí misma · Desde adentro |
+| 2 · Relaciones | **El ciclo termina conmigo** ✅ | — |
+| 3 · Bienestar y movimiento | **Victorias visibles** | Me doy algo · Sol, movimiento y calma |
+
+Recorrido: **Me elijo primero → Victorias visibles → El ciclo termina conmigo** (decido → lo veo y lo siento → mi hogar cambia).
+
+Temas nuevos del pilar 3: "Me doy algo" (micro-victorias sensoriales) · respiración 4-4-4-4 · sol de la mañana · moverme 5 veces por semana aunque no tenga ganas · arreglarme como acto de liderazgo.
