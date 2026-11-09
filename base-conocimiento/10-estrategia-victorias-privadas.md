@@ -71,3 +71,8 @@ Cuatro rutas a la vez con ~900 seguidores divide el mensaje y el tiempo. Propues
 2. Rutas B y D: ¿cuál sientes más urgente / con más gente que te lo pide?
 3. ¿Las rutas son solo para mujeres o también para hombres? (mencionaste "la mujer y el hombre correcto").
 4. Nombre de la base: ¿"Pequeñas Victorias" o "Victorias Privadas"?
+
+## 6. Actualización (9 nov 2026)
+- Magda no conocía la frase de Covey. Decisión pendiente: usar nombre propio ("Pequeñas Victorias") y, si se cita la idea, dar crédito.
+- **Dato de demanda:** el contenido de **pareja y cómo influye en el hogar con niños** ha tenido vistas → señal a favor de la ruta B (o de una ruta de pareja) como segunda ruta, y refuerza el gancho "la pareja entra incluida" de Lidera tu Hogar.
+- **21 nov 2026 = 12 años de relación** (6 días antes de la preventa de Black Friday, 27 nov). Usarlo como pieza de historia "Su amor me salvó" / "12 años de victorias privadas" (sin detalles del abuso; Gilberto de espaldas) → puente a la preventa.
