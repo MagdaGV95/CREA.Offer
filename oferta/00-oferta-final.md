@@ -1,5 +1,11 @@
 # Oferta irresistible, escalera de valor y línea editorial — CREA (versión final, 9 nov 2026)
 
+> **Actualización (9 nov, tarde) — feedback de Cocoon:**
+> - **Una sola oferta en el sitio web: Todo comienza contigo** (preventa 497 → 1,297; regular 1,497). Sin paquete público.
+> - Lidera tu Hogar no se vende en el sitio: solo a graduadas con **VICTORIA1000**.
+> - **Línea editorial = 3 conceptos: Relaciones · Desarrollo personal orientado al liderazgo · Bienestar y movimiento** (respuestas de la guía en `base-conocimiento/11-linea-editorial-cocoon.md`). Reemplaza la sección 4.
+> - Sitio: mejorar familiainquebrantable.com con **landing page, sales page, purchase page y thank you page**.
+
 Resumen para presentar. Detalle en `oferta/02-todo-comienza-contigo.md`, `oferta/01-programa-8-semanas-borrador.md` y `base-conocimiento/10-estrategia-victorias-privadas.md`.
 Neto aprox. = precio × 0.69 (≈4% comisión + ≈28% impuestos). **Confirmar con contador.**
 
