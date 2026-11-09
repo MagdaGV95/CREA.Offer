@@ -68,5 +68,13 @@ Cálculo aproximado: neto ≈ precio × 0.96 (comisión de pago) × 0.72 (impues
 - Embudo: contenido → "Escríbeme CREA" → Regalo 1 → conversación por DM (notas de voz 1-2-3) → llamada → inscripción.
 - Meta 20 familias ≈ 30,000 USD brutos. Con ~900 seguidores es ambicioso: primer objetivo realista 5–10 familias, apuntando a 20 con Facebook (grupos de padres), Threads, la conferencia CREA y el voluntariado.
 
+## Horario en vivo (propuesta)
+- Magda quiere la "hora dorada": 8–9 pm hora de Nueva York (prime time de TV en EE. UU.: 8–11 pm ET/PT, 7–10 pm Central/Mountain).
+- Equivalencias en invierno: 8 pm ET = 7 pm Central (Texas, Chicago) = 7 pm Ciudad de México = 5 pm Pacífico (California) = 2 am España.
+- Choque: con hijos de 0–6 años, 8–9 pm suele ser la hora de dormirlos en la costa Este.
+- Propuesta: **8:30–9:30 pm ET** lunes (masterclass) y miércoles (mastermind); clase de movimiento grabada (20 min) para hacerla cuando quieran. Todo grabado; España y LATAM lejana ven la grabación.
+- Nota: esto rompe la regla de Magda de trabajar solo hasta las 4 pm (2 noches por semana durante 8 semanas). Decisión suya.
+- Referencia de estilo mencionada por Magda: El Temach.
+
 ## Pendientes
 - Elegir nombre · horario de sesiones en vivo · garantía · plataforma y pagos · presentación de la conferencia CREA.
