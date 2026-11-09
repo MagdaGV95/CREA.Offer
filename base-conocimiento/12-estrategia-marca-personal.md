@@ -130,3 +130,19 @@ Por qué funciona (en sus palabras): la mente sabe que algo empezó y terminó �
 Recorrido: **Me elijo primero → Victorias visibles → El ciclo termina conmigo** (decido → lo veo y lo siento → mi hogar cambia).
 
 Temas nuevos del pilar 3: "Me doy algo" (micro-victorias sensoriales) · respiración 4-4-4-4 · sol de la mañana · moverme 5 veces por semana aunque no tenga ganas · arreglarme como acto de liderazgo.
+
+---
+
+## Reestructura de pilares (9 nov 2026, propuesta de Magda)
+**Observación de Magda:** los pilares no deben repetirse ni ser obvios; liderazgo personal y bienestar/movimiento se entrelazan. ¿El tercero podría ser orden y productividad?
+**Opinión:** sí. Rutinas, autocuidado, movimiento y "me doy algo" aparecían en los pilares 1 y 3 → se funden en uno. El orden abre un territorio nuevo y con autoridad real (maestría en gestión educativa, exdirectora, Estructura de CREA, sus regalos 1 y 2).
+**Cuidado:** "productividad" es un nicho saturado y puede sonar a hacer más; aquí es **orden y ritmo para vivir en calma**, no rendimiento.
+
+| Pilar | Pregunta que responde | Contiene |
+|---|---|---|
+| 1 · **Me elijo primero** (liderazgo personal + bienestar) | ¿Quién necesito ser yo? | Mentalidad, responsabilidad, amor propio, "me doy algo", movimiento 5×/semana, sol de la mañana, respiración 4-4-4-4, disciplina del taekwondo |
+| 2 · **El ciclo termina conmigo** (relaciones) ✅ | ¿Con quién construyo mi hogar? | Pareja, crianza con CREA, padres, futura maternidad, lealtad, entrenar con mamá y suegra como reconciliación |
+| 3 · **Orden y ritmo del hogar** (nombre por definir) | ¿Dónde y cómo vivimos? | Ambiente ordenado, rutinas familiares, planeación semanal y horarios, consignas por momento del día, tareas por edad, comidas en familia, emprender y trabajar desde casa |
+
+Lectura del mensaje: **El hogar que sueñas (3) comienza contigo (1)** y con quienes lo habitan (2).
+Nombres candidatos pilar 3: **Un hogar con ritmo** · Casa en calma · Orden que da paz.
