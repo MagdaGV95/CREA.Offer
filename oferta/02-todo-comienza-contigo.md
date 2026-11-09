@@ -55,6 +55,12 @@ Precios regulares: **Todo comienza contigo 1,497 USD** · **Lidera tu Hogar 2,49
 - Pagos a plazos: 3 pagos.
 - El paquete solo existe en preventa. En enero cada programa se vende por separado; nuevas combinaciones, en otro evento.
 
+### Oferta para graduadas de la 1.ª generación (marzo 2027)
+- Al terminar el nivel 1 (semana 8, ~5 mar), quienes compraron **solo** Todo comienza contigo reciben una oferta especial para Lidera tu Hogar.
+- Meta: **≥ 1,000 USD netos** → precio mínimo ≈ 1,000 / 0.69 ≈ 1,449 → **1,497 USD** (neto ~1,033) frente a 2,497 regular (ahorran 1,000 · 40%).
+- Ventana corta (ej. 7 días, durante la graduación y la semana de pausa). Pagos a plazos.
+- Quienes compraron el paquete ya tienen Lidera tu Hogar incluido.
+
 ### Calendario
 - Todo comienza contigo: 11 ene – 5 mar 2027 (8 semanas).
 - Semana de pausa.
