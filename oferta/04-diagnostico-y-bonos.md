@@ -88,3 +88,25 @@ Tiempo estimado por alumna: 15 min revisar + 15 min grabar. Con 20 alumnas ≈ 1
 | Clase Esposa y pareja | 97 |
 | **Total** | **4,915 USD** |
 Precio regular 1,497 · preventa desde 497.
+
+---
+
+## 4. Tipos de bonos (catálogo para elegir, 10 nov 2026)
+Decisión de Magda: el **audio personalizado pasa a ser un bono** (no parte del diagnóstico). El diagnóstico queda como formulario + llamada 1:1.
+
+| # | Tipo de bono | Para qué sirve | Lo que Magda ya tiene | Ideas posibles |
+|---|---|---|---|---|
+| 1 | Acción rápida | Decidir en el momento (webinar) | 2.ª llamada 1:1 (30 min) | Audio personalizado |
+| 2 | Preventa / madrugador | Comprar antes | Llamada 1:1 de inicio | — |
+| 3 | Ocultos / sorpresa | Emocionar después de comprar | Clases 8 y 29 dic | Carta o regalo físico |
+| 4 | Implementación | Facilitar aplicar | Kit CREA (mamás) | Plantilla semana en pareja, checklist de orden |
+| 5 | Resultado rápido | Primera victoria en días | — | Reto 7 días "Un espacio a la vez" |
+| 6 | Personalización | Sentirse vista | — | **Audio personalizado** |
+| 7 | Objeción | Resolver un "pero…" | Clase Esposa y pareja ("mi esposo no apoya") | Grabaciones cortas ("no tengo tiempo"), repetir generación ("¿y si no puedo?") |
+| 8 | Temático / complemento | Temas adyacentes de valor | Clase Sanar con mis padres | Clase "Prepararme para ser mamá" |
+| 9 | Pago de contado | Preferir pagar completo | — | Audio personalizado o 2.ª llamada |
+| 10 | Referida | Traer a una amiga | — | Clase extra o descuento si entra una amiga |
+| 11 | Estatus / reconocimiento | Sentido de logro | Certificado de participación | Graduación en vivo |
+| 12 | Ascenso / continuidad | Siguiente paso | VICTORIA1000 (graduadas) | Mejora Lidera tu Hogar 697 (thank you page) |
+| 13 | Comunidad | Pertenencia | Comunidad y chat | Encuentro de exalumnas |
+| 14 | Reducción de riesgo | Comprar sin miedo | Garantía de compromiso | — |
