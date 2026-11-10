@@ -157,3 +157,13 @@ Si durante las primeras 4 semanas asistes o ves todas las sesiones, completas tu
   - **Texto:** Agrega **Lidera tu Hogar** (8 semanas, 15 de marzo – 7 de mayo de 2027), para mamás de niños de 0 a 6 años, con tu pareja incluida. Precio regular 2,497 USD. Solo hoy: **697 USD** o 3 pagos de 239 USD.
   - **Botón:** Sí, agregar Lidera tu Hogar · **Enlace secundario:** No, gracias
 - **Cierre:** El hogar que sueñas comienza contigo. Nos vemos pronto. — Magda
+
+---
+
+## Presentación del experto (versión de Magda, pulida — 10 nov 2026)
+Soy Magda: hija, esposa, profesionista y tu amiga. Crecí en un hogar fracturado. Atravesé la deserción escolar, el acoso y el abuso sexual, y aprendí a callar, a alejarme y a refugiarme en la comida, hasta perderme a mí misma. Me reconstruí poco a poco: aprendiendo a recibir el amor de otros, escuchando a mi cuerpo y dándome pequeñas victorias cada día. Hoy mi hogar es un lugar de calma y acompaño a mi madre en su propio cambio. Con mi licenciatura en educación preescolar, mi maestría en gestión educativa y 10 años acompañando familias, creé el método CREA para transformar mi realidad y la de mi familia, y para ayudar a otras mujeres a construir el hogar que sueñan, empezando por ellas mismas.
+
+Versión alternativa (menos detalle sobre experiencias dolorosas):
+Soy Magda: hija, esposa, profesionista y tu amiga. Crecí en un hogar fracturado y viví experiencias que me enseñaron a callar, a alejarme y a refugiarme en la comida, hasta perderme a mí misma. Me reconstruí poco a poco: aprendiendo a recibir el amor de otros, escuchando a mi cuerpo y dándome pequeñas victorias cada día. (… resto igual)
+
+Dato nuevo: Magda vivió deserción escolar y después obtuvo licenciatura y maestría (historia de superación, usable como prueba).
