@@ -4,7 +4,7 @@ Oferta única en el sitio: **Todo comienza contigo**. Decisiones de Magda (10 no
 - 3 pagos con **pequeño recargo**.
 - El paquete deja de estar en la página de venta: pasa a **mejora (upsell) en la thank you page** durante la preventa.
 - **Webinar semanal: miércoles 9–10 pm hora de Nueva York**, para presentar la oferta de valor.
-- Clases bono del **8 y 29 de diciembre: solo para quienes ya entraron en la preventa** (no se anuncian en la página de venta).
+- Clases bono del **8 y 22 de diciembre: solo para quienes ya entraron en la preventa** (no se anuncian en la página de venta).
 - Cuentas: Stripe, PayPal, Mercado Pago. Stripe se configurará con el conector de Claude cuando Magda lo autorice.
 
 ---
