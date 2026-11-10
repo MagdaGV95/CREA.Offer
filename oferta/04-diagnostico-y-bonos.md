@@ -4,37 +4,46 @@
 Idea de Magda: cada alumna llena un formulario y Magda le graba **un audio individual, de ella para ella**, para cambiar su configuración mental (estilo de reprogramación del autoconcepto, como el que enseña Brian Tracy: afirmaciones en primera persona, en presente y en positivo + visualización, escuchadas a diario).
 Se entrega antes de la llamada 1:1 de inicio (o junto con ella) y se escucha cada mañana y cada noche durante las 8 semanas.
 
-### Formulario "Mi punto de partida" (Google Forms o formulario de 2clicks)
+### Formulario "Mi punto de partida" (v2, 10 nov 2026)
+Sirve para la llamada de diagnóstico, para el audio personalizado y para decidir qué clases extra abrir (o dejar para una próxima oferta).
+
 **Datos**
 1. Nombre con el que te gusta que te llamen
 2. País y ciudad
 3. ¿Estás casada? ¿Cuántos años llevan juntos?
-4. ¿Tienes hijos? Edades (o "aún no / me preparo para ser mamá")
+4. ¿Tienes hijos? Edades (o "aún no" / "me preparo para ser mamá")
+
+**Mis roles y relaciones**
+5. ¿Qué roles vives hoy? (puedes marcar varios) — Esposa · Mamá · Futura mamá · Hija · Nuera · Hermana · Profesionista o emprendedora · Cuidadora de mis padres · Otro
+6. ¿En qué relación quieres enfocarte en estas 8 semanas? (elige hasta 2) — Conmigo misma · Mi esposo · Mis hijos · Mi mamá o mi papá · Mis suegros · Otra
+7. ¿Qué tan cerca te sientes hoy de tus padres? (1 = muy distanciada, 10 = muy cercana)
+8. Si pudiéramos agregar una clase extra, ¿cuál te ayudaría más? — Sanar con mis padres · Esposa y pareja · Prepararme para ser mamá · Orden y rutinas con mis hijos · Otra
 
 **Me elijo (cómo estás tú)**
-5. Del 1 al 10, ¿cómo está tu energía en un día normal?
-6. ¿Qué haces hoy solo para ti, aunque sean 5 minutos?
-7. Completa la frase: "Cuando me veo al espejo, pienso que yo…"
-8. ¿Qué frase te repites cuando algo sale mal?
-9. ¿Qué te gustaría sentir al despertar cada mañana?
+9. Del 1 al 10, ¿cómo está tu energía en un día normal?
+10. ¿Qué haces hoy solo para ti, aunque sean 5 minutos?
+11. Completa la frase: "Cuando me veo al espejo, pienso que yo…"
+12. ¿Qué frase te repites cuando algo sale mal?
+13. ¿Qué te gustaría sentir al despertar cada mañana?
 
-**Fin del ciclo (tus relaciones y tu historia)**
-10. ¿Qué viviste en tu casa de niña que NO quieres repetir?
-11. ¿Qué viviste en tu casa de niña que SÍ quieres conservar?
-12. ¿Cómo describirías hoy tu relación con tu esposo en una palabra?
-13. ¿Cómo describirías hoy tu relación con tu mamá y tu papá en una palabra?
+**Fin del ciclo (tu historia)**
+14. ¿Qué viviste en tu casa de niña que NO quieres repetir?
+15. ¿Qué viviste en tu casa de niña que SÍ quieres conservar?
+16. ¿Cómo describirías hoy tu relación con tu esposo en una palabra?
 
 **Vida en orden (tu hogar)**
-14. ¿Cuál es el momento más difícil de tu día?
-15. Del 1 al 10, ¿qué tan en calma se siente tu casa?
+17. ¿Cuál es el momento más difícil de tu día?
+18. Del 1 al 10, ¿qué tan en calma se siente tu casa?
 
 **Tu sueño**
-16. Imagina que pasaron 8 semanas y todo salió bien. ¿Cómo es un día normal en tu hogar? Descríbelo con detalle.
-17. ¿Qué es lo que más quieres lograr con este programa?
-18. Escribe 3 cosas que te gustan de ti (aunque te cueste).
-19. ¿Hay algo que deba saber para acompañarte mejor? (opcional)
+19. Imagina que pasaron 8 semanas y todo salió bien. ¿Cómo es un día normal en tu hogar? Descríbelo con detalle.
+20. ¿Qué es lo que más quieres lograr con este programa?
+21. Escribe 3 cosas que te gustan de ti (aunque te cueste).
+22. ¿Hay algo que deba saber para acompañarte mejor? (opcional)
 
-Aviso al final del formulario: "Este programa es educativo y no sustituye terapia. Si estás pasando por una crisis, busca apoyo profesional."
+Aviso al final: "Este programa es educativo y no sustituye terapia. Si estás pasando por una crisis, busca apoyo profesional."
+Audio personalizado: usar las respuestas 11, 12, 13, 19 y 21.
+Decisión de clases extra: contar respuestas 5, 6 y 8 de la primera generación → abrir la clase más pedida dentro del programa o guardarla para una próxima oferta.
 
 ### Plantilla del audio personalizado (5–7 min)
 1. **Saludo con su nombre** (30 s): "Hola, [nombre]. Soy Magda, y este audio es solo para ti."
@@ -117,12 +126,12 @@ Decisión de Magda: el **audio personalizado pasa a ser un bono** (no parte del 
 | Tipo | Bono | Condición | Valor |
 |---|---|---|---|
 | Preventa | **CreaKids**: bono para mamás (consignas por momento del día, ritual de la comida por edades, plantillas de rutinas) | Comprar antes del 11 ene | 97 |
-| Acción rápida | **Llamada 1:1 de diagnóstico** (usa el formulario "Mi punto de partida") | Pagar completo o apartar en los primeros 30 min tras revelar la oferta | 150 |
+| Acción rápida | **Llamada 1:1 de diagnóstico** (usa el formulario "Mi punto de partida") | Pagar completo o apartar (comprometerse al pago completo en pagos fraccionados por la plataforma) en los primeros 30 min tras revelar la oferta | 150 |
 | Pago completo | **Llamada 1:1 de seguimiento** | Pagar de contado | 150 |
-| Referida | **Audio personalizado** de Magda (reprogramación mental) | Refiere a una amiga que se inscribe (mecánica por confirmar) | 197 |
+| Referida | **Audio personalizado** de Magda (reprogramación mental) | Refiere a una amiga que se inscribe: **las dos reciben su audio** | 197 |
 | Oculto | Sesiones en vivo **mar 8 dic** y **mar 29 dic**, 9–10 pm NY | Haber comprado antes de cada fecha (hasta 7 dic / hasta 28 dic) | sorpresa |
 
 Productos del programa (sin la llamada de diagnóstico, que ahora es bono): 16 sesiones en vivo 3,200 · 8 clases de movimiento en vivo 480 · cuaderno digital 47 · comunidad y chat 400 = **4,127 USD**.
 Valor con bonos anunciados (CreaKids + diagnóstico + seguimiento): **4,524 USD**. Con el audio por referida: 4,721.
 
-Pendiente: dónde quedan las clases "Sanar con mis padres" y "Esposa y pareja" (propuesta: integrarlas como sesiones de la semana 7, "Mis roles") y el certificado (parte de la graduación).
+Clases "Sanar con mis padres" y "Esposa y pareja": **en pausa**. El formulario de diagnóstico pregunta roles, relaciones de enfoque y clase preferida; con esos datos se decide si entran al programa o se guardan para una próxima oferta. Certificado: se entrega en la graduación.
