@@ -82,7 +82,9 @@ Ventaja: 9 pm es más probable que los niños ya estén dormidos que a las 8 pm.
 
 ## 7. Pendientes
 1. ~~Días y horario~~ → martes y jueves 9–10 pm NY ✅
-2. Garantía.
+2. ~~Garantía~~ → garantía de compromiso (ver `02-todo-comienza-contigo.md`) ✅
 3. Precio y formato del 1:1 Familias Inquebrantables.
 4. Fecha del evento de conversión antes del 27 nov.
 5. Ajustar Lidera tu Hogar (sus semanas 1–2 ya las cubre el nivel 1) y la página de venta.
+6. Bonos ocultos: clase 1 (1 dic) y clase 2 (29 dic) para quien compró antes; confirmar fechas y temas.
+7. Pagos: Stripe, PayPal, Mercado Pago (ya hay cuentas).

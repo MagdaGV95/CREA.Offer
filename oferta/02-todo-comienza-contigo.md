@@ -87,12 +87,42 @@ Precios regulares: **Todo comienza contigo 1,497 USD** · **Lidera tu Hogar 2,49
 En EE. UU. el horario de verano empieza el domingo 14 de marzo de 2027: avisar a las alumnas de México del cambio.
 Ventaja: 9 pm es más probable que los niños ya estén dormidos que a las 8 pm.
 
+## Decisiones del 10 nov 2026
+
+### Formas de pago
+Cuentas existentes: **Stripe, PayPal y Mercado Libre / Mercado Pago**.
+Idea por región (verificar al configurar):
+- **EE. UU.:** Stripe (tarjeta; Affirm/Klarna/Afterpay para pagar a plazos con cobro total para Magda) o PayPal (Pay in 4 / Pay Monthly para clientas de EE. UU.).
+- **México:** Mercado Pago (tarjeta, OXXO, y meses sin intereses con tarjeta; Magda recibe el total menos comisión).
+- **3 pagos automáticos propios:** PayPal permite suscripciones con número fijo de cobros; en Stripe requiere configuración de suscripción con fin.
+
+### 1:1 (Familias Inquebrantables)
+- **No está a la venta todavía.** Se retoma después.
+- Mínimo **2,500 USD netos** → precio ≥ 2,500 / 0.69 ≈ 3,623 → **3,697 USD** (neto ~2,551) o 3,997 (neto ~2,758).
+
+### Bonos ocultos (solo para quien compra antes)
+No se anuncian en la página de venta; se revelan en la thank you page o por correo.
+| Bono | Fecha (propuesta) | Para quién | Tema sugerido |
+|---|---|---|---|
+| Clase en vivo 1 | mar 1 dic, 9–10 pm NY | quien compró hasta el 30 nov (Black Friday + Cyber Monday) | "Me elijo en diciembre: no perderte en las fiestas" |
+| Clase en vivo 2 | mar 29 dic, 9–10 pm NY | quien compró hasta el 28 dic | "Mi primera victoria privada del año: plan para enero" |
+Ventaja: mantienen a las compradoras activas y entusiasmadas antes del 11 de enero (menos arrepentimiento y devoluciones).
+
+### Garantía de compromiso (borrador de condiciones)
+Idea de Magda: devolución si demuestran con documentación que hicieron TODO lo recomendado y no vieron cambios, tras 1 mes de aplicación.
+Propuesta de texto con criterios claros (para evitar discusiones):
+> **Garantía de compromiso.** Si durante las primeras 4 semanas del programa (11 ene – 7 feb 2027) asistes o ves todas las sesiones, completas tu cuaderno de victorias privadas cada día y entregas las tareas semanales, y aun así no ves ningún cambio, envíanos tu cuaderno y tus tareas entre el 8 y el 14 de febrero de 2027. Revisamos tu documentación y, si cumpliste todo, te devolvemos tu dinero.
+- "TODO lo recomendado" = asistencia o reproducción de las 8 sesiones + cuaderno diario + tareas semanales (que la plataforma o la comunidad permitan comprobarlo).
+- Ventana de solicitud de 7 días para que no quede abierta.
+- Con el paquete, la devolución cubre lo pagado y se pierde también el acceso a Lidera tu Hogar.
+- Publicar las condiciones completas en la página de venta y en los términos de compra. Revisar con un abogado o contador las reglas de devolución de cada país y plataforma de pago.
+
 ## Pendientes
 1. ¿Lidera tu Hogar se vende solo en preventa o únicamente dentro del paquete?
 2. Confirmar fechas del calendario.
 3. ~~Días y horario~~ → martes y jueves 9–10 pm NY ✅
 4. ¿La pareja tiene acceso en el nivel 1 o solo en Lidera tu Hogar?
-5. Garantía.
+5. ~~Garantía~~ → garantía de compromiso ✅
 6. Ajustar Lidera tu Hogar: sus semanas 1–2 ("calma") ya las cubre este nivel.
 
 Nota: posicionamiento educativo, no clínico. Ante trauma, TCA o crisis, remitir a profesionales de salud mental.
