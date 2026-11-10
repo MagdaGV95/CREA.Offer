@@ -73,10 +73,24 @@ Precios regulares: **Todo comienza contigo 1,497 USD** · **Lidera tu Hogar 2,49
 - Semana de pausa.
 - Lidera tu Hogar: 15 mar – 7 may 2027 (8 semanas) → graduación justo antes del Día de las Madres (9 may EE. UU. / 10 may México).
 
+## Horario de clases en vivo (decisión de Magda, 10 nov 2026)
+**Martes y jueves, 9:00–10:00 pm hora de Nueva York** (martes = masterclass · jueves = mastermind). Todo grabado.
+
+| Zona | Todo comienza contigo (11 ene – 5 mar, horario de invierno) | Lidera tu Hogar (15 mar – 7 may, horario de verano en EE. UU.) |
+|---|---|---|
+| Nueva York (Este) | 9–10 pm | 9–10 pm |
+| Centro EE. UU. (Texas, Chicago) | 8–9 pm | 8–9 pm |
+| Ciudad de México (sin cambio de horario) | 8–9 pm | **7–8 pm** |
+| Pacífico (California) | 6–7 pm | 6–7 pm |
+| España | 3–4 am | 2–3 am (hasta el 28 mar) / 3–4 am |
+
+En EE. UU. el horario de verano empieza el domingo 14 de marzo de 2027: avisar a las alumnas de México del cambio.
+Ventaja: 9 pm es más probable que los niños ya estén dormidos que a las 8 pm.
+
 ## Pendientes
 1. ¿Lidera tu Hogar se vende solo en preventa o únicamente dentro del paquete?
 2. Confirmar fechas del calendario.
-3. Días y horario de las sesiones en vivo.
+3. ~~Días y horario~~ → martes y jueves 9–10 pm NY ✅
 4. ¿La pareja tiene acceso en el nivel 1 o solo en Lidera tu Hogar?
 5. Garantía.
 6. Ajustar Lidera tu Hogar: sus semanas 1–2 ("calma") ya las cubre este nivel.

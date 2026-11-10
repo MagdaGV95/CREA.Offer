@@ -66,8 +66,22 @@ Hitos: 21 nov (12 años, reel) · 27 nov (abre preventa).
 - **Alternativa fácil para clientas en EE. UU.:** activar Affirm / Klarna / Afterpay en Stripe Checkout: ellas pagan a plazos y tú recibes el total al momento (con comisión mayor). No sirve para Latinoamérica.
 - Para graduadas a plazos: crear un precio aparte (3 × 499) en lugar de aplicar el cupón a un plan de pagos.
 
+## Horario de clases en vivo (decisión de Magda, 10 nov 2026)
+**Martes y jueves, 9:00–10:00 pm hora de Nueva York** (martes = masterclass · jueves = mastermind). Todo grabado.
+
+| Zona | Todo comienza contigo (11 ene – 5 mar, horario de invierno) | Lidera tu Hogar (15 mar – 7 may, horario de verano en EE. UU.) |
+|---|---|---|
+| Nueva York (Este) | 9–10 pm | 9–10 pm |
+| Centro EE. UU. (Texas, Chicago) | 8–9 pm | 8–9 pm |
+| Ciudad de México (sin cambio de horario) | 8–9 pm | **7–8 pm** |
+| Pacífico (California) | 6–7 pm | 6–7 pm |
+| España | 3–4 am | 2–3 am (hasta el 28 mar) / 3–4 am |
+
+En EE. UU. el horario de verano empieza el domingo 14 de marzo de 2027: avisar a las alumnas de México del cambio.
+Ventaja: 9 pm es más probable que los niños ya estén dormidos que a las 8 pm.
+
 ## 7. Pendientes
-1. Días y horario de las sesiones en vivo (16 semanas, ene–may).
+1. ~~Días y horario~~ → martes y jueves 9–10 pm NY ✅
 2. Garantía.
 3. Precio y formato del 1:1 Familias Inquebrantables.
 4. Fecha del evento de conversión antes del 27 nov.
