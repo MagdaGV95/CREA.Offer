@@ -77,18 +77,149 @@ tr.hot td.big{font-weight:700;color:var(--fg)}
   .tier .name{font-size:1rem}.tier .meta{font-size:.78rem}
   .coupon{grid-template-columns:1fr}.code{border-right:0;border-bottom:2px dashed var(--gold);padding:0 0 12px}
 }
+.pillar ul{margin:4px 0 0;padding-left:18px;font-size:.88rem;display:flex;flex-direction:column;gap:2px}
+.pillar .big-idea{font-size:.92rem;font-weight:500}
+.pillar .q{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--sage);font-weight:600}
+.promise{font-family:var(--display);font-size:1.2rem;font-weight:500;line-height:1.4;border-left:4px solid var(--plum);padding-left:16px;max-width:65ch}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.fact b{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:6px}
+.box h3{font-size:1rem}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:640px){.two{grid-template-columns:1fr}}
 </style>
 
 <div class="wrap">
   <header>
     <div class="eyebrow">CREA · Escalera de valor 2027</div>
     <h1>El hogar que sueñas comienza contigo</h1>
-    <p class="idea">Primero las victorias privadas, después las públicas.</p>
-    <p class="muted">Antes de liderar a tus hijos, a tu pareja o de sanar con tus padres, te lideras a ti. Método CREA: Conexión, Rutinas, Estructura y Autonomía, con la ruta "Lo hago y me ves → Lo hacemos juntos → Lo haces y te veo".</p>
+    <p class="idea">Primero las victorias privadas, después las públicas. No hay atajos para un hogar en calma: hay pequeñas victorias repetidas.</p>
+    <p class="muted">Para mujeres casadas que están construyendo su propio hogar y tienen el poder de hacerlo, porque está en sus manos. Método CREA: Conexión, Rutinas, Estructura y Autonomía.</p>
   </header>
 
+  <section aria-labelledby="h-ed">
+    <h2 id="h-ed">Línea editorial</h2>
+    <p class="muted">Tres pilares que responden tres preguntas distintas. Valores que se notan en los tres: familia, lealtad, responsabilidad y servicio.</p>
+    <div class="pillars">
+      <div class="pillar">
+        <span class="q">¿Quién necesito ser yo?</span>
+        <h3>Me elijo</h3>
+        <span class="role">Liderazgo personal y bienestar</span>
+        <p class="big-idea">El hogar se lidera desde adentro. Primero las victorias privadas, después las públicas.</p>
+        <ul>
+          <li>Victorias privadas</li>
+          <li>"Me doy algo": micro-victorias visibles</li>
+          <li>Moverme aunque no tenga ganas</li>
+          <li>El sol de la mañana</li>
+          <li>Respiración 4-4-4-4</li>
+          <li>Disciplina: lo que me enseñó el taekwondo</li>
+          <li>Amor propio sin culpa</li>
+          <li>El presente dicta el futuro</li>
+        </ul>
+      </div>
+      <div class="pillar">
+        <span class="q">¿Con quién construyo mi hogar?</span>
+        <h3>Fin del ciclo</h3>
+        <span class="role">Relaciones</span>
+        <p class="big-idea">Lo que no sanamos como hijos lo enseñamos sin querer como padres. El ciclo termina conmigo.</p>
+        <ul>
+          <li>Crianza con CREA: que cooperen y te cuenten todo</li>
+          <li>Adultos responsables</li>
+          <li>Matrimonio en equipo: lealtad y servicio</li>
+          <li>Sanar la relación con nuestros padres</li>
+          <li>Entrenar con mi mamá y mi suegra</li>
+          <li>Romper patrones sin culpar</li>
+          <li>Prepararme para ser mamá</li>
+          <li>Fe y tradiciones familiares</li>
+        </ul>
+      </div>
+      <div class="pillar">
+        <span class="q">¿Dónde y cómo vivimos?</span>
+        <h3>Vida en orden</h3>
+        <span class="role">Orden y ritmo del hogar</span>
+        <p class="big-idea">El ambiente que te rodea te forma. Orden que calma.</p>
+        <ul>
+          <li>Espacios que invitan a cooperar</li>
+          <li>Rutinas de mañana, comidas y noche</li>
+          <li>Consignas por momento del día</li>
+          <li>Tareas por edad: el ritual de la comida</li>
+          <li>Planeación semanal en pareja</li>
+          <li>Horarios y transiciones sin pelea</li>
+          <li>Trabajar desde casa con límites</li>
+          <li>Menos cosas, más calma</li>
+        </ul>
+      </div>
+    </div>
+    <p class="note">Recorrido: Me elijo (decido y me cuido) → Vida en orden (creo el ambiente) → Fin del ciclo (mis relaciones cambian).</p>
+  </section>
+
+  <section aria-labelledby="h-of">
+    <h2 id="h-of">La oferta: Todo comienza contigo</h2>
+    <p class="promise">En 8 semanas pasas de vivir en automático, cansada y repitiendo lo que heredaste, a liderarte a ti misma con calma: rutinas propias, un hogar que te sostiene y pequeñas victorias diarias que se notan.</p>
+    <div class="facts">
+      <div class="fact"><b>Formato</b>Grupal en vivo, todo grabado</div>
+      <div class="fact"><b>Fechas</b>11 ene – 5 mar 2027</div>
+      <div class="fact"><b>Clases</b>Martes y jueves, 9–10 pm NY</div>
+      <div class="fact"><b>Precio regular</b>1,497 USD</div>
+    </div>
+    <div class="tbl"><table>
+      <thead><tr><th>Semana</th><th>Tema</th><th>Victoria privada de la semana</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>Punto de partida: el ciclo termina conmigo</td><td>Escribo el hogar que sueño</td></tr>
+        <tr><td class="num">2</td><td>Una mentalidad que me sostiene: el presente dicta el futuro</td><td>Mi primera acción visible diaria</td></tr>
+        <tr><td class="num">3</td><td>C · Conexión conmigo</td><td>Un ritual diario solo mío</td></tr>
+        <tr><td class="num">4</td><td>R · Rutinas: mañana, movimiento, comida que nutre</td><td>5 días seguidos cumpliéndome</td></tr>
+        <tr><td class="num">5</td><td>E · Estructura: mi ambiente en calma</td><td>Un espacio de mi casa transformado</td></tr>
+        <tr><td class="num">6</td><td>A · Autonomía: pasos imperfectos</td><td>Un cambio visible en mí</td></tr>
+        <tr><td class="num">7</td><td>Mis roles: hija, esposa, mamá o futura mamá</td><td>Una iniciativa con alguien que amo</td></tr>
+        <tr><td class="num">8</td><td>De lo privado a lo público</td><td>Graduación y mi primera victoria compartida</td></tr>
+      </tbody>
+    </table></div>
+    <div class="box">
+      <h3>Incluye</h3>
+      <ul>
+        <li>16 sesiones en vivo (masterclass el martes, mastermind el jueves), grabadas</li>
+        <li>Clase de movimiento semanal grabada (20 min)</li>
+        <li>Cuaderno de victorias privadas</li>
+        <li>Comunidad privada y chat de lunes a viernes</li>
+        <li>Bono de preventa: llamada 1:1 de inicio</li>
+      </ul>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-pre">
+    <h2 id="h-pre">Preventa: el precio sube hasta el 11 de enero</h2>
+    <div class="tbl"><table>
+      <thead><tr><th>Ventana</th><th>Fechas</th><th class="num">Contado</th><th class="num">3 pagos</th><th class="num">Ahorro</th></tr></thead>
+      <tbody>
+        <tr class="hot"><td class="big">Black Friday</td><td>27–29 nov</td><td class="num big">497</td><td class="num">3 × 169</td><td class="num">1,000</td></tr>
+        <tr><td>Cyber Monday</td><td>30 nov – 2 dic</td><td class="num">697</td><td class="num">3 × 239</td><td class="num">800</td></tr>
+        <tr><td>Diciembre</td><td>3–19 dic</td><td class="num">897</td><td class="num">3 × 309</td><td class="num">600</td></tr>
+        <tr><td>Navidad</td><td>20–26 dic</td><td class="num">1,097</td><td class="num">3 × 379</td><td class="num">400</td></tr>
+        <tr><td>Último llamado</td><td>27 dic – 10 ene</td><td class="num">1,297</td><td class="num">3 × 449</td><td class="num">200</td></tr>
+        <tr><td>Regular</td><td>desde el 11 ene</td><td class="num">1,497</td><td class="num">3 × 519</td><td class="num">—</td></tr>
+      </tbody>
+    </table></div>
+    <p class="note">Precios en USD. Pago con Stripe, PayPal o Mercado Pago.</p>
+    <div class="two">
+      <div class="box">
+        <h3>Bonos ocultos para quien ya entró</h3>
+        <p>Clases en vivo el <strong>martes 8</strong> y el <strong>martes 29 de diciembre</strong>, 9–10 pm NY. No se anuncian en la página de venta; se revelan después de la compra.</p>
+      </div>
+      <div class="box">
+        <h3>Mejora en la thank you page</h3>
+        <p>Solo en preventa: agrega <strong>Lidera tu Hogar por 697 USD</strong> (o 3 × 239) en lugar de 2,497.</p>
+      </div>
+    </div>
+    <div class="box">
+      <h3>Garantía de compromiso</h3>
+      <p>Si en las primeras 4 semanas asistes o ves todas las sesiones, completas tu cuaderno de victorias privadas cada día y entregas tus tareas semanales, y aun así no ves ningún cambio, envía tu cuaderno y tus tareas entre el 8 y el 14 de febrero. Si cumpliste todo, te devolvemos tu dinero.</p>
+    </div>
+  </section>
+
   <section aria-labelledby="h-pyr">
-    <h2 id="h-pyr">La pirámide</h2>
+    <h2 id="h-pyr">La escalera completa</h2>
     <div class="pyr">
       <div class="tier t3"><div class="tier-in">
         <span class="tag">3 · Acompaña · 1:1</span>
@@ -98,50 +229,19 @@ tr.hot td.big{font-weight:700;color:var(--fg)}
       <div class="tier t2"><div class="tier-in">
         <span class="tag">2 · Saber hacer · grupal</span>
         <span class="name">Lidera tu Hogar</span>
-        <span class="meta">Padres con hijos de 0 a 6 años, pareja incluida · 15 mar – 7 may · 2,497 USD · solo para graduadas, con VICTORIA1000</span>
+        <span class="meta">Padres con hijos de 0 a 6 años, pareja incluida · 15 mar – 7 may · 2,497 USD</span>
       </div></div>
       <div class="tier t1"><div class="tier-in">
-        <span class="tag">1 · Oferta única en el sitio · Saber saber + Saber ser</span>
+        <span class="tag">1 · Oferta única en el sitio</span>
         <span class="name">Todo comienza contigo</span>
-        <span class="meta">CREA de mí hacia mí · 8 semanas en vivo · 11 ene – 5 mar · 1,497 USD</span>
+        <span class="meta">Saber saber + Saber ser · 8 semanas · 1,497 USD</span>
       </div></div>
-      <div class="t0">Gratis: contenido · Regalo 1 (consignas) · Regalo 2 (ritual de la comida) · escribe <strong>CREA</strong></div>
-      <div class="base-label">Línea editorial</div>
-      <div class="pillars">
-        <div class="pillar"><h3>Me elijo</h3><span class="role">Liderazgo personal y bienestar · ¿quién necesito ser yo? · mentalidad, responsabilidad, movimiento, sol de la mañana, "me doy algo"</span></div>
-        <div class="pillar"><h3>Fin del ciclo</h3><span class="role">Relaciones · ¿con quién construyo mi hogar? · pareja, crianza con CREA, padres, futura maternidad</span></div>
-        <div class="pillar"><h3>Vida en orden</h3><span class="role">Orden y ritmo del hogar · ¿dónde y cómo vivimos? · ambiente, rutinas familiares, planeación, consignas, comidas en familia</span></div>
-      </div>
+      <div class="t0">Gratis: contenido en los 3 pilares · Regalo 1 (consignas) · Regalo 2 (ritual de la comida) · webinar cada miércoles 9 pm NY</div>
     </div>
-    <p class="note">Más adelante: nuevas rutas de saber hacer (Esposa líder de su hogar · Volver a mis padres · Antes de ser mamá).</p>
-  </section>
-
-  <section aria-labelledby="h-pre">
-    <h2 id="h-pre">Oferta irresistible de preventa</h2>
-    <p>Una sola oferta: <strong>Todo comienza contigo</strong>. El precio sube conforme se acerca el 11 de enero; quien decide primero paga menos.</p>
-    <div class="tbl"><table>
-      <thead><tr><th>Ventana</th><th>Fechas</th><th class="num">Precio</th><th class="num">Ahorro vs. regular</th></tr></thead>
-      <tbody>
-        <tr class="hot"><td class="big">Black Friday</td><td>27–29 nov</td><td class="num big">497</td><td class="num">1,000 · 67%</td></tr>
-        <tr><td>Cyber Monday</td><td>30 nov – 2 dic</td><td class="num">697</td><td class="num">800</td></tr>
-        <tr><td>Diciembre</td><td>3–19 dic</td><td class="num">897</td><td class="num">600</td></tr>
-        <tr><td>Navidad</td><td>20–26 dic</td><td class="num">1,097</td><td class="num">400</td></tr>
-        <tr><td>Último llamado</td><td>27 dic – 10 ene</td><td class="num">1,297</td><td class="num">200</td></tr>
-        <tr><td>Precio regular</td><td>siguientes generaciones</td><td class="num">1,497</td><td class="num">—</td></tr>
-      </tbody>
-    </table></div>
-    <p class="note">Clases en vivo: martes y jueves, 9 a 10 pm hora de Nueva York (8 pm Ciudad de México y Centro de EE. UU., 6 pm Pacífico). Precios en USD. Contado o 3 pagos. Nivel 1 incluye 16 sesiones en vivo grabadas, clase de movimiento semanal, cuaderno de victorias privadas, comunidad y chat (lun–vie) y, en preventa, una llamada 1:1 de inicio.</p>
-    <p class="note"><strong>Bonos ocultos para quien compra antes:</strong> clases en vivo el martes 8 y el martes 29 de diciembre, 9 a 10 pm hora de Nueva York. No se anuncian en la página de venta; se revelan después de la compra.</p>
-    <p class="note"><strong>Garantía de compromiso:</strong> si después de un mes aplicando el programa demuestras con tu documentación que hiciste todo lo recomendado y no viste cambios, te devolvemos tu dinero.</p>
-    <p class="note"><strong>Formas de pago:</strong> Stripe, PayPal y Mercado Pago.</p>
-  </section>
-
-  <section aria-labelledby="h-cup">
-    <h2 id="h-cup">Regalo para la primera generación</h2>
     <div class="coupon">
       <div class="code">VICTORIA1000</div>
       <div>
-        <p><strong>−1,000 USD en Lidera tu Hogar</strong>: de 2,497 a 1,497.</p>
+        <p><strong>Regalo para la primera generación: −1,000 USD en Lidera tu Hogar</strong> (de 2,497 a 1,497).</p>
         <ul>
           <li>Solo para los correos que pagaron el nivel 1</li>
           <li>Un uso por persona, vence a los 7 días</li>
@@ -151,20 +251,13 @@ tr.hot td.big{font-weight:700;color:var(--fg)}
     </div>
   </section>
 
-  <section aria-labelledby="h-ruta">
-    <h2 id="h-ruta">Ruta de conversión</h2>
-    <div class="flow">
-      <span>Contenido en 3 conceptos</span><i>→</i><span>Landing page (regalo)</span><i>→</i><span>Sales page</span><i>→</i><span>Purchase page</span><i>→</i><span>Thank you page</span><i>→</i><span>Preventa 27 nov</span><i>→</i><span>Nivel 1</span><i>→</i><span>Graduación + VICTORIA1000</span><i>→</i><span>Lidera tu Hogar</span><i>→</i><span>1:1</span>
-    </div>
-  </section>
-
   <section aria-labelledby="h-pend">
-    <h2 id="h-pend">Por decidir</h2>
+    <h2 id="h-pend">Siguientes pasos</h2>
     <ol class="pend">
-      <li>Temas de los 2 bonos ocultos y texto final de la garantía</li>
-      <li>Masterclass o evento de conversión antes del 27 de noviembre</li>
-      <li>Configurar cobro: cupón VICTORIA1000 y pagos a plazos (Stripe, PayPal, Mercado Pago)</li>
-      <li>Sitio familiainquebrantable.com: landing, sales, purchase y thank you page</li>
+      <li>Conectar Stripe y crear productos, precios, links y cupón</li>
+      <li>Precios en pesos para Mercado Pago</li>
+      <li>Guion del primer webinar (miércoles 18 de noviembre)</li>
+      <li>Páginas en 2clicks: landing, sales, purchase y thank you page</li>
     </ol>
   </section>
 </div>
