@@ -167,3 +167,17 @@ Versión alternativa (menos detalle sobre experiencias dolorosas):
 Soy Magda: hija, esposa, profesionista y tu amiga. Crecí en un hogar fracturado y viví experiencias que me enseñaron a callar, a alejarme y a refugiarme en la comida, hasta perderme a mí misma. Me reconstruí poco a poco: aprendiendo a recibir el amor de otros, escuchando a mi cuerpo y dándome pequeñas victorias cada día. (… resto igual)
 
 Dato nuevo: Magda vivió deserción escolar y después obtuvo licenciatura y maestría (historia de superación, usable como prueba).
+
+---
+
+## B. Producto, servicio y oferta (formulario 2clicks / Cocoon, 10 nov 2026)
+1. Nombre: Todo comienza contigo
+2. Tipo: Mentoría grupal en vivo (8 semanas)
+3. Público: mujeres casadas, hispanas, de 25 a 40 años (EE. UU. y Latinoamérica), que están construyendo su propio hogar y tienen el poder de hacerlo, porque está en sus manos. Muchas crecieron en hogares heridos y no quieren repetir la historia.
+4. Problema: viven en automático, cansadas, dejándose al final e intentando cambiar su hogar cambiando a los demás o con soluciones rápidas, mientras repiten lo que vivieron.
+5. Transformación: en 8 semanas pasan a liderarse a sí mismas con calma: rutinas propias, un hogar que las sostiene y pequeñas victorias diarias que se notan.
+6. Método: CREA (Conexión, Rutinas, Estructura, Autonomía) — ver texto en el chat.
+7. Incluye (valor percibido): 16 sesiones en vivo 1,600 · 8 clases de movimiento 240 · cuaderno 47 · comunidad y chat 400 · llamada 1:1 150 · kit de herramientas CREA 97.
+8. Valor percibido total: 2,534 USD
+9. Precio: 1,497 USD regular · preventa desde 497 USD (o 3 × 169)
+10. Moneda: USD
