@@ -135,3 +135,8 @@ Productos del programa (sin la llamada de diagnóstico, que ahora es bono): 16 s
 Valor con bonos anunciados (CreaKids + diagnóstico + seguimiento): **4,524 USD**. Con el audio por referida: 4,721.
 
 Clases "Sanar con mis padres" y "Esposa y pareja": **en pausa**. El formulario de diagnóstico pregunta roles, relaciones de enfoque y clase preferida; con esos datos se decide si entran al programa o se guardan para una próxima oferta. Certificado: se entrega en la graduación.
+
+### Ajuste (10 nov 2026)
+- **CreaKids sale de los bonos anunciados.** Se ofrece después del diagnóstico (formulario "Mi punto de partida"), según los roles y relaciones de cada alumna (ej. a quienes son mamás).
+- Bonos anunciados: acción rápida (diagnóstico 150) · pago completo (seguimiento 150) · referida (audio 197). Ocultos: 8 y 29 dic.
+- Valor total anunciado: 4,127 + 497 = **4,624 USD**.
