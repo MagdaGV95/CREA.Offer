@@ -172,3 +172,15 @@ Mensaje: **El hogar que sueñas (Orden que calma) comienza contigo (Me elijo pri
 ### Conexión
 Me elijo primero (decido y me cuido) → Orden que calma (creo el ambiente) → El ciclo termina conmigo (mis relaciones cambian).
 Cada pilar responde una pregunta distinta: ¿quién soy? · ¿dónde y cómo vivimos? · ¿con quién?
+
+---
+
+## ✅ NOMBRES FINALES DE LOS PILARES (decisión de Magda, 10 nov 2026)
+| Pilar | Antes (propuesta) | **Nombre final** | Pregunta |
+|---|---|---|---|
+| 1 · Liderazgo personal + bienestar | Me elijo primero | **Me elijo** | ¿Quién necesito ser yo? |
+| 2 · Relaciones | El ciclo termina conmigo | **Fin del ciclo** | ¿Con quién construyo mi hogar? |
+| 3 · Orden y ritmo | Orden que calma | **Vida en orden** | ¿Dónde y cómo vivimos? |
+
+Gran idea, descripción y temas: los de la sección "LÍNEA EDITORIAL FINAL" (arriba), con estos nombres.
+"El ciclo termina conmigo" se conserva como frase de marca dentro del pilar Fin del ciclo; "Orden que calma" puede usarse como frase dentro de Vida en orden.
