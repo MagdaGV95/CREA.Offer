@@ -184,3 +184,9 @@ Cada pilar responde una pregunta distinta: ¿quién soy? · ¿dónde y cómo viv
 
 Gran idea, descripción y temas: los de la sección "LÍNEA EDITORIAL FINAL" (arriba), con estos nombres.
 "El ciclo termina conmigo" se conserva como frase de marca dentro del pilar Fin del ciclo; "Orden que calma" puede usarse como frase dentro de Vida en orden.
+
+## Ajuste pilar Fin del ciclo (10 nov 2026)
+Nuevos temas (pedido de Magda):
+- **Hábitos que te acercan a la vida que sueñas.**
+- **Mi relación con la comida:** romper el patrón de alimentación que heredó de su mamá (trastorno alimenticio) y el impacto en su familia: su mamá cambiando sus hábitos, comidas familiares, lo que no quiere repetir con sus futuros hijos.
+Cómo contarlo (reglas TCA de `08-creator-vision-v2-borrador.md`): en pasado y desde la recuperación; sin cifras de peso, tallas ni calorías; sin fotos de antes/después del cuerpo; sin describir conductas; enfocado en el vínculo, los hábitos y la familia; con aviso al inicio y recurso de ayuda profesional cuando se mencione el trastorno; pedir permiso a su mamá antes de contar su parte.
