@@ -150,8 +150,8 @@ Si durante las primeras 4 semanas asistes o ves todas las sesiones, completas tu
   1. Únete a la comunidad privada: [enlace]
   2. Agenda tu llamada 1:1 de inicio: [enlace de calendario]
   3. Guarda las fechas: martes y jueves 9–10 pm (hora de Nueva York)
-- **Bonos ocultos (sorpresa, solo para compradoras de preventa):** Por entrar antes, tienes acceso a 2 clases en vivo exclusivas: **martes 8 de diciembre** y **martes 22 de diciembre**, 9–10 pm (hora de Nueva York). Te enviaremos el enlace por correo.
-  - (Mostrar cada bono solo si la compra fue antes de su fecha: hasta el 7 dic para el 8 dic; hasta el 21 dic para el 22 dic.)
+- **Bonos ocultos (sorpresa, solo para compradoras de preventa):** Por entrar antes, tienes acceso a 2 clases en vivo exclusivas: **martes 8 de diciembre** y **martes 29 de diciembre**, 9–10 pm (hora de Nueva York). Te enviaremos el enlace por correo.
+  - (Mostrar cada bono solo si la compra fue antes de su fecha: hasta el 7 dic para el 8 dic; hasta el 28 dic para el 29 dic.)
 - **Mejora (solo en preventa):**
   - **Título:** Lleva tu cambio a tus hijos
   - **Texto:** Agrega **Lidera tu Hogar** (8 semanas, 15 de marzo – 7 de mayo de 2027), para mamás de niños de 0 a 6 años, con tu pareja incluida. Precio regular 2,497 USD. Solo hoy: **697 USD** o 3 pagos de 239 USD.
@@ -199,7 +199,7 @@ Subtotal: 4,277 USD
 
 ### Bonos ocultos (solo compradoras de preventa, se revelan después de comprar)
 - Clase en vivo mar 8 dic, 9–10 pm NY (compras hasta el 7 dic)
-- Clase en vivo mar **22 dic**, 9–10 pm NY (compras hasta el 21 dic)
+- Clase en vivo mar **29 dic**, 9–10 pm NY (compras hasta el 28 dic, incluye Navidad)
 
 ### Ideas de bonos adicionales (por elegir)
 Ver chat del 10 nov: audios "Me doy algo", plantilla de semana en pareja, reto 7 días Vida en orden, clase para la pareja, clase "sanar con mis padres", acceso a la siguiente generación, certificado de graduación.
