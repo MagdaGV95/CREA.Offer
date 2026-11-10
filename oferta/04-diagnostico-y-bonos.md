@@ -110,3 +110,19 @@ Decisión de Magda: el **audio personalizado pasa a ser un bono** (no parte del 
 | 12 | Ascenso / continuidad | Siguiente paso | VICTORIA1000 (graduadas) | Mejora Lidera tu Hogar 697 (thank you page) |
 | 13 | Comunidad | Pertenencia | Comunidad y chat | Encuentro de exalumnas |
 | 14 | Reducción de riesgo | Comprar sin miedo | Garantía de compromiso | — |
+
+---
+
+## 5. ✅ Estructura de bonos elegida por Magda (10 nov 2026)
+| Tipo | Bono | Condición | Valor |
+|---|---|---|---|
+| Preventa | **CreaKids**: bono para mamás (consignas por momento del día, ritual de la comida por edades, plantillas de rutinas) | Comprar antes del 11 ene | 97 |
+| Acción rápida | **Llamada 1:1 de diagnóstico** (usa el formulario "Mi punto de partida") | Pagar completo o apartar en los primeros 30 min tras revelar la oferta | 150 |
+| Pago completo | **Llamada 1:1 de seguimiento** | Pagar de contado | 150 |
+| Referida | **Audio personalizado** de Magda (reprogramación mental) | Refiere a una amiga que se inscribe (mecánica por confirmar) | 197 |
+| Oculto | Sesiones en vivo **mar 8 dic** y **mar 29 dic**, 9–10 pm NY | Haber comprado antes de cada fecha (hasta 7 dic / hasta 28 dic) | sorpresa |
+
+Productos del programa (sin la llamada de diagnóstico, que ahora es bono): 16 sesiones en vivo 3,200 · 8 clases de movimiento en vivo 480 · cuaderno digital 47 · comunidad y chat 400 = **4,127 USD**.
+Valor con bonos anunciados (CreaKids + diagnóstico + seguimiento): **4,524 USD**. Con el audio por referida: 4,721.
+
+Pendiente: dónde quedan las clases "Sanar con mis padres" y "Esposa y pareja" (propuesta: integrarlas como sesiones de la semana 7, "Mis roles") y el certificado (parte de la graduación).
