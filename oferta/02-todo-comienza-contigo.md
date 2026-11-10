@@ -104,8 +104,8 @@ Idea por región (verificar al configurar):
 No se anuncian en la página de venta; se revelan en la thank you page o por correo.
 | Bono | Fecha (propuesta) | Para quién | Tema sugerido |
 |---|---|---|---|
-| Clase en vivo 1 | mar 1 dic, 9–10 pm NY | quien compró hasta el 30 nov (Black Friday + Cyber Monday) | "Me elijo en diciembre: no perderte en las fiestas" |
-| Clase en vivo 2 | mar 29 dic, 9–10 pm NY | quien compró hasta el 28 dic | "Mi primera victoria privada del año: plan para enero" |
+| Clase en vivo 1 | **mar 8 dic**, 9–10 pm NY ✅ | quien compró hasta el 7 dic | "Me elijo en diciembre: no perderte en las fiestas" |
+| Clase en vivo 2 | **mar 29 dic**, 9–10 pm NY ✅ | quien compró hasta el 28 dic | "Mi primera victoria privada del año: plan para enero" |
 Ventaja: mantienen a las compradoras activas y entusiasmadas antes del 11 de enero (menos arrepentimiento y devoluciones).
 
 ### Garantía de compromiso (borrador de condiciones)

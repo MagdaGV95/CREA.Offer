@@ -86,5 +86,5 @@ Ventaja: 9 pm es más probable que los niños ya estén dormidos que a las 8 pm.
 3. Precio y formato del 1:1 Familias Inquebrantables.
 4. Fecha del evento de conversión antes del 27 nov.
 5. Ajustar Lidera tu Hogar (sus semanas 1–2 ya las cubre el nivel 1) y la página de venta.
-6. Bonos ocultos: clase 1 (1 dic) y clase 2 (29 dic) para quien compró antes; confirmar fechas y temas.
+6. Bonos ocultos: clase 1 (mar 8 dic) y clase 2 (mar 29 dic), 9–10 pm NY, para quien compró antes ✅; confirmar temas.
 7. Pagos: Stripe, PayPal, Mercado Pago (ya hay cuentas).
