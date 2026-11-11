@@ -92,3 +92,12 @@ Nota: el simulador estaba en "Point" (terminal física). Revisar las tasas con "
 - Ejemplo con TC de 18.00 (solo ejemplo, usar el TC real): Black Friday contado 8,950 MXN · 3 MSI de 3,163 MXN.
 - Riesgo: si el peso se debilita después de cobrar, recibes menos dólares. Opciones: sumar un margen cambiario (ej. +2–3%) al TC, revisar el TC al abrir cada ventana, o cobrar a clientas de México en USD por Stripe o PayPal (su banco convierte).
 - Al pasar los pesos a dólares también hay costo de conversión del banco o de la plataforma.
+
+### Tarifas de Mercado Pago en línea (captura de Magda, 11 nov 2026)
+| Medio | Comisión | Dinero disponible |
+|---|---|---|
+| Saldo MP, tarjeta de crédito, débito, SPEI, "Compra ahora, paga después", vales | 3.49% + $4 MXN | al instante |
+| Efectivo / OXXO y depósitos | 3.79% + $4 MXN | 3 días |
+Probablemente + IVA (confirmar). Ejemplo 8,950 MXN con tarjeta: comisión ≈ 367 MXN con IVA (4.1%) → recibe ≈ 8,583. Con OXXO ≈ 398 (4.45%) → ≈ 8,552.
+- La tabla no muestra el costo extra de meses sin intereses en línea: buscarlo (el 4.69% era de Point).
+- **"Compra ahora, paga después"** (crédito de Mercado Pago): la clienta paga a plazos a Mercado Pago y Magda recibe el total al instante con la comisión normal (3.49% + $4). Alternativa a MSI sin costo extra, si la clienta es elegible.
