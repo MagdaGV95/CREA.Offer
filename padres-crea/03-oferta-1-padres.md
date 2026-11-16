@@ -44,3 +44,11 @@ Magda paga impuestos federales y estatales (Nueva York; posiblemente también de
 Propuesta: **847 USD** (cumple hasta ~35%) o **3 pagos de 300 USD** (incluye ~6% por meses sin intereses). Si el contador confirma ~40%: 897 (3 × 317).
 1:1 con 2,500 netos y 35%: ≈ 4,097 USD.
 Página: padres-crea/escalera/index.html (artifact "Escalera CREA Padres").
+
+## Nombre de la clase gratuita (opciones, 16 nov 2026)
+Ideas de Magda: "Los 3 secretos de la autonomía de mi hijo en casa" · "Los 3 secretos para dejar de luchar con los berrinches".
+Recomendación: dolor en el título + deseo en la promesa → **"Los 3 secretos para dejar de luchar con los berrinches (y lograr que tu hijo coopere solo)"**. Nombre por mejorar.
+
+## Impuestos (orientación general, confirmar con profesional)
+Trabajadora independiente en Nueva York (posible residente de NYC): self-employment tax (~15.3% sobre el 92.35% de la ganancia) + impuesto federal (10–22% en la mayoría de los hogares, depende del ingreso familiar si declaran en conjunto) + estatal NY (~4–6.85%) + ciudad NYC (~3.1–3.9%, solo si vive en los 5 condados). Deducciones: gastos del negocio, mitad del SE tax, posible QBI (20%). Efectivo estimado 30–40% → planear con 35%; confirmar. Pagos trimestrales estimados (federal 1040-ES y estatal).
+Dónde confirmar: contador (CPA) o enrolled agent; NYC Free Tax Prep / IRS VITA si califican por ingreso; tasa efectiva de la declaración del año pasado.
