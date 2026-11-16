@@ -1,0 +1,207 @@
+<title>Escalera CREA Padres</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap">
+<style>
+/* Layout: una columna; la pirámide se apoya sobre los 3 pilares de la línea editorial, igual que el método */
+:root{
+  --bg:#f6f4f7; --surface:#ffffff; --fg:#231a2b; --muted:#6a5f72; --line:#e2dbe6;
+  --plum:#5d2b57; --plum-soft:#efe3ee; --sage:#4f7a63; --sage-soft:#e3efe7; --gold:#b9852c; --gold-soft:#f7ecd6;
+  --l1:#e9d9e7; --l2:#c9a3c4; --l3:#5d2b57; --l3fg:#fff;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Inter",ui-sans-serif,system-ui,-apple-system,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#17121b; --surface:#211a26; --fg:#f1eaf3; --muted:#b2a6ba; --line:#3a3041;
+  --plum:#d7a6cf; --plum-soft:#35223a; --sage:#8fc3a4; --sage-soft:#1f3229; --gold:#e3b866; --gold-soft:#3a2f1c;
+  --l1:#3b2a3e; --l2:#6b3f66; --l3:#d7a6cf; --l3fg:#1b1220; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#17121b; --surface:#211a26; --fg:#f1eaf3; --muted:#b2a6ba; --line:#3a3041;
+  --plum:#d7a6cf; --plum-soft:#35223a; --sage:#8fc3a4; --sage-soft:#1f3229; --gold:#e3b866; --gold-soft:#3a2f1c;
+  --l1:#3b2a3e; --l2:#6b3f66; --l3:#d7a6cf; --l3fg:#1b1220; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:40px 64px}
+.wrap{max-width:880px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-family:var(--display);line-height:1.15;text-wrap:balance;margin:0}
+h1{font-size:clamp(2rem,6vw,3.2rem);font-weight:800;letter-spacing:-.02em}
+h2{font-size:1.6rem;font-weight:700}
+h3{font-size:1.1rem;font-weight:700}
+p{margin:0;max-width:65ch}
+.eyebrow{font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;font-weight:600;color:var(--plum)}
+.muted{color:var(--muted)}
+section{display:flex;flex-direction:column;gap:18px}
+header{display:flex;flex-direction:column;gap:14px}
+.idea{font-family:var(--display);font-size:1.25rem;font-weight:500;color:var(--plum)}
+/* Pirámide */
+.pyr{display:flex;flex-direction:column;align-items:center;gap:6px}
+.tier{width:100%;text-align:center;padding:18px 12%;display:flex;flex-direction:column;gap:4px;align-items:center}
+.tier .tag{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;font-weight:600;opacity:.85}
+.tier .name{font-family:var(--display);font-weight:700;font-size:1.15rem}
+.tier .meta{font-size:.85rem}
+.t3{background:var(--l3);color:var(--l3fg);clip-path:polygon(38% 0,62% 0,76% 100%,24% 100%);padding-top:30px;max-width:100%}
+.t2{background:var(--l2);color:var(--fg);clip-path:polygon(23.5% 0,76.5% 0,88% 100%,12% 100%)}
+.t1{background:var(--l1);color:var(--fg);clip-path:polygon(11.5% 0,88.5% 0,100% 100%,0 100%)}
+.t3 .tier-in,.t2 .tier-in,.t1 .tier-in{max-width:320px;display:flex;flex-direction:column;gap:2px}
+.t2 .tier-in{max-width:380px}.t1 .tier-in{max-width:460px}
+.t0{border:1.5px dashed var(--line);border-radius:10px;padding:10px 14px;font-size:.88rem;color:var(--muted);text-align:center;width:100%}
+.pillars{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;width:100%}
+.pillar{background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--sage);padding:14px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.pillar .role{font-size:.8rem;color:var(--muted)}
+.pillar .to{font-size:.8rem;font-weight:600;color:var(--sage)}
+.base-label{font-family:var(--display);font-weight:800;letter-spacing:.04em;text-transform:uppercase;color:var(--sage);font-size:.95rem}
+/* Tablas */
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:560px;font-size:.92rem}
+th,td{text-align:left;padding:10px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+tr:last-child td{border-bottom:0}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+tr.hot td{background:var(--gold-soft)}
+tr.hot td.big{font-weight:700;color:var(--fg)}
+.save{display:inline-block;font-size:.75rem;font-weight:600;color:var(--gold);margin-left:6px}
+/* Cupón */
+.coupon{display:grid;grid-template-columns:auto 1fr;gap:20px;align-items:center;border:2px dashed var(--gold);border-radius:14px;padding:20px;background:var(--surface)}
+.code{font-family:var(--display);font-weight:800;font-size:1.6rem;letter-spacing:.06em;color:var(--gold);border-right:2px dashed var(--gold);padding-right:20px}
+.coupon ul{margin:6px 0 0;padding-left:18px;font-size:.92rem}
+.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:.88rem}
+.flow span{background:var(--surface);border:1px solid var(--line);padding:6px 10px;border-radius:999px}
+.flow i{font-style:normal;color:var(--muted)}
+.pend{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
+.note{font-size:.82rem;color:var(--muted)}
+@media (max-width:640px){
+  .pillars{grid-template-columns:1fr}
+  .tier{padding-inline:6%}
+  .t3{clip-path:polygon(30% 0,70% 0,82% 100%,18% 100%)}
+  .t2{clip-path:polygon(17% 0,83% 0,92% 100%,8% 100%)}
+  .t1{clip-path:polygon(7% 0,93% 0,100% 100%,0 100%)}
+  .tier .name{font-size:1rem}.tier .meta{font-size:.78rem}
+  .coupon{grid-template-columns:1fr}.code{border-right:0;border-bottom:2px dashed var(--gold);padding:0 0 12px}
+}
+.pillar ul{margin:4px 0 0;padding-left:18px;font-size:.88rem;display:flex;flex-direction:column;gap:2px}
+.pillar .big-idea{font-size:.92rem;font-weight:500}
+.pillar .q{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--sage);font-weight:600}
+.promise{font-family:var(--display);font-size:1.2rem;font-weight:500;line-height:1.4;border-left:4px solid var(--plum);padding-left:16px;max-width:65ch}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.fact{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.fact b{font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:6px}
+.box h3{font-size:1rem}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:640px){.two{grid-template-columns:1fr}}
+.ladder{display:flex;flex-direction:column;gap:10px}
+.lvl{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:18px;display:grid;grid-template-columns:120px 1fr;gap:16px}
+.lvl .tagcol{display:flex;flex-direction:column;gap:4px}
+.lvl .n{font-family:var(--display);font-weight:800;font-size:1.6rem;color:var(--plum)}
+.lvl .dim{font-size:.75rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.lvl h3{font-size:1.15rem}
+.lvl .price{font-weight:600;color:var(--gold)}
+.lvl ul{margin:6px 0 0;padding-left:18px;font-size:.92rem}
+.lvl.top{border-color:var(--plum)}
+.lvl.free{border-style:dashed}
+.hooks{font-size:.88rem;color:var(--muted);margin-top:6px}
+@media (max-width:640px){.lvl{grid-template-columns:1fr;gap:6px}}
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">CREA para padres · Escalera de valor</div>
+    <h1>Hijos que cooperan, padres que lideran</h1>
+    <p class="idea">He visto cómo los niños mejoran cuando los adultos se transforman a sí mismos.</p>
+    <p class="muted">Para mamás y papás hispanos con hijos de 0 a 6 años que sienten que la crianza es un caos y no quieren seguir gritando ni repetir lo que vivieron. El método va por dentro; afuera se habla del problema, la promesa y la solución.</p>
+  </header>
+
+  <section aria-labelledby="h-lad">
+    <h2 id="h-lad">La escalera</h2>
+    <div class="ladder">
+      <div class="lvl free">
+        <div class="tagcol"><span class="n">0</span><span class="dim">Gratis · comunidad</span></div>
+        <div>
+          <h3>Clase semanal en vivo: Los 3 secretos para eliminar el caos en casa</h3>
+          <ul>
+            <li>Conectar antes de corregir · Rutinas y un ambiente que hacen el trabajo por ti · Tus hijos imitan al adulto que eres</li>
+            <li>Regalos: "Lo puedo hacer desde hoy" (consignas) y "Nuestro ritual de la comida"</li>
+            <li>Al final: invitación a la Oferta 1</li>
+          </ul>
+        </div>
+      </div>
+      <div class="lvl">
+        <div class="tagcol"><span class="n">1</span><span class="dim">Saber saber · educa</span></div>
+        <div>
+          <h3>Hogar en Armonía <span class="muted">(nombre provisional)</span></h3>
+          <p class="price">847 USD · o 3 pagos de 300 USD</p>
+          <ul>
+            <li>8 semanas, 1 sesión en vivo por semana con preguntas; 1.ª generación en vivo y grabada</li>
+            <li>Hitos del desarrollo · conexión · consignas · rutinas · ambiente · comidas · autonomía · plan familiar</li>
+            <li>Después: curso pregrabado que se compra y empieza cuando quieran</li>
+            <li>Meta: ≥ 497 USD netos por persona</li>
+          </ul>
+        </div>
+      </div>
+      <div class="lvl">
+        <div class="tagcol"><span class="n">2</span><span class="dim">Saber ser · especializa</span></div>
+        <div>
+          <h3>Lidera tu Hogar: liderazgo parental</h3>
+          <p class="price">Precio por definir (arriba del nivel 1)</p>
+          <ul>
+            <li>Los padres que sus hijos necesitan: resilientes, líderes, con hábitos saludables</li>
+            <li>Mentalidad inquebrantable y ganadora, romper creencias limitantes, amor propio, límites</li>
+            <li>Cambio de conducta del adulto: los hijos imitan hábitos de calma, crecimiento y conexión</li>
+          </ul>
+        </div>
+      </div>
+      <div class="lvl top">
+        <div class="tagcol"><span class="n">3</span><span class="dim">Saber hacer · acompaña</span></div>
+        <div>
+          <h3>Familias Inquebrantables</h3>
+          <p class="price">Mínimo 2,500 USD netos (≈ 4,097 USD)</p>
+          <ul>
+            <li>1:1 dentro de un grupo pequeño, con mirada pedagógica profesional</li>
+            <li>Objetivos por familia, análisis de la conducta del niño cuando hace falta</li>
+            <li>Revisión de videos del niño en su contexto para guiar la intervención (con consentimiento)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-ped">
+    <h2 id="h-ped">Pilares de contenido que llevan a la clase</h2>
+    <p class="muted">Cada pieza termina con la invitación a la clase gratuita de la semana.</p>
+    <div class="pillars">
+      <div class="pillar">
+        <span class="q">El problema que sienten hoy</span>
+        <h3>Vida en orden</h3>
+        <p class="big-idea">Rutinas, consignas y un ambiente que hacen que el día fluya.</p>
+        <ul><li>Mañanas sin pelea</li><li>Consignas que sí escuchan</li><li>Qué esperar a cada edad</li><li>Comidas en paz</li></ul>
+        <p class="hooks">"Si tu hijo no te hace caso en la mañana, no es rebeldía: es esto."</p>
+      </div>
+      <div class="pillar">
+        <span class="q">Dónde empieza la solución</span>
+        <h3>Me elijo</h3>
+        <p class="big-idea">El cambio de tus hijos empieza en el adulto que ellos imitan.</p>
+        <ul><li>Calma antes de corregir</li><li>Tus hábitos, su ejemplo</li><li>Límites sin gritos</li><li>Energía para estar presente</li></ul>
+        <p class="hooks">"Tu hijo no aprende lo que le dices. Aprende lo que te ve hacer."</p>
+      </div>
+      <div class="pillar">
+        <span class="q">El resultado que buscan</span>
+        <h3>Fin del ciclo</h3>
+        <p class="big-idea">Criar sin repetir la historia y con hijos que te cuentan todo.</p>
+        <ul><li>No repetir los gritos que viviste</li><li>Hijos que confían en ti</li><li>Pareja como equipo</li><li>Conexión diaria</li></ul>
+        <p class="hooks">"Lo que no sanamos como hijos lo enseñamos sin querer como padres."</p>
+      </div>
+    </div>
+    <div class="flow">
+      <span>Contenido en 3 pilares</span><i>→</i><span>Landing de registro</span><i>→</i><span>Clase semanal en vivo</span><i>→</i><span>Oferta 1</span><i>→</i><span>Oferta 2</span><i>→</i><span>Oferta 3</span>
+    </div>
+  </section>
+
+  <section aria-labelledby="h-pend">
+    <h2 id="h-pend">Por decidir</h2>
+    <ol class="pend">
+      <li>Tasa real de impuestos (federal, estatal y de ciudad) con el contador: con 35% el precio de 847 cumple; con 40% haría falta 897</li>
+      <li>Nombre final de la Oferta 1</li>
+      <li>Día y hora de la clase semanal y fecha de inicio de la 1.ª generación</li>
+      <li>Precio y duración de la Oferta 2</li>
+    </ol>
+  </section>
+</div>

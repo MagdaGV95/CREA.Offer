@@ -33,3 +33,14 @@ Duración, número de sesiones, precio, día/hora de la clase semanal y fecha de
 6. Comidas en paz: el ritual de la comida (Regalo 2)
 7. Autonomía: lo hago y me ves → lo hacemos juntos → lo haces y te veo
 8. Nuestro plan familiar + graduación + invitación a la Oferta 2
+
+## Ajuste de impuestos y comisiones (16 nov 2026)
+Magda paga impuestos federales y estatales (Nueva York; posiblemente también de la ciudad y self-employment). Estimación conservadora: comisiones ~4.5% + impuestos 30–40% (confirmar con contador). Meses sin intereses: máximo 3 pagos.
+| Impuestos | Precio mínimo para 497 netos | 797 → neto | 847 → neto | 897 → neto |
+|---|---|---|---|---|
+| 30% | 743 | 533 | 566 | 600 |
+| 35% | 801 | 495 | 526 | 557 |
+| 40% | 867 | 457 | 485 | 514 |
+Propuesta: **847 USD** (cumple hasta ~35%) o **3 pagos de 300 USD** (incluye ~6% por meses sin intereses). Si el contador confirma ~40%: 897 (3 × 317).
+1:1 con 2,500 netos y 35%: ≈ 4,097 USD.
+Página: padres-crea/escalera/index.html (artifact "Escalera CREA Padres").
