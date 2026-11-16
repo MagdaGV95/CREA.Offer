@@ -17,3 +17,19 @@ Landing de registro → clase gratuita semanal en vivo (3 secretos) → Oferta 1
 
 ## Pendientes
 Duración, número de sesiones, precio, día/hora de la clase semanal y fecha de inicio (cuidar choque con Todo comienza contigo: 11 ene–5 mar, mar/jue 9 pm; webinars de mujeres los miércoles 9 pm).
+
+## Decisiones (16 nov 2026, tarde)
+- **Duración: 8 semanas**, primera generación en vivo.
+- **Meta: ≥ 497 USD netos por persona** (después de comisiones e impuestos), precio fácil de pagar, cercano al tope de low ticket (~700).
+- Neto ≈ precio × 0.69 → precio mínimo ≈ 720 USD. Propuesta: **747 USD** (neto ~515) o **3 pagos de 254 USD**.
+- 697 USD dejaría ~481 netos (por debajo de la meta).
+
+### Estructura propuesta (8 semanas, 1 sesión en vivo por semana + preguntas)
+1. Qué esperar a cada edad: hitos del desarrollo de 0 a 6 años
+2. Conexión: conectar antes de corregir
+3. Consignas que sí escuchan (Regalo 1)
+4. Rutinas de mañana y noche sin pelea
+5. Estructura: un ambiente que invita a cooperar
+6. Comidas en paz: el ritual de la comida (Regalo 2)
+7. Autonomía: lo hago y me ves → lo hacemos juntos → lo haces y te veo
+8. Nuestro plan familiar + graduación + invitación a la Oferta 2
