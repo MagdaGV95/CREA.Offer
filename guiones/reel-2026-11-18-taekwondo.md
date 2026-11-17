@@ -1,36 +1,40 @@
-# Reel mié 18 nov · "Lo que me salvó empezó a los 4 años"
+# Reel mié 18 nov · "8 años sin aplausos"
 Pilar: Fin del ciclo + Me elijo · Misión: Atraer · Formato: storytelling silencioso (Jun): lucha → marca de tiempo → música que crece → transformación clara · 20–25 s.
 Tono: heroína. Sin culpar a nadie (su mamá ve los videos).
 
+## Gran idea
+**8 años de victorias privadas antes de la primera pública.** Entrenó desde los 4 sin competir; su primera competencia (estatal) llegó cerca de los 12, cuando su profesor se asoció con escuelas que competían. Es la prueba viva del pilar *Me elijo*: "Primero las victorias privadas, después las públicas."
+
 ## Estructura emocional
-Hook con brecha de curiosidad → ascenso rápido (logros) → caída breve → regreso → transformación hoy → legado.
+Hook (brecha de curiosidad) → 8 años sin aplausos → por fin la pública (ascenso rápido) → caída breve → regreso → transformación → legado.
 
 ## Texto en pantalla (2–3 s por línea; cortes al ritmo de la música)
 | # | Imagen | Texto | Música |
 |---|---|---|---|
-| 1 | Foto de niña con dobok, mirando a cámara | **Lo que me salvó la vida empezó a los 4 años.** | Suave |
-| 2 | Foto de niña pequeña entrenando | **1999. Tenía mucha energía y nadie sabía qué hacer con ella.** | Suave |
-| 3 | Foto en el dojang / con el entrenador | **Mis papás me llevaron a taekwondo.** | Empieza a subir |
-| 4 | Foto entrenando | **Lunes a lunes. Sin descanso.** | Sube |
-| 5 | Foto de competencia (corte rápido) | **Estatal.** | Sube |
-| 6 | Otra foto de competencia (corte rápido) | **Regional.** | Sube |
-| 7 | Foto con medalla | **Clasifiqué a la nacional.** | Pico |
-| 8 | Clip oscuro / ventana / de espaldas (1.5 s) | **Años después, dejé de entrenar… y me perdí a mí misma.** | Baja de golpe |
-| 9 | Clip de hoy: atándote los tenis o vendándote las manos | **Hasta que un día volví.** | Vuelve a subir |
-| 10 | Clip levantando pesas / respirando | **Volvió mi energía. Mi calma. Mi presencia.** | Sube |
-| 11 | Clip con tu mamá entrenando (manos/espalda) o con Gilberto de espaldas en el gym | **Hoy entreno con mi mamá. Y acompaño a mi esposo en el suyo.** | Pico final |
-| 12 | Foto de niña + clip de hoy en pantalla dividida | **La disciplina que me dieron a los 4 años me salvó a los 30.** | Final |
+| 1 | Foto de niña con dobok, mirando a cámara | **Entrené 8 años sin que nadie me aplaudiera.** | Suave |
+| 2 | Foto de niña pequeña | **Empecé taekwondo a los 4.** | Suave |
+| 3 | Foto entrenando | **Lunes a lunes. Sin competencias. Sin medallas.** | Suave |
+| 4 | Otra foto entrenando / en casa | **Solo disciplina.** | Empieza a subir |
+| 5 | Foto de su primera competencia | **A los 12 llegó mi primera competencia.** | Sube |
+| 6 | Foto (corte rápido, 1 s) | **Estatal.** | ⬆ |
+| 7 | Foto (corte rápido, 1 s) | **Regional.** | ⬆ |
+| 8 | Foto con medalla | **Clasifiqué a la nacional.** | Pico |
+| 9 | Clip oscuro / de espaldas (1.5 s) | **Años después, dejé de entrenar… y me perdí a mí misma.** | Baja de golpe |
+| 10 | Clip de hoy: atándote los tenis o vendándote las manos | **Hasta que volví a lo que siempre me sostuvo.** | Drop: vuelve a subir |
+| 11 | Clip levantando pesas / respirando | **Volvió mi energía. Mi calma. Mi presencia.** | Sube |
+| 12 | Clip con tu mamá (manos/espalda) o Gilberto de espaldas en el gym | **Hoy entreno con mi mamá. Y acompaño a mi esposo en el suyo.** | Pico final |
+| 13 | Pantalla dividida: niña / hoy | **Primero las victorias privadas. Después, las públicas.** | Final |
 
-Audio sugerido: una pista épica-emotiva en tendencia con un "drop" (subida fuerte) para la línea 9.
-Ritmo: líneas 5–7 muy rápidas (1 s cada una) para dar sensación de ascenso.
+Audio: pista épica-emotiva en tendencia con un "drop" en la línea 10.
+Ritmo: líneas 6–8 muy rápidas (1 s cada una).
 
 ## Portada
 Pantalla dividida: arriba tú de niña con el dobok, abajo tú hoy en el gym.
-Texto: **"Lo que me salvó"**
+Texto: **"8 años sin aplausos"**
 
 ## Pie de foto
 A los 4 años tenía más energía de la que cabía en casa. Mis papás me llevaron a taekwondo, y ese tatami se volvió mi lugar.
-Entrené de lunes a lunes hasta los 15: dos horas con mi entrenador y más por mi cuenta. Competí en la estatal, en la regional y clasifiqué a la nacional.
+Entrené de lunes a lunes: dos horas con mi entrenador y más por mi cuenta en casa. Durante 8 años no hubo competencias ni medallas, solo disciplina. A los 12 llegó mi primera competencia: la estatal, después la regional, y clasifiqué a la nacional.
 Años después dejé de entrenar, y sin darme cuenta también dejé de cuidarme.
 Volver a moverme me devolvió la energía, la calma y la presencia para mi familia. Hoy entreno con mi mamá y acompaño a mi esposo en su propio camino.
 Lo mejor que hicieron mis padres fue darme una rutina. Hoy yo elijo darla.
@@ -39,5 +43,5 @@ Lo mejor que hicieron mis padres fue darme una rutina. Hoy yo elijo darla.
 #taekwondo #disciplina #transformacion #crianzaconsciente #familia
 
 ## Antes de publicar
-- Confirmar: ¿el regreso a entrenar fue a los 30? (si no, cambia el número de la línea 12).
+- Confirmar la edad de la primera competencia (aprox. 12).
 - Elige las fotos: 1 de niña pequeña, 2 de entrenamiento, 2–3 de competencia/medalla.
