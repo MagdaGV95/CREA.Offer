@@ -47,3 +47,14 @@ Clave (Jun): ~5 de baja intensidad (< 1 h) + ~2 de alta intensidad. Tu rutina YA
 
 ## Nota
 - Rutina actual (nov 2026): trabajo desde un café, gimnasio cerca, clases CENEVAL temporales. Confirmar si sigue el entreno con mamá y suegra.
+
+## Serie "Lo acompaño" (Gilberto y el MMA)
+Pilar: Fin del ciclo + Me elijo · Gilberto de espaldas o sin cara, sin hablar.
+| # | Pieza | Formato |
+|---|---|---|
+| 1 | "De niña iba sola a entrenar. Hoy acompaño a mi esposo a su primera clase de MMA." | Storytelling silencioso: foto tuya de niña en taekwondo → hoy en el gimnasio con él |
+| 2 | "Lo que me salvó a mí, ahora lo vive él." | Clip + texto (vendas, guantes, tenis de los dos) |
+| 3 | "Semana X acompañando a mi esposo a MMA" | Serie semanal corta: vendas, mochila, regreso a casa |
+| 4 | "Lo que el ejercicio cambió en nuestro matrimonio" | A cámara (tú sola) |
+| 5 | "Cuando uno de los dos cambia, el hogar cambia" | Carrusel: antes / ahora de la rutina de pareja |
+Pide permiso a Gilberto para cada clip; el gimnasio también puede pedir permiso para grabar.

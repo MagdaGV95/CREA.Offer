@@ -15,6 +15,18 @@ Los 3 pilares siguen el orden Ser → Hacer → Entorno: primero tú, luego tu g
 | **Fin del ciclo** (Hacer) | ¿Con quién construyo mi hogar? | Lo que no sanamos como hijos lo enseñamos sin querer como padres. El ciclo termina conmigo. | Crianza que conecta · adultos responsables · matrimonio con lealtad y servicio · sanar con nuestros padres · entrenar con mi mamá y mi suegra · mi relación con la comida · hábitos que te acercan a la vida que sueñas · prepararme para ser mamá · fe y tradiciones |
 | **Vida en orden** (Entorno) | ¿Dónde y cómo vivimos? | El ambiente que te rodea te forma. Orden que calma. | *(propuesta, por confirmar)* Rutina de 5:35 · cerrar la cocina antes de salir · casa lista antes de irme · velas y calma · comidas en familia · rutinas visuales para niños · la E de Estructura de CREA · ordenar con los hijos · espacios que invitan a cooperar · preparar la mochila (acto de servicio) |
 
+### A quién le hablo (actualizado 17 nov)
+- **Cliente ideal (comprador):** **matrimonios con hijos pequeños** (0–6). La oferta *Lidera tu Hogar* ya incluye a la pareja.
+- **A quién le hablo en el contenido:** la **mujer que es mamá y esposa a la vez**, y también la que, como yo, **se sigue construyendo para serlo** (esposa, aún sin hijos, preparándose para ser mamá).
+- **Tono:** humana y cotidiana. Mostrar cómo lo cotidiano (cansancio, desorden, rutinas, hábitos) impacta la relación de pareja, y cómo ese ambiente es el contexto en el que crecen los niños.
+
+### Hilo narrativo nuevo: el movimiento que me salvó, ahora en pareja
+- Crecí en un hogar desorganizado, con una mamá con un trastorno alimenticio y un papá ausente.
+- Lo mejor que hicieron mis padres fue darme una rutina de acondicionamiento físico (taekwondo). Volver a ella me cambió la vida.
+- Ahora está cambiando también la de Gilberto: **quiere tomar clases de MMA** y yo lo voy a acompañar y a grabar su proceso.
+- Lo que me conmueve: yo iba sola a entrenar de niña; hoy yo lo acompaño a él. Lo que me salvó a mí, ahora lo vive mi esposo.
+- Serie propuesta: **"Lo acompaño"** (Fin del ciclo + Me elijo). Gilberto de espaldas / sin hablar, como acordamos.
+
 ### Cómo encaja con lo que ya existía
 - **Me elijo** = Estilo de vida + Pasiones (movimiento, autocuidado, fe) + "Saber ser".
 - **Fin del ciclo** = Historia (problema → búsqueda → recompensa) + Perspectiva ("todo se repite si no rompemos el ciclo") + matrimonio.
@@ -48,7 +60,7 @@ Matrimonio · Familia · Movimiento · Desarrollo personal · Fe · Servicio
 ## WHO (quién)
 
 ### avatar
-Mamás hispanas de 20 a 45 años con hijos de 0 a 6 años (y papás).
+Matrimonios hispanos con hijos pequeños (0–6). En el contenido le hablo a la mujer que es mamá y esposa a la vez (20–45 años), y a la que se sigue construyendo para serlo.
 
 ### demographic (age, location, gender, occupation)
 20–45 años · Principalmente mamás · Hispanos en EE. UU. (principal) · México · LATAM · España · Profesionistas y mamás que trabajan
