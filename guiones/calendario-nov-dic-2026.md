@@ -103,3 +103,5 @@ En preventa (27 nov–2 dic, 20 dic–6 ene) agrega cada día 1 historia de cuen
 
 ## Antes del Black Friday (bloquea la venta)
 - [ ] Forma de cobro y pagos a plazos · [ ] guion de respuesta a LIDERA · [ ] compartir la página de venta · [ ] fotos de niña en taekwondo y del aniversario.
+
+Hoja en Drive (carpeta CREA): https://docs.google.com/spreadsheets/d/101yMyzIF01nofM4YuSZk0J95KHmIk8IL6xxmh83sCtU/edit
