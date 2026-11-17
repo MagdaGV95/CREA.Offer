@@ -3,7 +3,7 @@ Pilar: Fin del ciclo + Me elijo · Misión: Atraer · Formato: storytelling sile
 Tono: heroína. Sin culpar a nadie (su mamá ve los videos).
 
 ## Gran idea
-**8 años de victorias privadas antes de la primera pública.** Entrenó desde los 4 sin competir; su primera competencia (estatal) llegó cerca de los 12, cuando su profesor se asoció con escuelas que competían. Es la prueba viva del pilar *Me elijo*: "Primero las victorias privadas, después las públicas."
+**8 años de victorias privadas antes de la primera pública.** Entrenó desde los 4 sin competir; su primera competencia (estatal) llegó a los 12–13, cuando su profesor se asoció con escuelas que competían. Es la prueba viva del pilar *Me elijo*: "Primero las victorias privadas, después las públicas."
 
 ## Estructura emocional
 Hook (brecha de curiosidad) → 8 años sin aplausos → por fin la pública (ascenso rápido) → caída breve → regreso → transformación → legado.
@@ -11,11 +11,11 @@ Hook (brecha de curiosidad) → 8 años sin aplausos → por fin la pública (as
 ## Texto en pantalla (2–3 s por línea; cortes al ritmo de la música)
 | # | Imagen | Texto | Música |
 |---|---|---|---|
-| 1 | Foto de niña con dobok, mirando a cámara | **Entrené 8 años sin que nadie me aplaudiera.** | Suave |
+| 1 | Foto de niña con dobok, mirando a cámara | **Entrené más de 8 años sin que nadie me aplaudiera.** | Suave |
 | 2 | Foto de niña pequeña | **Empecé taekwondo a los 4.** | Suave |
 | 3 | Foto entrenando | **Lunes a lunes. Sin competencias. Sin medallas.** | Suave |
 | 4 | Otra foto entrenando / en casa | **Solo disciplina.** | Empieza a subir |
-| 5 | Foto de su primera competencia | **A los 12 llegó mi primera competencia.** | Sube |
+| 5 | Foto de su primera competencia | **Hasta que llegó mi primera competencia.** | Sube |
 | 6 | Foto (corte rápido, 1 s) | **Estatal.** | ⬆ |
 | 7 | Foto (corte rápido, 1 s) | **Regional.** | ⬆ |
 | 8 | Foto con medalla | **Clasifiqué a la nacional.** | Pico |
@@ -34,7 +34,7 @@ Texto: **"8 años sin aplausos"**
 
 ## Pie de foto
 A los 4 años tenía más energía de la que cabía en casa. Mis papás me llevaron a taekwondo, y ese tatami se volvió mi lugar.
-Entrené de lunes a lunes: dos horas con mi entrenador y más por mi cuenta en casa. Durante 8 años no hubo competencias ni medallas, solo disciplina. A los 12 llegó mi primera competencia: la estatal, después la regional, y clasifiqué a la nacional.
+Entrené de lunes a lunes: dos horas con mi entrenador y más por mi cuenta en casa. Durante más de 8 años no hubo competencias ni medallas, solo disciplina. Hasta que, a los 12 o 13, llegó mi primera competencia: la estatal, después la regional, y clasifiqué a la nacional.
 Años después dejé de entrenar, y sin darme cuenta también dejé de cuidarme.
 Volver a moverme me devolvió la energía, la calma y la presencia para mi familia. Hoy entreno con mi mamá y acompaño a mi esposo en su propio camino.
 Lo mejor que hicieron mis padres fue darme una rutina. Hoy yo elijo darla.
@@ -43,5 +43,5 @@ Lo mejor que hicieron mis padres fue darme una rutina. Hoy yo elijo darla.
 #taekwondo #disciplina #transformacion #crianzaconsciente #familia
 
 ## Antes de publicar
-- Confirmar la edad de la primera competencia (aprox. 12).
+- Primera competencia a los 12–13: el texto en pantalla no menciona la edad para que sea exacto en ambos casos.
 - Elige las fotos: 1 de niña pequeña, 2 de entrenamiento, 2–3 de competencia/medalla.
