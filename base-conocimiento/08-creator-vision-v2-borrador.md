@@ -3,6 +3,25 @@ POV: **EXPERTA** (Jun Yuh). Copia de trabajo en Canva: "MG Creator Vision" (DAHZ
 Nota: la API de Canva no permite editar pizarras (whiteboard); el texto se pega a mano, nodo por nodo.
 
 ---
+## LÍNEA EDITORIAL (17 nov 2026) — eje del contenido
+**Mensaje:** El hogar que sueñas comienza contigo.
+**Valores:** familia · lealtad · responsabilidad · servicio.
+
+Los 3 pilares siguen el orden Ser → Hacer → Entorno: primero tú, luego tu gente, luego tu casa.
+
+| Pilar | Pregunta | Gran idea | Temas |
+|---|---|---|---|
+| **Me elijo** (Ser) | ¿Quién necesito ser yo? | Primero las victorias privadas, después las públicas. No hay atajos: hay pequeñas victorias repetidas. | Victorias privadas · "Me doy algo" · moverme aunque no tenga ganas · el sol de la mañana · respiración 4-4-4-4 · disciplina del taekwondo · amor propio sin culpa · el presente dicta el futuro |
+| **Fin del ciclo** (Hacer) | ¿Con quién construyo mi hogar? | Lo que no sanamos como hijos lo enseñamos sin querer como padres. El ciclo termina conmigo. | Crianza que conecta · adultos responsables · matrimonio con lealtad y servicio · sanar con nuestros padres · entrenar con mi mamá y mi suegra · mi relación con la comida · hábitos que te acercan a la vida que sueñas · prepararme para ser mamá · fe y tradiciones |
+| **Vida en orden** (Entorno) | ¿Dónde y cómo vivimos? | El ambiente que te rodea te forma. Orden que calma. | *(propuesta, por confirmar)* Rutina de 5:35 · cerrar la cocina antes de salir · casa lista antes de irme · velas y calma · comidas en familia · rutinas visuales para niños · la E de Estructura de CREA · ordenar con los hijos · espacios que invitan a cooperar · preparar la mochila (acto de servicio) |
+
+### Cómo encaja con lo que ya existía
+- **Me elijo** = Estilo de vida + Pasiones (movimiento, autocuidado, fe) + "Saber ser".
+- **Fin del ciclo** = Historia (problema → búsqueda → recompensa) + Perspectiva ("todo se repite si no rompemos el ciclo") + matrimonio.
+- **Vida en orden** = Habilidad (rutinas, estructura, CREA) + hogar cálido. Es el pilar que más conecta con la oferta *Lidera tu Hogar*.
+- Valores nuevos explícitos: **lealtad** y **responsabilidad** se suman a familia y servicio.
+
+---
 ## WHAT (qué)
 
 ### message
