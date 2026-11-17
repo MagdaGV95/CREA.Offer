@@ -5,7 +5,7 @@ Regla de tono de Magda: **nunca lenguaje de víctima; siempre heroína.** Contar
 |---|---|---|---|---|
 | **Sueño seguro** | Vida en orden | "Boca arriba, solo y en su cuna: las 3 reglas que sigo" · rutina de sueño en 4 pasos · baby sign language para "dormir" | Rutina completa de sueño + acompañamiento | Seguir guías pediátricas (AAP): nada suelto en la cuna antes de los 12 meses; el objeto de apego, después del año. Siempre "consulta con tu pediatra". |
 | **Riesgos de juguetes** | Vida en orden | "3 juguetes que parecen inofensivos": canicas, dados, gusanos de plástico como pulseras · "Juego independiente: confía, pero verifica" · paletas y dulces duros | Seguridad en casa por edades | Lenguaje preventivo, sin alarmar. |
-| **CPR / RCP bebés y adultos** | Vida en orden | "Por qué tomé el curso de RCP" · "¿Sabes qué hacer si tu hijo se atraganta?" | Solo con instructor certificado o citando el curso | **No enseñar la técnica en un reel salvo con certificación vigente**; invitar a tomar un curso (Cruz Roja / American Heart Association). |
+| **CPR / RCP bebés y adultos** | Vida en orden | "Atragantamiento en bebés: lo que hago (con certificación vigente)" · "3 errores comunes en RCP" · "¿Sabes qué hacer si tu hijo se atraganta?" | Video largo de RCP y primeros auxilios | **Magda tiene CPR y First Aid vigentes**: puede enseñar. Mencionar la certificación en el video, mostrar la técnica con muñeco e invitar a tomar el curso. |
 | **Cambio de pañal** | Vida en orden | Paso a paso en 30 s · niño vs. niña · qué tener a la mano · rozadura: cuándo ir al pediatra · cómo desechar | Guía completa + significado de las popós del recién nacido | "Consulta con tu pediatra". |
 | **Principios de conteo (PEP 2011, p. 51)** | Vida en orden (habilidad) | "5 principios de conteo que tu hijo usa sin que lo sepas": uno a uno, orden estable, cardinalidad, abstracción, irrelevancia del orden | Clase de pensamiento matemático en casa | Autoridad pura de educadora. |
 | **Estrategias de conteo** | Vida en orden | Demostraciones: ordenar en fila, señalar, apartar los contados, repartir uno a uno, sobreconteo | — | Formato demostración con objetos de la casa. |
@@ -21,5 +21,5 @@ Regla de tono de Magda: **nunca lenguaje de víctima; siempre heroína.** Contar
 | **Rutinas · CREA · Autonomía · Empatía · Conexión** | Todos | Una serie por letra de CREA | Módulos de Lidera tu Hogar | Material para el programa. |
 
 ## Serie con tu historia de taekwondo (heroína)
-- De los 4 a los 14–15 años · atleta de alto rendimiento · entrenaba de lunes a lunes, mínimo 2 h con el entrenador + práctica en casa · seleccionada municipal y regional · clasificada a la estatal.
-- Lo que no salió (no llegó a la estatal porque los adultos no se coordinaron) se cuenta **desde la lección**: "Aprendí que la disciplina es mía, pero el equipo se construye. Por eso hoy coordino mi casa." Nunca culpar.
+- De los 4 a los 14–15 años · atleta de alto rendimiento · entrenaba de lunes a lunes, mínimo 2 h con el entrenador + práctica en casa · compitió en la estatal (primera competencia grande) y la regional · clasificó a la nacional.
+- Lo que no salió (no llegó a la nacional porque los adultos no se coordinaron) se cuenta **desde la lección**: "Aprendí que la disciplina es mía, pero el equipo se construye. Por eso hoy coordino mi casa." Nunca culpar.
