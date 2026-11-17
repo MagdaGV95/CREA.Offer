@@ -1,110 +1,105 @@
 # Calendario de contenido — 18 nov 2026 → 6 ene 2027
-Punto de vista: **EXPERTA** (Jun Yuh). Formatos expertos: framework de 3 pasos · "5 cosas que nunca haría como…" · opinión contraria · reacción (pantalla verde) · contar tu historia · compartir tu mentalidad · "Soy una ___ de ___ años…" · pantalla dividida · demostración.
-Pilares: **ME** = Me elijo · **CICLO** = Fin del ciclo · **ORDEN** = Vida en orden.
-Misiones: A = Atraer · N = Nutrir · P = Posicionar · C = Convertir (más C durante la preventa).
-Reglas: grabas lun–vie antes de las 4 pm; fines de semana ya programados. Sin caras de alumnos. Gilberto de espaldas.
+**Regla:** 1 REEL diario (obligatorio) + extras: carrusel/post (3 por semana) + secuencia de historias (diaria).
+Punto de vista EXPERTA (Jun Yuh). Pilares: **ME** = Me elijo · **CICLO** = Fin del ciclo · **ORDEN** = Vida en orden.
+Misión: A atraer · N nutrir · P posicionar · C convertir. Grabas lun–vie antes de las 4 pm; fines de semana programados.
+
+## Historias: ritmo semanal fijo (estilo calendario de Jun)
+| Día | Secuencia de historias (4–6 pantallas) | Misión |
+|---|---|---|
+| Lun | **Caja de preguntas** sobre crianza/pareja → respondes 2–3 | N |
+| Mar | **Un día conmigo**: 5:35, mochila de Gilberto, casa en orden, café, gym | P |
+| Mié | **#VictoriaPrivada**: tu victoria del día + reposteas las de tu audiencia | N |
+| Jue | **Transformación / oferta**: antes y después, Lidera tu Hogar, "escríbeme LIDERA" | C |
+| Vie | **Detrás de cámaras**: grabando, editando, preparando el programa | P |
+| Sáb | **Encuesta**: "¿Sobre qué quieres que hable?" o "¿A qué hora se duermen tus hijos?" | N |
+| Dom | **Familia y fe**: misa, comida familiar, Kia, paseo | N |
+En preventa (27 nov–2 dic, 20 dic–6 ene) agrega cada día 1 historia de cuenta regresiva + caja "¿Dudas del programa?".
 
 ## Fechas clave
-| Fecha | Qué | Tipo |
-|---|---|---|
-| Jue 19 nov · Mar 24 nov | Últimas clases CENEVAL (online) | Trabajo |
-| **Sáb 21 nov** | **12 años con Gilberto** (novios desde 2014) | Familia |
-| **Jue 26 nov** | **Thanksgiving** (sin clase) | Calendario |
-| **Vie 27 – dom 29 nov** | **Preventa Black Friday — Lidera tu Hogar 747 USD** + llamada 1:1 | Venta |
-| Dom 29 nov | 1.er domingo de Adviento | Fe |
-| **Lun 30 nov – mié 2 dic** | **Preventa Cyber Monday — 797 USD** | Venta |
-| Mar 8 dic | Inmaculada Concepción | Fe |
-| **Sáb 12 dic** | **Virgen de Guadalupe** | Fe / cultura |
-| Mié 16 – jue 24 dic | Posadas | Cultura / familia |
-| **Dom 20 – sáb 26 dic** | **Preventa Navidad — 847 USD** | Venta |
-| Jue 24 dic | Nochebuena | Familia |
-| **Vie 25 dic** | **Navidad + foto anual estilo postal** | Familia |
-| **Dom 27 dic – mié 6 ene** | **Preventa Año Nuevo — 897 USD** | Venta |
-| Jue 31 dic | Fin de año | Calendario |
-| **Vie 1 ene** | **Cumpleaños de Kia (7 años)** | Familia |
-| Mié 6 ene | Día de Reyes · cierre de preventa | Cultura / venta |
-| Lun 11 ene | **Inicia Lidera tu Hogar** | Venta |
-| Por confirmar | Primera clase de MMA de Gilberto | Familia |
+21 nov 12 años con Gilberto · 26 nov Thanksgiving · 27–29 nov Black Friday (747) · 29 nov Adviento · 30 nov–2 dic Cyber Monday (797) · 8 dic Inmaculada · 12 dic Guadalupe · 16–24 dic Posadas · 20–26 dic preventa Navidad (847) · 25 dic Navidad + foto postal · 27 dic–6 ene preventa Año Nuevo (897) · 1 ene cumpleaños de Kia · 6 ene Reyes y cierre · 11 ene inicia Lidera tu Hogar · últimas clases CENEVAL 19 y 24 nov · MMA de Gilberto (fecha por confirmar).
 
-## Semana 1 · 18–22 nov — "Gratitud y pareja" (calentar la preventa)
-| Día | Pilar | Misión | Formato experto | Pieza |
-|---|---|---|---|---|
-| Mié 18 | CICLO | A | Contar tu historia | "Lo mejor que hicieron mis padres fue darme una rutina de ejercicio." (foto de niña en taekwondo → hoy) |
-| Jue 19 | ME | P | Clip + texto (clase grabada por Gilberto) | "Quedan 2 clases: lo que me enseñan los adultos que regresan a estudiar." |
-| Vie 20 | ORDEN | P | Framework de 3 pasos | "3 pasos para que tu casa ayude a que tu hijo coopere." |
-| **Sáb 21** | CICLO | N | Carrusel storytelling | **"12 años. Crecí viendo cómo se rompía un matrimonio; hoy cumplo 12 construyendo uno."** 2014 Guerrero → 2022 boda → hoy |
-| Dom 22 | CICLO | A | Opinión contraria | "No basta con morir por tus hijos. ¿Vivirías por ellos?" |
+---
+## Semana 1 · 18–22 nov — "Gratitud y pareja"
+| Día | REEL (formato experto) | Pilar · Misión | EXTRA (carrusel/post) |
+|---|---|---|---|
+| Mié 18 | Historia: "Lo mejor que hicieron mis padres fue darme una rutina de ejercicio." Foto de niña en taekwondo → hoy | CICLO · A | — |
+| Jue 19 | Clip + texto (clase grabada por Gilberto): "Quedan 2 clases. Lo que me enseñan los adultos que regresan a estudiar." | ME · P | Carrusel: "5 frases para que tu hijo te cuente todo" |
+| Vie 20 | Framework 3 pasos: "3 pasos para que tu casa ayude a que tu hijo coopere." | ORDEN · P | — |
+| **Sáb 21** | Storytelling silencioso: "12 años. Crecí viendo cómo se rompía un matrimonio; hoy cumplo 12 construyendo uno." | CICLO · N | **Carrusel aniversario:** 2014 Guerrero → 2022 boda → hoy |
+| Dom 22 | Opinión contraria: "No basta con morir por tus hijos. ¿Vivirías por ellos?" | CICLO · A | Post: frase "El ciclo termina conmigo" |
 
 ## Semana 2 · 23–29 nov — "Thanksgiving + Black Friday"
-| Día | Pilar | Misión | Formato experto | Pieza |
-|---|---|---|---|---|
-| Lun 23 | CICLO | P | 5 cosas que nunca haría | "5 cosas que nunca hago en una reunión familiar con niños pequeños (como educadora)." |
-| Mar 24 | ME | N | Storytelling silencioso | "Mi última clase." Despedida + mensaje de ánimo. |
-| Mié 25 | ORDEN | P | Demostración | "Cómo preparo a un niño para una cena familiar larga: avísale antes, dale una tarea, un rincón tranquilo." |
-| **Jue 26** | CICLO | A | Pantalla dividida | **Thanksgiving:** "Lo que veía en la mesa de niña / lo que quiero en la mía." + "Hoy agradezco…" |
-| **Vie 27** | — | **C** | A cámara | **Abre Black Friday:** "Mamá y papá con hijos de 0 a 6: si sienten que no les hacen caso, esto es para ustedes. Lidera tu Hogar, 8 semanas. Escríbanme LIDERA." |
-| Sáb 28 | — | C | Historias + carrusel | "Lo que cambia en 8 semanas" (antes / después de la página de venta). Comenta LIDERA. |
-| Dom 29 | CICLO | C | Clip + texto | Última llamada Black Friday · 1.er domingo de Adviento: "Preparar el corazón también es preparar el hogar." |
+| Día | REEL | Pilar · Misión | EXTRA |
+|---|---|---|---|
+| Lun 23 | 5 cosas: "5 cosas que nunca hago en una reunión familiar con niños pequeños (como educadora)." | CICLO · P | — |
+| Mar 24 | Storytelling silencioso: "Mi última clase." | ME · N | Carrusel: "Cómo preparar a tu hijo para la cena de Thanksgiving" |
+| Mié 25 | Demostración: "Avísale antes, dale una tarea, un rincón tranquilo: así llega tu hijo a una cena larga." | ORDEN · P | — |
+| **Jue 26** | Pantalla dividida: "Lo que veía en la mesa de niña / lo que quiero en la mía." | CICLO · A | Post: "Hoy agradezco…" (foto familiar con Kia) |
+| **Vie 27** | A cámara: **abre Black Friday**: "Mamá y papá con hijos de 0 a 6: si sienten que no les hacen caso, esto es para ustedes. Escríbanme LIDERA." | — · C | **Carrusel: "Lo que cambia en 8 semanas"** (antes/después) |
+| Sáb 28 | "Tengo 31 años y no me avergüenza admitir que también grito a veces. Esto es lo que hago después." | ME · A | — |
+| Dom 29 | Clip + texto: "Preparar el corazón también es preparar el hogar." (Adviento) · última llamada BF | CICLO · C | Post: "Último día de Black Friday" |
 
-## Semana 3 · 30 nov – 6 dic — "Cyber Monday + Adviento en casa"
-| Día | Pilar | Misión | Formato experto | Pieza |
-|---|---|---|---|---|
-| **Lun 30** | — | C | A cámara | Cyber Monday: "¿Se les pasó el Black Friday? Tienen 3 días." |
-| Mar 1 | ORDEN | P | Framework 3 pasos | "La consigna que funciona: nombre + acción + objeto." (Regalo 1) |
-| Mié 2 | — | C | Historias + DM | Cierra Cyber Monday. |
-| Jue 3 | ME | A | "Tengo 31 años y me da vergüenza admitir…" | "…que por años me fui a entrenar sola. Hoy acompaño a mi esposo." (serie Lo acompaño, si ya empezó MMA) |
-| Vie 4 | ORDEN | N | Mini vlog | "Mi casa antes de salir" — vida en orden en diciembre. |
-| Sáb 5 | CICLO | A | Tendencia "¿No puedes __? Haz __" | "¿No puedes con toda la Navidad? Haz una tradición pequeña." |
-| Dom 6 | ME | N | Clip + texto | "Victoria privada: me levanté a las 5:35 aunque hacía frío." |
+## Semana 3 · 30 nov – 6 dic — "Cyber Monday + Adviento"
+| Día | REEL | Pilar · Misión | EXTRA |
+|---|---|---|---|
+| **Lun 30** | A cámara: "¿Se les pasó el Black Friday? Tienen 3 días." | — · C | Carrusel: "¿Para quién es Lidera tu Hogar?" |
+| Mar 1 | Framework: "La consigna que funciona: nombre + acción + objeto." | ORDEN · P | — |
+| Mié 2 | Reacción (pantalla verde) a un berrinche viral: "Lo que yo haría como educadora." · cierra Cyber Monday | CICLO · P | — |
+| Jue 3 | "Tengo 31 años y me da vergüenza admitir que por años fui a entrenar sola. Hoy acompaño a mi esposo." (serie Lo acompaño) | ME · A | Carrusel: "¿No puedes con toda la Navidad? Haz una tradición pequeña." |
+| Vie 4 | Mini vlog: "Mi casa antes de salir, en diciembre." | ORDEN · N | — |
+| Sáb 5 | Pantalla dividida "1 mala hora / aún te quedan 23" (mamá en diciembre) | CICLO · A | — |
+| Dom 6 | Clip + texto: "Victoria privada: me levanté a las 5:35 aunque hacía frío." | ME · N | Post: tu rutina de domingo |
 
 ## Semana 4 · 7–13 dic — "Fe y tradiciones"
-| Día | Pilar | Misión | Formato experto | Pieza |
-|---|---|---|---|---|
-| Lun 7 | CICLO | P | Contar tu historia | "Por qué las tradiciones le dan seguridad a un niño." |
-| Mar 8 | CICLO | N | Clip + texto | Inmaculada Concepción · "Lo que mi fe me enseñó sobre perdonar." |
-| Mié 9 | ORDEN | P | 5 cosas | "5 tareas navideñas que un niño de 2–6 años puede hacer." (Regalo 2) |
-| Jue 10 | ME | A | Reacción (pantalla verde) | Reaccionar a un video de "Navidad perfecta" en redes: "La Navidad de tus hijos no necesita ser perfecta." |
-| Vie 11 | CICLO | A | Pantalla dividida | "1 mala hora / aún te quedan 23" (versión mamá en diciembre) |
-| **Sáb 12** | CICLO | N | Storytelling | **Virgen de Guadalupe:** tradición en tu familia, lo que quieres conservar. |
-| Dom 13 | ME | N | Carrusel | "Cosas que hago para llenar mi propia taza en diciembre." |
+| Día | REEL | Pilar · Misión | EXTRA |
+|---|---|---|---|
+| Lun 7 | Historia: "Por qué las tradiciones le dan seguridad a un niño." | CICLO · P | — |
+| Mar 8 | Clip + texto: "Lo que mi fe me enseñó sobre perdonar a mis padres." | CICLO · N | — |
+| Mié 9 | 5 cosas: "5 tareas navideñas que un niño de 2 a 6 años puede hacer." | ORDEN · P | Carrusel: el ritual de la comida por edades (Regalo 2) |
+| Jue 10 | Reacción a "Navidad perfecta": "La Navidad de tus hijos no necesita ser perfecta." | ME · A | — |
+| Vie 11 | Demostración: "Calendario de Adviento con tareas de casa." | ORDEN · P | Carrusel: "Cosas que hago para llenar mi taza en diciembre" |
+| **Sáb 12** | Storytelling: Virgen de Guadalupe, la tradición que quiero conservar. | CICLO · N | Post: foto de la tradición |
+| Dom 13 | Mentalidad: "Primero las victorias privadas, después las públicas." | ME · A | — |
 
 ## Semana 5 · 14–20 dic — "Posadas + abre preventa Navidad"
-| Día | Pilar | Misión | Formato experto | Pieza |
-|---|---|---|---|---|
-| Lun 14 | ORDEN | P | Framework | "Cómo sobrevivir a las fiestas sin romper la rutina de tu hijo: 3 anclas (sueño, comida, aviso)." |
-| Mar 15 | CICLO | A | Opinión contraria | "Tu hijo no está 'insoportable' en diciembre: está sobreestimulado." |
-| Mié 16 | CICLO | N | Clip + texto | Inicio de posadas: "Lo que aprendí de niña en las posadas." |
-| Jue 17 | ME | P | Mentalidad | "El presente dicta el futuro: lo que haces este diciembre es lo que tu hijo recordará." |
-| Vie 18 | — | C | Historias | Aviso: "El domingo abre la preventa de Navidad." |
-| Sáb 19 | ORDEN | A | Demostración | "Calendario de Adviento con tareas de casa para niños." |
-| **Dom 20** | — | **C** | A cámara | **Abre preventa Navidad:** "Regálale a tu familia un hogar en calma en 2027." |
+| Día | REEL | Pilar · Misión | EXTRA |
+|---|---|---|---|
+| Lun 14 | Framework: "3 anclas para no romper la rutina de tu hijo en fiestas: sueño, comida, aviso." | ORDEN · P | Carrusel con las 3 anclas |
+| Mar 15 | Opinión contraria: "Tu hijo no está 'insoportable' en diciembre: está sobreestimulado." | CICLO · A | — |
+| Mié 16 | Clip + texto: "Lo que aprendí de niña en las posadas." | CICLO · N | — |
+| Jue 17 | Mentalidad: "Lo que hagas este diciembre es lo que tu hijo recordará." | ME · P | Carrusel: "Está bien hacer ambas" |
+| Vie 18 | Lo acompaño: Gilberto en MMA (si ya empezó) / mini vlog del gym | ME · A | — |
+| Sáb 19 | "Soy educadora y esto es lo que regalaría a un niño de 3 años (no es un juguete)." | ORDEN · A | — |
+| **Dom 20** | A cámara: **abre preventa Navidad**: "Regálale a tu familia un hogar en calma en 2027." | — · C | Carrusel: "Qué incluye Lidera tu Hogar" |
 
 ## Semana 6 · 21–27 dic — "Navidad"
-| Día | Pilar | Misión | Formato experto | Pieza |
-|---|---|---|---|---|
-| Lun 21 | — | C | Carrusel | "Lo que incluye Lidera tu Hogar" + pareja incluida. |
-| Mar 22 | ORDEN | P | 5 cosas | "5 cosas que nunca hago con niños en Nochebuena." |
-| Mié 23 | — | C | DM / historias | Preguntas frecuentes de la preventa. |
-| Jue 24 | CICLO | N | Clip + texto | Nochebuena: "El ciclo termina conmigo, también en esta mesa." |
-| **Vie 25** | CICLO | N | Foto | **Navidad: primera foto anual estilo postal** con Gilberto (de espaldas o como él decida) y Kia. |
-| Sáb 26 | — | C | Historias | Cierra preventa Navidad. |
-| **Dom 27** | — | **C** | A cámara | **Abre preventa Año Nuevo:** "Empieza enero liderando tu hogar." |
+| Día | REEL | Pilar · Misión | EXTRA |
+|---|---|---|---|
+| Lun 21 | "Pareja incluida: por qué el cambio es más rápido cuando lo hacen los dos." | CICLO · C | — |
+| Mar 22 | 5 cosas: "5 cosas que nunca hago con niños en Nochebuena." | ORDEN · P | — |
+| Mié 23 | Responder dudas frecuentes del programa (a cámara, 3 preguntas) | — · C | Carrusel: preguntas frecuentes |
+| Jue 24 | Clip + texto: "El ciclo termina conmigo, también en esta mesa." | CICLO · N | — |
+| **Vie 25** | Clip navideño: preparación de la foto postal (detrás de cámaras) | CICLO · N | **Post: primera foto anual estilo postal** |
+| Sáb 26 | A cámara: "Último día del precio de Navidad." | — · C | — |
+| **Dom 27** | A cámara: **abre preventa Año Nuevo**: "Empieza enero liderando tu hogar." | — · C | Carrusel: "Lo que cambia en 8 semanas" (repost) |
 
 ## Semana 7 · 28 dic – 6 ene — "Año nuevo, hogar nuevo"
-| Día | Pilar | Misión | Formato experto | Pieza |
-|---|---|---|---|---|
-| Lun 28 | ME | A | Tendencia "Nunca es tarde para…" | "Nunca es tarde para romper el patrón." |
-| Mar 29 | ORDEN | P | Framework | "3 rutinas que quiero instalar en 2027 (y cómo hacerlo con niños)." |
-| Mié 30 | ME | N | Carrusel | "Mis victorias privadas de 2026." |
-| Jue 31 | CICLO | A | Pantalla dividida | "2016 vs 2026" o "Lo que dejo en 2026 / lo que me llevo." |
-| **Vie 1 ene** | ME | N | Clip | **Cumpleaños de Kia:** "Lo que Kia me enseñó sobre pausar." |
-| Sáb 2 | — | C | A cámara | "Quedan 4 días para entrar a Lidera tu Hogar." |
-| Dom 3 | — | C | Testimonio / prueba | Mensajes de familias inscritas (con permiso). |
-| Lun 4 – Mar 5 | — | C | Historias + DM | Últimos días. |
-| **Mié 6 ene** | CICLO | C | Clip + texto | Día de Reyes + **cierre de preventa**. |
+| Día | REEL | Pilar · Misión | EXTRA |
+|---|---|---|---|
+| Lun 28 | Tendencia "Nunca es tarde para… romper el patrón." | ME · A | — |
+| Mar 29 | Framework: "3 rutinas que quiero instalar en 2027 (y cómo hacerlo con niños)." | ORDEN · P | — |
+| Mié 30 | Clip + texto: "Mis victorias privadas de 2026." | ME · N | Carrusel: victorias privadas 2026 |
+| Jue 31 | Pantalla dividida: "Lo que dejo en 2026 / lo que me llevo." | CICLO · A | — |
+| **Vie 1 ene** | Clip: "Lo que Kia me enseñó sobre pausar." (cumple 7) | ME · N | Post: Kia cumpleañera |
+| Sáb 2 | A cámara: "Quedan 4 días para entrar a Lidera tu Hogar." | — · C | — |
+| Dom 3 | Prueba: mensajes de familias inscritas (con permiso) | — · C | Carrusel: testimonios |
+| Lun 4 | "Si tu propósito 2027 es dejar de gritar, empieza aquí." | — · C | — |
+| Mar 5 | Historia: "Por qué creé Lidera tu Hogar." | CICLO · C | — |
+| **Mié 6** | Clip + texto: Día de Reyes + cierre de preventa | — · C | Post: "Último día" |
 
-## Antes del Black Friday (pendientes que bloquean la venta)
-- [ ] Forma de cobro (link de pago / plataforma) y pagos a plazos.
-- [ ] Respuesta automática o guion para la palabra **LIDERA** (notas de voz 1-2-3).
-- [ ] Compartir la página de venta (hoy es privada).
-- [ ] Fotos de niña en taekwondo y del aniversario.
+## Conteo
+- Reels: 50 (1 diario). Carruseles/posts: ~3 por semana. Historias: diarias.
+- Reels de baja intensidad (clip + texto, a cámara corto) ≈ 70 %; alta intensidad (storytelling, reacción) ≈ 30 %.
+
+## Antes del Black Friday (bloquea la venta)
+- [ ] Forma de cobro y pagos a plazos · [ ] guion de respuesta a LIDERA · [ ] compartir la página de venta · [ ] fotos de niña en taekwondo y del aniversario.
