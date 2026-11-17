@@ -46,7 +46,18 @@ Clave (Jun): ~5 de baja intensidad (< 1 h) + ~2 de alta intensidad. Tu rutina YA
 - **Viernes:** margen + responder comentarios.
 
 ## Nota
-- Rutina actual (nov 2026): trabajo desde un café, gimnasio cerca, clases CENEVAL temporales. Confirmar si sigue el entreno con mamá y suegra.
+- Rutina actual (nov 2026): trabajo desde un café, gimnasio cerca, clases CENEVAL temporales.
+- **Clases CENEVAL:** martes y jueves; no hay clase en Thanksgiving (jue 26 nov). Quedan **mar 17, jue 19 y mar 24 de noviembre**.
+- **Entreno con mamá y suegra:** su mamá no se ha sentido bien; hay material grabado previo. En el gimnasio no puede hacer llamadas (por confirmar si el entreno era por videollamada).
+
+## Cuenta regresiva CENEVAL (pilar Fin del ciclo / servicio)
+| Fecha | Pieza | Formato |
+|---|---|---|
+| Mar 17 | "Quedan 3 clases" — pizarrón, material, sin caras | Clip + texto (graba hoy) |
+| Jue 19 | "Lo que me enseñan los adultos que regresan a estudiar" | Clip + texto o a cámara corto |
+| Mar 24 | "Última clase" — despedida del salón, mensaje de ánimo para su examen | Storytelling silencioso |
+| Después | "Nunca es tarde para…" (tendencia) — adultos que vuelven a estudiar; conecta con modelar a los hijos | Carrusel |
+Sin rostros ni nombres de alumnos, y sin logos del Consulado salvo permiso.
 
 ## Serie "Lo acompaño" (Gilberto y el MMA)
 Pilar: Fin del ciclo + Me elijo · Gilberto de espaldas o sin cara, sin hablar.
