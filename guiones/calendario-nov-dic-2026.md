@@ -9,7 +9,7 @@ Misión: A atraer · N nutrir · P posicionar · C convertir. Grabas lun–vie a
 | Lun | **Caja de preguntas** sobre crianza/pareja → respondes 2–3 | N |
 | Mar | **Un día conmigo**: 5:35, mochila de Gilberto, casa en orden, café, gym | P |
 | Mié | **#VictoriaPrivada**: tu victoria del día + reposteas las de tu audiencia | N |
-| Jue | **Transformación / oferta**: antes y después, Lidera tu Hogar, "escríbeme LIDERA" | C |
+| Jue | **Transformación / oferta**: antes y después, Lidera tu Hogar, "escríbeme CREA" | C |
 | Vie | **Detrás de cámaras**: grabando, editando, preparando el programa | P |
 | Sáb | **Encuesta**: "¿Sobre qué quieres que hable?" o "¿A qué hora se duermen tus hijos?" | N |
 | Dom | **Familia y fe**: misa, comida familiar, Kia, paseo | N |
@@ -35,7 +35,7 @@ En preventa (27 nov–2 dic, 20 dic–6 ene) agrega cada día 1 historia de cuen
 | Mar 24 | Storytelling silencioso: "Mi última clase." | ME · N | Carrusel: "Cómo preparar a tu hijo para la cena de Thanksgiving" |
 | Mié 25 | Demostración: "Avísale antes, dale una tarea, un rincón tranquilo: así llega tu hijo a una cena larga." | ORDEN · P | — |
 | **Jue 26** | Pantalla dividida: "Lo que veía en la mesa de niña / lo que quiero en la mía." | CICLO · A | Post: "Hoy agradezco…" (foto familiar con Kia) |
-| **Vie 27** | A cámara: **abre Black Friday**: "Mamá y papá con hijos de 0 a 6: si sienten que no les hacen caso, esto es para ustedes. Escríbanme LIDERA." | — · C | **Carrusel: "Lo que cambia en 8 semanas"** (antes/después) |
+| **Vie 27** | A cámara: **abre Black Friday**: "Mamá y papá con hijos de 0 a 6: si sienten que no les hacen caso, esto es para ustedes. Escríbanme CREA." | — · C | **Carrusel: "Lo que cambia en 8 semanas"** (antes/después) |
 | Sáb 28 | "Tengo 31 años y no me avergüenza admitir que también grito a veces. Esto es lo que hago después." | ME · A | — |
 | Dom 29 | Clip + texto: "Preparar el corazón también es preparar el hogar." (Adviento) · última llamada BF | CICLO · C | Post: "Último día de Black Friday" |
 
@@ -102,6 +102,6 @@ En preventa (27 nov–2 dic, 20 dic–6 ene) agrega cada día 1 historia de cuen
 - Reels de baja intensidad (clip + texto, a cámara corto) ≈ 70 %; alta intensidad (storytelling, reacción) ≈ 30 %.
 
 ## Antes del Black Friday (bloquea la venta)
-- [ ] Forma de cobro y pagos a plazos · [ ] guion de respuesta a LIDERA · [ ] compartir la página de venta · [ ] fotos de niña en taekwondo y del aniversario.
+- [ ] Forma de cobro y pagos a plazos · [ ] guion de respuesta a CREA · [ ] compartir la página de venta · [ ] fotos de niña en taekwondo y del aniversario.
 
-Hoja en Drive (carpeta CREA): https://docs.google.com/spreadsheets/d/101yMyzIF01nofM4YuSZk0J95KHmIk8IL6xxmh83sCtU/edit
+Hoja en Drive (carpeta CREA): https://docs.google.com/spreadsheets/d/1QFcKuGWTYKz4IQPmxRg8RNz_NZ5vAHlCHPF-fIZedR0/edit

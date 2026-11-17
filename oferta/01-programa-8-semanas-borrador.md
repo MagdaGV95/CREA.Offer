@@ -80,7 +80,7 @@ Cálculo aproximado: neto ≈ precio × 0.69 (≈4% comisión de pago + ≈28% i
 ## Nombre y página
 - **Nombre elegido: Lidera tu Hogar.**
 - Página de venta (borrador): `oferta/pagina-venta/index.html` · vista previa privada: https://claude.ai/artifact/CiChdawa69S7MJpfG7a3gD
-- CTA actual: escribir **LIDERA** por DM en Instagram (sin pasarela de pago todavía).
+- CTA actual (palabra clave cambiada de LIDERA a CREA el 17 nov, más corta y sin confusión): escribir **CREA** por DM en Instagram (sin pasarela de pago todavía).
 - Después de la primera cohorte, el programa queda grabado; el siguiente escalón sube de precio.
 
 ## Pendientes
