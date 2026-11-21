@@ -22,10 +22,12 @@ En 8 semanas dejas de luchar con los berrinches y conviertes las mañanas, comid
 | Tipo | Bono | Condición | Valor |
 |---|---|---|---|
 | Acción rápida | **Llamada 1:1 de diagnóstico familiar** (30 min, con formulario previo) | Inscribirse en los primeros 30 min tras revelar la oferta, de contado o en pagos | 150 |
-| Pago completo | **Análisis pedagógico de un video de tu hijo** en su rutina real, con recomendaciones por escrito o en audio | Pagar de contado | 297 |
-| Oculto | Sesión en vivo sorpresa (ej. "Berrinches en público y en fiestas" o "Pregúntale a la maestra") | Se revela después de comprar | sorpresa |
+| Pago completo | **Llamada 1:1 de seguimiento** (30 min) a mitad del programa para ajustar el plan de tu familia | Pagar de contado | 150 |
+| Oculto | **Mastermind en vivo "El padre que tus hijos imitan"**: puente hacia la Oferta 2 (liderazgo parental) | Se revela después de comprar | sorpresa |
 
-**Valor total: 2,702 USD** (sin contar el bono oculto).
+**Valor total: 2,555 USD** (sin contar el bono oculto).
+
+Nota: el análisis pedagógico de video queda reservado para la Oferta 3 (saber hacer).
 
 ## Precio
 - **847 USD** de contado (≈ 106 USD por semana; menos que una sola sesión privada de 150).
@@ -44,8 +46,8 @@ Si en las primeras 4 semanas asistes o ves todas las sesiones, aplicas las rutin
 2. "¿Qué pasaría si en 8 semanas…?" (visualizar mañanas sin pelea).
 3. Presentar el programa semana por semana.
 4. Apilar el valor elemento por elemento hasta 2,255.
-5. Revelar los bonos: acción rápida (30 min) y pago completo → 2,702.
-6. "No vas a invertir 2,702. Ni 1,500. Tu inversión es 847, o 3 pagos de 300."
+5. Revelar los bonos: acción rápida (30 min) y pago completo → 2,555.
+6. "No vas a invertir 2,555. Ni 1,500. Tu inversión es 847, o 3 pagos de 300."
 7. Comparar: menos de lo que cuesta una sola sesión privada por semana.
 8. Garantía de compromiso.
 9. Urgencia real: bono de acción rápida solo 30 minutos; cupo de la 1.ª generación en vivo.
@@ -54,5 +56,5 @@ Si en las primeras 4 semanas asistes o ves todas las sesiones, aplicas las rutin
 ## Pendientes
 - Nombre final de la oferta.
 - Día y hora de la clase semanal y fecha de inicio de la 1.ª generación.
-- Tema y fecha del bono oculto.
+- Fecha del mastermind oculto (propuesta: semana 6 o 7, antes del cierre, para preparar la Oferta 2).
 - Cupo máximo de la 1.ª generación (para la urgencia).
