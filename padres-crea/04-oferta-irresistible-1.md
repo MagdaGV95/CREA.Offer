@@ -64,3 +64,10 @@ Si en las primeras 4 semanas asistes o ves todas las sesiones, aplicas las rutin
 - 50 × 847 ≈ 42,350 USD brutos ≈ 26,000–27,000 netos (35% impuestos + ~4.5% comisiones).
 - Embudo estimado (referencia de mercado, a validar con datos propios): asistencia ~30–40% de registros; compra ~5–10% de asistentes a un precio ~800 → para 50 ventas: ~500–1,000 asistentes → ~1,500–3,000 registros en total. Con ~900 seguidores, hará falta clase semanal constante, reciclar contenido, alianzas/grupos de padres y probablemente publicidad pagada.
 - Con 50 familias en vivo: sesiones de preguntas ordenadas (formulario previo), reglas de la comunidad, horario de respuesta en chat.
+
+## Preventa (21 nov 2026)
+- La Oferta 1 de padres se vende en **preventa ahora** y **arranca en enero de 2027**.
+- **Bono oculto de preventa:** clases en vivo del **martes 8 y martes 29 de diciembre**, 9–10 pm NY, para quienes ya se inscribieron (mismas fechas que la oferta de mujeres). Por confirmar: sesión conjunta o separada.
+- El mastermind "El padre que tus hijos imitan" queda en la semana 6–7 como puente a la Oferta 2.
+- Propuesta de precios (847 es el mínimo para 497 netos con ~35%): preventa 847 (3 × 300) → regular 997 (3 × 352) desde el inicio. Opción escalonada: 847 → 897 → 947 → 997.
+- Propuesta de horario: lunes 9–10 pm NY desde el 11 ene 2027 (8 semanas, hasta el 1 mar), sin chocar con Todo comienza contigo (mar/jue).
