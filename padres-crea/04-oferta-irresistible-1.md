@@ -58,3 +58,9 @@ Si en las primeras 4 semanas asistes o ves todas las sesiones, aplicas las rutin
 - Día y hora de la clase semanal y fecha de inicio de la 1.ª generación.
 - Fecha del mastermind oculto (propuesta: semana 6 o 7, antes del cierre, para preparar la Oferta 2).
 - Cupo máximo de la 1.ª generación (para la urgencia).
+
+## Decisión (21 nov 2026): sin cupo máximo, meta mínima 50 familias
+- Urgencia sin cupo: bono de acción rápida (30 min) · fecha de cierre de inscripciones (inicio de la generación) · bono oculto solo para quienes entran antes.
+- 50 × 847 ≈ 42,350 USD brutos ≈ 26,000–27,000 netos (35% impuestos + ~4.5% comisiones).
+- Embudo estimado (referencia de mercado, a validar con datos propios): asistencia ~30–40% de registros; compra ~5–10% de asistentes a un precio ~800 → para 50 ventas: ~500–1,000 asistentes → ~1,500–3,000 registros en total. Con ~900 seguidores, hará falta clase semanal constante, reciclar contenido, alianzas/grupos de padres y probablemente publicidad pagada.
+- Con 50 familias en vivo: sesiones de preguntas ordenadas (formulario previo), reglas de la comunidad, horario de respuesta en chat.
