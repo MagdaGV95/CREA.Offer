@@ -44,8 +44,8 @@ Si en las primeras 4 semanas asistes o ves todas las sesiones, aplicas las rutin
 ## Secuencia para revelar la oferta en la clase
 1. Recordar el problema y la promesa.
 2. "¿Qué pasaría si en 8 semanas…?" (visualizar mañanas sin pelea).
-3. Presentar el programa semana por semana.
-4. Apilar el valor elemento por elemento hasta 2,255.
+3. No presentar el programa semana por semana: solo la promesa y cómo cada elemento apoya sus rutinas diarias (mañanas, comidas, noches, transiciones).
+4. Apilar el valor elemento por elemento hasta 2,255, conectando cada uno con un momento del día.
 5. Revelar los bonos: acción rápida (30 min) y pago completo → 2,555.
 6. "No vas a invertir 2,555. Ni 1,500. Tu inversión es 847, o 3 pagos de 300."
 7. Comparar: menos de lo que cuesta una sola sesión privada por semana.
