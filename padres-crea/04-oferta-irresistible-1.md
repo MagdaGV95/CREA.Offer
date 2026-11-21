@@ -71,3 +71,19 @@ Si en las primeras 4 semanas asistes o ves todas las sesiones, aplicas las rutin
 - El mastermind "El padre que tus hijos imitan" queda en la semana 6–7 como puente a la Oferta 2.
 - Propuesta de precios (847 es el mínimo para 497 netos con ~35%): preventa 847 (3 × 300) → regular 997 (3 × 352) desde el inicio. Opción escalonada: 847 → 897 → 947 → 997.
 - Propuesta de horario: lunes 9–10 pm NY desde el 11 ene 2027 (8 semanas, hasta el 1 mar), sin chocar con Todo comienza contigo (mar/jue).
+
+## ✅ Decisiones finales (21 nov 2026)
+- **Solo orgánico** (sin publicidad pagada): Magda invierte tiempo.
+- **Enfoque único: oferta de padres.** La oferta de mujeres (Todo comienza contigo) queda en pausa.
+- **Mismas fechas y horarios** que se habían definido: clase gratuita (webinar) los **miércoles 9–10 pm NY**; programa del **11 ene al 5 mar 2027, martes y jueves 9–10 pm NY**; clases ocultas **8 y 29 dic**.
+- **Formato de cada clase:** tema + tiempo de preguntas y respuestas (ej. 40 min tema + 20 min Q&A).
+- **Precio escalonado** (3 pagos incluyen ~6% por plazos):
+| Ventana | Fechas | Contado | 3 pagos |
+|---|---|---|---|
+| Black Friday | 27–29 nov | 847 | 3 × 300 |
+| Cyber Monday | 30 nov–2 dic | 897 | 3 × 317 |
+| Diciembre | 3–19 dic | 947 | 3 × 335 |
+| Navidad | 20–26 dic | 997 | 3 × 353 |
+| Último llamado | 27 dic–10 ene | 1,047 | 3 × 370 |
+| Regular | desde 11 ene | 1,097 | 3 × 388 |
+- **Valor actualizado:** 16 clases en vivo (2/semana) 2,400 + guía de hitos 97 + consignas 47 + ritual de la comida 47 + rutinas visuales 67 + comunidad 300 + acceso de por vida 497 = 3,455 · + bonos (diagnóstico 150, seguimiento 150) = **3,755 USD**.

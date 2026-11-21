@@ -88,3 +88,5 @@ Ventaja: 9 pm es más probable que los niños ya estén dormidos que a las 8 pm.
 5. Ajustar Lidera tu Hogar (sus semanas 1–2 ya las cubre el nivel 1) y la página de venta.
 6. Bonos ocultos: clase 1 (mar 8 dic) y clase 2 (mar 29 dic), 9–10 pm NY, para quien compró antes ✅; confirmar temas.
 7. Pagos: Stripe, PayPal, Mercado Pago (ya hay cuentas).
+
+> ⏸️ **En pausa (21 nov 2026):** Magda se enfoca solo en la oferta de padres (`padres-crea/`). Las fechas y horarios de esta oferta pasan a usarse para la de padres.
